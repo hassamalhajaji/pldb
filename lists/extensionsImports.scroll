@@ -120,8 +120,8 @@ replace TABLE
   OWL|../languages/owl.html|owl|1
   Processing|../languages/processing.html|pde|1
   Org|../languages/org.html|org|1
-  Dylan|../languages/dylan.html|dylan dyl intr lid|4
   Hack|../languages/hack.html|hack hh hhi php|4
+  Dylan|../languages/dylan.html|dylan dyl intr lid|4
   Brainfuck|../languages/brainfuck.html|b bf|2
   DOT|../languages/dot.html|dot gv|2
   FLUX|../languages/flux.html|fx flux|2
@@ -559,10 +559,10 @@ replace TABLE
   JSLT|../languages/jslt.html|jslt|1
   astro|../languages/astro.html|astro|1
   Pawn|../languages/pawn-scripting-language.html|pwn inc sma p|4
+  epsilon|../languages/epsilon.html|eol|1
   TOM object-oriented|../languages/tom-oopl.html|t|1
   Grace|../languages/grace.html|grace|1
   Kit|../languages/kit.html|kit|1
-  epsilon|../languages/epsilon.html|eol|1
   Soy|../languages/soy.html|soy|1
   Groovy Server Pages|../languages/groovy-server-pages.html|gsp|1
   Augeas|../languages/augeas.html|aug|1
@@ -591,22 +591,23 @@ replace TABLE
   DataWeave|../languages/dataweave.html|dwl|1
   pointless|../languages/pointless.html|ptls|1
   Easytrieve|../languages/easytrieve.html|ezt mac|2
-  Sublime Syntax|../languages/sublime-syntax.html|sublime-syntax|1
   Promela|../languages/promela.html|pml|1
-  mint|../languages/mint.html|mint|1
   Mscgen|../languages/mscgen.html|msc|1
+  Sublime Syntax|../languages/sublime-syntax.html|sublime-syntax|1
+  mint|../languages/mint.html|mint|1
   Filterscript|../languages/filterscript.html|fs|1
   groff|../languages/groff.html|[1-9] man 1p 3pm|4
   janet|../languages/janet.html|janet|1
   crmsh|../languages/crmsh.html|crmsh pcmk|2
   HyPhy|../languages/hyphy.html|bf|1
   Scala Markup Language|../languages/scaml.html|scaml|1
-  hoon|../languages/hoon.html|hoon|1
   Boogie|../languages/boogie.html|bpl|1
+  hoon|../languages/hoon.html|hoon|1
   Kuin|../languages/kuin.html|kn|1
   CLAIRE|../languages/claire.html|cl|1
   ten|../languages/ten.html|ten|1
   Urbiscript|../languages/urbiscript.html|u|1
+  ca65 Assembly|../languages/ca65-assembly.html|s|1
   Linker Script|../languages/linker-script.html|ld lds x|3
   rbs|../languages/rbs.html|rbs|1
   Zork Implementation Language|../languages/zil.html|zil mud|2
@@ -615,7 +616,6 @@ replace TABLE
   Unity3D Asset|../languages/unity3d-asset.html|anim asset mask mat meta prefab unity|7
   ATLAS Transformation Language|../languages/atlas.html|atl|1
   4th Dimension|../languages/4th-dimension.html|4dm|1
-  ca65 Assembly|../languages/ca65-assembly.html|s|1
   FloScript|../languages/floscript.html|flo|1
   Glyph|../languages/glyph.html|glf|1
   TI-89 series|../languages/ti-89-basic.html|89p|1
@@ -625,14 +625,14 @@ replace TABLE
   Dasm|../languages/dasm.html|dasm16 dasm|2
   Gren|../languages/gren.html|gren|1
   Miva|../languages/miva.html|mv mvc mvt|3
-  X PixMap|../languages/xpm-format.html|xpm pm|2
   AmbientTalk|../languages/ambienttalk.html|at|1
+  X PixMap|../languages/xpm-format.html|xpm pm|2
+  OMG IDL|../languages/omg-idl.html|idl pidl|2
   CBOR data definition language|../languages/cddl.html|cddl|1
   Devicetree|../languages/devicetree.html|dts dtsi|2
-  OMG IDL|../languages/omg-idl.html|idl pidl|2
+  USD|../languages/usd.html|usd usda|2
   Savi|../languages/savi.html|savi|1
   git-config|../languages/git-config.html|gitconfig|1
-  USD|../languages/usd.html|usd usda|2
   SubX|../languages/subx.html|subx|1
   CheetahTemplate|../languages/cheetah.html|tmpl spt|2
   Myghty|../languages/myghty.html|myt autodelegate|2
@@ -665,14 +665,14 @@ replace TABLE
   WebAssembly Text Format|../languages/wast.html|wast|1
   Freefem|../languages/freefem.html|edp|1
   Pickle|../languages/pickle-format.html|pkl|1
-  Autoconf|../languages/autoconf.html|ac|1
-  arrow|../languages/arrow.html|arw|1
   Nasal|../languages/nasal.html|nas|1
+  Autoconf|../languages/autoconf.html|ac|1
+  Croc|../languages/croc.html|croc|1
+  arrow|../languages/arrow.html|arw|1
   ObjectScript|../languages/objectscript.html|cls|1
   Parasolid|../languages/parasolid.html|x_t x_b|2
   bag-format|../languages/bag-format.html|bag|1
   clarity|../languages/clarity.html|clar|1
-  Croc|../languages/croc.html|croc|1
   juttle|../languages/juttle.html|juttle|1
   RAISE Specification Language|../languages/rsl.html|rsl|1
   Statement List|../languages/stl.html|stl|1
