@@ -176,18 +176,18 @@ replace TABLE
   SuperCollider|../languages/supercollider.html|sc scd|2
   SPARQL|../languages/sparql.html|sparql rq|2
   LOLCODE|../languages/lolcode.html|lol|1
+  Clean|../languages/clean.html|icl dcl abc sapl|4
   SystemVerilog|../languages/systemverilog.html|sv svh vh header file|5
   SNOBOL|../languages/snobol.html|snobol|1
-  Clean|../languages/clean.html|icl dcl abc sapl|4
   Opa|../languages/opa.html|opa|1
   J|../languages/j.html|ijs|1
   QBasic|../languages/qbasic.html|BAS bas|2
   Bison|../languages/bison.html|bison|1
   Cython|../languages/cython.html|pyx pxd pxi|3
-  RobotFramework|../languages/robotframework.html|robot resource|2
   Nextflow|../languages/nextflow.html|nf|1
   JSON5|../languages/json5.html|json5|1
   Inform|../languages/inform.html|ni i7x|2
+  RobotFramework|../languages/robotframework.html|robot resource|2
   KiCad Legacy Layout|../languages/kicad.html|sch lib brd kicad_pcb kicad_wks kicad_mod|6
   CLIPS|../languages/clips.html|clp|1
   Metal|../languages/metal.html|metal|1
@@ -305,11 +305,11 @@ replace TABLE
   Nu|../languages/nu.html|nu|1
   mlir|../languages/mlir.html|mlir|1
   Ragel|../languages/ragel.html|rl|1
-  jq|../languages/jq.html|jq|1
   muPad|../languages/mupad.html|mu|1
+  jq|../languages/jq.html|jq|1
   Fennel|../languages/fennel.html|fnl|1
-  Unicon|../languages/unicon.html|icn|1
   JCL|../languages/jcl.html|jcl|1
+  Unicon|../languages/unicon.html|icn|1
   beef-lang|../languages/beef.html|bf|1
   Pure Data|../languages/puredata.html|pd|1
   PEG|../languages/peg.html|peg|1
@@ -366,11 +366,11 @@ replace TABLE
   Slope|../languages/slope.html|slo|1
   Uno|../languages/uno.html|uno|1
   Varnish Configuration Language|../languages/vcl.html|vcl|1
-  X PixMap|../languages/x-pixmap.html|xpm pm|2
+  Clarion|../languages/clarion.html|clw|1
   kaitai|../languages/kaitai.html|ksy|1
+  X PixMap|../languages/x-pixmap.html|xpm pm|2
   NetLinx|../languages/netlinx.html|axserb axierb axs axi|4
   X BitMap|../languages/x-bitmap.html|xbm|1
-  Clarion|../languages/clarion.html|clw|1
   mustache|../languages/mustache.html|mustache|1
   BBC BASIC|../languages/bbc-basic.html|bbc|1
   MQL5|../languages/mql.html|mq5 mqh mq4|3
@@ -429,9 +429,9 @@ replace TABLE
   Jasmin|../languages/jasmin.html|j|1
   Literate Agda|../languages/literate-agda.html|lagda|1
   vyper|../languages/vyper.html|vy|1
+  clay|../languages/clay.html|clay|1
   Nit|../languages/nit.html|nit|1
   Game Maker Language|../languages/game-maker-language.html|gml|1
-  clay|../languages/clay.html|clay|1
   EmberScript|../languages/emberscript.html|em emberscript|2
   Edje Data Collection|../languages/edje-data-collection.html|edc|1
   Objective C++|../languages/objective-cpp.html|mm hh|2
@@ -657,6 +657,7 @@ replace TABLE
   ASCII Armor|../languages/ascii-armor.html|asc pem id_dsa id_ecdsa id_ecdsa_sk id_ed25519 id_ed25519_sk id_rsa|8
   Snowball|../languages/snowball-programming-language.html|sbl|1
   formality|../languages/formality.html|fm|1
+  clarity|../languages/clarity.html|clar|1
   plink-ped-format|../languages/plink-ped-format.html|ped|1
   SARL|../languages/sarl.html|sarl|1
   phylip|../languages/phylip.html|phy ph|2
@@ -672,7 +673,6 @@ replace TABLE
   ObjectScript|../languages/objectscript.html|cls|1
   Parasolid|../languages/parasolid.html|x_t x_b|2
   bag-format|../languages/bag-format.html|bag|1
-  clarity|../languages/clarity.html|clar|1
   juttle|../languages/juttle.html|juttle|1
   RAISE Specification Language|../languages/rsl.html|rsl|1
   Statement List|../languages/stl.html|stl|1
