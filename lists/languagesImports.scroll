@@ -1,6 +1,6 @@
 importOnly
 replace COUNT
- 4,114
+ 4,115
 replace TABLE
  pipeTable
   title|titleLink|type|appeared|rank
@@ -4077,44 +4077,45 @@ replace TABLE
   cimfast|../languages/cimfast.html|pl|1991|4071
   CIMS PL/I|../languages/cims-pl-i.html|pl|1970|4072
   CL-I|../languages/cl-i.html|pl|1960|4073
-  D4|../languages/d4.html|queryLanguage|2001|4074
-  DARK BASIC|../languages/dark-basic.html|pl|1997|4075
-  TypeScript Type Declarations|../languages/dts.html|headerLang|2012|4076
-  EXPLAN|../languages/explan.html|pl|1994|4077
-  EXPLOR|../languages/explor.html|pl|1972|4078
-  FORTRAN assembly program|../languages/fap.html|assembly|1959|4079
-  FAR|../languages/far.html|pl|2000|4080
-  flowlog|../languages/flowlog.html|pl|2014|4081
-  Giotto|../languages/giotto.html|pl|2001|4082
-  gitignore|../languages/gitignore.html|configFormat|2005|4083
-  goedel|../languages/goedel.html|pl|1994|4084
-  hoot-smalltalk|../languages/hoot-smalltalk.html|pl|2018|4085
-  IFO|../languages/ifo.html|pl|1987|4086
-  Knowledge Acquisition and Representation Language|../languages/karl.html|pl|1993|4087
-  LISP 1.5|../languages/lisp-1-5.html|pl|1959|4088
-  Lisp Object-Oriented Programming System|../languages/loops.html|pl|1983|4089
-  MADCAP|../languages/madcap.html|pl|1960|4090
-  MAP|../languages/map.html|assembly|1960|4091
-  MSL|../languages/msl.html|pl|1977|4092
-  NAKL|../languages/nakl.html|pl|1982|4093
-  NODAL|../languages/nodal.html|pl|1972|4094
-  o2|../languages/o2.html|pl|1989|4095
-  orca|../languages/orca.html|pl|1985|4096
-  PACTOLUS|../languages/pactolus.html|pl|1964|4097
-  Petr|../languages/petr.html|pl|1999|4098
-  PT|../languages/pt.html|pl|1983|4099
-  Rapid Development and Maintenance Language|../languages/rdml.html|pl|2005|4100
-  Real-Time Mentat|../languages/real-time-mentat.html|pl|1989|4101
-  REGULUS|../languages/regulus.html|pl|1977|4102
-  RPL|../languages/relational-production-language.html|queryLanguage|1988|4103
-  SHOE|../languages/shoe.html|pl|2000|4104
-  SIL|../languages/sil.html|pl|1990|4105
-  sina|../languages/sina.html|pl|1989|4106
-  SSL|../languages/ssl.html|protocol|1994|4107
-  SURGE|../languages/surge.html|pl|1958|4108
-  taktentus|../languages/taktentus.html|esolang|2015|4109
-  Very Tiny Language|../languages/vtl.html|pl|1976|4110
-  wizml|../languages/wizml.html|pl|1997|4111
-  Wolontis-Bell Interpreter|../languages/wolontis-bell-interpreter.html|pl|1955|4112
-  xl|../languages/xl.html|pl|1977|4113
-  XQL|../languages/xql.html|queryLanguage|1999|4114
+  cuscus|../languages/cuscus.html|pl|2019|4074
+  D4|../languages/d4.html|queryLanguage|2001|4075
+  DARK BASIC|../languages/dark-basic.html|pl|1997|4076
+  TypeScript Type Declarations|../languages/dts.html|headerLang|2012|4077
+  EXPLAN|../languages/explan.html|pl|1994|4078
+  EXPLOR|../languages/explor.html|pl|1972|4079
+  FORTRAN assembly program|../languages/fap.html|assembly|1959|4080
+  FAR|../languages/far.html|pl|2000|4081
+  flowlog|../languages/flowlog.html|pl|2014|4082
+  Giotto|../languages/giotto.html|pl|2001|4083
+  gitignore|../languages/gitignore.html|configFormat|2005|4084
+  goedel|../languages/goedel.html|pl|1994|4085
+  hoot-smalltalk|../languages/hoot-smalltalk.html|pl|2018|4086
+  IFO|../languages/ifo.html|pl|1987|4087
+  Knowledge Acquisition and Representation Language|../languages/karl.html|pl|1993|4088
+  LISP 1.5|../languages/lisp-1-5.html|pl|1959|4089
+  Lisp Object-Oriented Programming System|../languages/loops.html|pl|1983|4090
+  MADCAP|../languages/madcap.html|pl|1960|4091
+  MAP|../languages/map.html|assembly|1960|4092
+  MSL|../languages/msl.html|pl|1977|4093
+  NAKL|../languages/nakl.html|pl|1982|4094
+  NODAL|../languages/nodal.html|pl|1972|4095
+  o2|../languages/o2.html|pl|1989|4096
+  orca|../languages/orca.html|pl|1985|4097
+  PACTOLUS|../languages/pactolus.html|pl|1964|4098
+  Petr|../languages/petr.html|pl|1999|4099
+  PT|../languages/pt.html|pl|1983|4100
+  Rapid Development and Maintenance Language|../languages/rdml.html|pl|2005|4101
+  Real-Time Mentat|../languages/real-time-mentat.html|pl|1989|4102
+  REGULUS|../languages/regulus.html|pl|1977|4103
+  RPL|../languages/relational-production-language.html|queryLanguage|1988|4104
+  SHOE|../languages/shoe.html|pl|2000|4105
+  SIL|../languages/sil.html|pl|1990|4106
+  sina|../languages/sina.html|pl|1989|4107
+  SSL|../languages/ssl.html|protocol|1994|4108
+  SURGE|../languages/surge.html|pl|1958|4109
+  taktentus|../languages/taktentus.html|esolang|2015|4110
+  Very Tiny Language|../languages/vtl.html|pl|1976|4111
+  wizml|../languages/wizml.html|pl|1997|4112
+  Wolontis-Bell Interpreter|../languages/wolontis-bell-interpreter.html|pl|1955|4113
+  xl|../languages/xl.html|pl|1977|4114
+  XQL|../languages/xql.html|queryLanguage|1999|4115
