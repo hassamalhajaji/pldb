@@ -35,8 +35,8 @@ replace TABLE
   Prolog|../languages/prolog.html|pl pro P prolog yap ecl|6
   PowerShell|../languages/powershell.html|ps1 psd1 psm1|3
   Objective-C|../languages/objective-c.html|h m mm C|4
-  Kotlin|../languages/kotlin.html|kt kts ktm|3
   Clojure|../languages/clojure.html|clj cljs cljc edn bb boot cl2 cljshl cljscm cljx hic|11
+  Kotlin|../languages/kotlin.html|kt kts ktm|3
   Erlang|../languages/erlang.html|erl hrl appsrc es escript xrl yrl|7
   Julia|../languages/julia.html|jl|1
   Elixir|../languages/elixir.html|ex exs eex|3
@@ -143,8 +143,8 @@ replace TABLE
   x86 Assembly|../languages/x86-assembly.html|s ms|2
   MoonScript|../languages/moonscript.html|moon|1
   Jison|../languages/jison.html|jison|1
-  Vala|../languages/vala.html|vala vapi|2
   Terra|../languages/terra.html|t|1
+  Vala|../languages/vala.html|vala vapi|2
   Squirrel|../languages/squirrel.html|nut|1
   Ballerina|../languages/ballerina.html|bal|1
   TOML|../languages/toml.html|toml Pipfile poetry.lock|3
@@ -191,10 +191,10 @@ replace TABLE
   KiCad Legacy Layout|../languages/kicad.html|sch lib brd kicad_pcb kicad_wks kicad_mod|6
   CLIPS|../languages/clips.html|clp|1
   Metal|../languages/metal.html|metal|1
+  CMake|../languages/cmake.html|cmake cmakein CMakeLists.txt|3
   Stata|../languages/stata.html|do ado doh ihlp mata matah sthlp|7
   reStructuredText|../languages/restructuredtext.html|rst rest resttxt rsttxt|4
   EDN|../languages/edn.html|edn|1
-  CMake|../languages/cmake.html|cmake cmakein CMakeLists.txt|3
   Self|../languages/self.html|self|1
   NumPy|../languages/numpy.html|numpy numpyw numsc|3
   Multi-User Forth|../languages/muf.html|muf m|2
@@ -210,6 +210,7 @@ replace TABLE
   Sass|../languages/sass.html|sass scss|2
   ATS|../languages/ats.html|dats hats sats|3
   Turtle|../languages/turtle.html|ttl|1
+  ClojureScript|../languages/clojurescript.html|cljs|1
   Perl 6|../languages/perl-6.html|6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t|11
   Csound|../languages/csound.html|csd sco orc udo|4
   Xojo|../languages/xojo.html|xojo_code xojo_menu xojo_report xojo_script xojo_toolbar xojo_window|6
@@ -218,9 +219,8 @@ replace TABLE
   Factor|../languages/factor.html|factor|1
   Gnuplot|../languages/gnuplot.html|gp gnu gnuplot p plot plt|6
   Wavefront Object|../languages/wavefront-object.html|obj|1
-  odin|../languages/odin.html|odin|1
   FoxPRO|../languages/foxpro.html|PRG prg|2
-  ClojureScript|../languages/clojurescript.html|cljs|1
+  odin|../languages/odin.html|odin|1
   Wren|../languages/wren.html|wren|1
   YARA|../languages/yara.html|yar yara|2
   PL/pgSQL|../languages/plpgsql.html|pgsql sql|2
@@ -268,9 +268,9 @@ replace TABLE
   wisp|../languages/wisp.html|wisp|1
   Genie|../languages/genie.html|gs|1
   Maxima|../languages/maxima.html|mac max|2
-  Falcon|../languages/falcon.html|ftd fal fam|3
   ASN.1|../languages/asn-1.html|asn asn1|2
   Classroom Object Oriented Language|../languages/cool.html|cl|1
+  Falcon|../languages/falcon.html|ftd fal fam|3
   Transact-SQL|../languages/transact-sql.html|sql|1
   YASnippet|../languages/yasnippet.html|yasnippet|1
   Netwide Assembler|../languages/nasm.html|asm ASM|2
@@ -314,16 +314,16 @@ replace TABLE
   Pure Data|../languages/puredata.html|pd|1
   PEG|../languages/peg.html|peg|1
   Gerber Image|../languages/gerber-image.html|gbr cmp gbl gbo gbp gbs gko gml gpb gpt gtl gto gtp gts ncl sol|16
+  Closure Templates|../languages/closure-templates.html|soy|1
   HLSL|../languages/hlsl.html|hlsl cginc fx fxh hlsli|5
   Ring|../languages/ring.html|ring rh rform|3
   XSLT|../languages/xslt.html|xslt xsl xpl|3
   WDL|../languages/wdl.html|wdl|1
   Hierarchical Data Format|../languages/hdf.html|hdf h4 hdf4 he2 h5 hdf5 he5|7
-  SIL|../languages/swift-il.html|sil|1
   Augmented Backus-Naur Form|../languages/abnf.html|abnf|1
+  SIL|../languages/swift-il.html|sil|1
   Dogescript|../languages/dogescript.html|djs|1
   CWL|../languages/common-workflow-language.html|cwl|1
-  Closure Templates|../languages/closure-templates.html|soy|1
   NL|../languages/nl.html|nl|1
   SourcePawn|../languages/sourcepawn.html|sp inc|2
   Gosu|../languages/gosu.html|gs gsp gst gsx vark|5
