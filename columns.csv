@@ -15,9 +15,9 @@ Index,Column,Values,Coverage,Example,Description,Source,SourceLink,Definition,De
 14,githubBigQuery.repos,421,9%,1,How many repos for this language are listed in Google's BigQuery Public GitHub Dataset snapshot.,,,githubBigQuery.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubBigQuery.grammar#L13
 15,creators,876,19%,Niklaus Wirth,"Name(s) of the original creators of the language delimited by "" and """,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L3
 16,githubRepo,784,17%,https://github.com/breck7/note,URL of the official GitHub repo for the project if it hosted there.,github.com,https://github.com,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L1
-17,website,1401,30%,http://berkin.me/rant,URL of the official homepage for the language project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L1
+17,website,1404,30%,http://berkin.me/rant,URL of the official homepage for the language project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L1
 18,wikipedia,1904,40%,https://en.wikipedia.org/wiki/Apache_Velocity,"URL of the entity on Wikipedia, if and only if it has a page dedicated to it.",wikipedia.org,https://wikipedia.org,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L2
-19,hopl,4729,100%,1664502283000,The matching language on Diarmuid Pigott's Online Historical Encyclopaedia of Programming Languages site (https://hopl.info/),hopl.info,https://hopl.info,hopl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/hopl.grammar#L1
+19,hopl,4729,100%,1664525022000,The matching language on Diarmuid Pigott's Online Historical Encyclopaedia of Programming Languages site (https://hopl.info/),hopl.info,https://hopl.info,hopl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/hopl.grammar#L1
 20,centralPackageRepositoryCount,3032,64%,0,"If you've searched for a CPM for this language and can't find one, set 0 as the count.",,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L6
 21,reference,2021,43%,https://github.com/andrejbauer/plzoo,"A link to more info about this entity. You can add raw links and then auto ""upgrade"" them using some of the importer code.",,,reference.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/reference.grammar#L1
 22,hoplId,1815,38%,1681,computed,,,A computed value,
@@ -33,9 +33,9 @@ Index,Column,Values,Coverage,Example,Description,Source,SourceLink,Definition,De
 32,isbndb,1092,23%,0,Books about this language from ISBNdb.,isbndb.com,https://isbndb.com,isbndb.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/isbndb.grammar#L1
 33,description,894,19%,A nsfw esolang.,Description of the repo on GitHub.,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L41
 34,domainName,865,18%,wiki.xxiivv.com,If the project website is on its own domain.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L12
-35,originCommunity,800,17%,Microsoft,In what community(ies) did the language first originate?,,,originCommunity.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/originCommunity.grammar#L1
+35,originCommunity,818,17%,Microsoft,In what community(ies) did the language first originate?,,,originCommunity.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/originCommunity.grammar#L1
 36,semanticScholar,760,16%,0,Papers about this language from Semantic Scholar.,semanticscholar.org,https://semanticscholar.org,semanticScholar.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/semanticScholar.grammar#L1
-37,country,739,16%,United States,What country was the language first developed in?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L45
+37,country,756,16%,United States,What country was the language first developed in?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L45
 38,githubRepo.updated,714,15%,2022,What year was the last commit made?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L14
 39,githubRepo.created,714,15%,2015,When was the *Github repo* for this entity created?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L10
 40,githubRepo.subscribers,714,15%,1,How many subscribers to the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L25

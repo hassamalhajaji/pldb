@@ -199,8 +199,8 @@ replace TABLE
   NumPy|../languages/numpy.html|numpy numpyw numsc|3
   Multi-User Forth|../languages/muf.html|muf m|2
   Click|../languages/click.html|click|1
-  API Blueprint|../languages/api-blueprint.html|apib|1
   HCL|../languages/hcl.html|hcl nomad tf tfvars workflow|5
+  API Blueprint|../languages/api-blueprint.html|apib|1
   YANG|../languages/yang.html|yang|1
   Isabelle|../languages/isabelle.html|ROOT thy|2
   Pike|../languages/pike.html|pike pmod|2
@@ -211,8 +211,8 @@ replace TABLE
   ATS|../languages/ats.html|dats hats sats|3
   Turtle|../languages/turtle.html|ttl|1
   ClojureScript|../languages/clojurescript.html|cljs|1
-  Perl 6|../languages/perl-6.html|6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t|11
   Csound|../languages/csound.html|csd sco orc udo|4
+  Perl 6|../languages/perl-6.html|6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t|11
   Xojo|../languages/xojo.html|xojo_code xojo_menu xojo_report xojo_script xojo_toolbar xojo_window|6
   NetLogo|../languages/netlogo.html|nlogo nlogo3d nls|3
   Lex|../languages/lex.html|l lex|2
@@ -248,9 +248,9 @@ replace TABLE
   Objective-J|../languages/objective-j.html|j sj|2
   Ninja|../languages/ninja.html|ninja|1
   Wolfram Language|../languages/wolfram.html|nb m wl|3
-  PEG.js|../languages/pegjs.html|pegjs|1
   Puppet|../languages/puppet.html|pp|1
   Q|../languages/q.html|q|1
+  PEG.js|../languages/pegjs.html|pegjs|1
   Bicep|../languages/bicep.html|bicep|1
   Seed7|../languages/seed7.html|sd7 s7i|2
   Befunge|../languages/befunge.html|befunge|1
@@ -322,8 +322,8 @@ replace TABLE
   Hierarchical Data Format|../languages/hdf.html|hdf h4 hdf4 he2 h5 hdf5 he5|7
   Augmented Backus-Naur Form|../languages/abnf.html|abnf|1
   SIL|../languages/swift-il.html|sil|1
-  Dogescript|../languages/dogescript.html|djs|1
   CWL|../languages/common-workflow-language.html|cwl|1
+  Dogescript|../languages/dogescript.html|djs|1
   NL|../languages/nl.html|nl|1
   SourcePawn|../languages/sourcepawn.html|sp inc|2
   Gosu|../languages/gosu.html|gs gsp gst gsx vark|5
@@ -372,8 +372,8 @@ replace TABLE
   NetLinx|../languages/netlinx.html|axserb axierb axs axi|4
   X BitMap|../languages/x-bitmap.html|xbm|1
   mustache|../languages/mustache.html|mustache|1
-  BBC BASIC|../languages/bbc-basic.html|bbc|1
   MQL5|../languages/mql.html|mq5 mqh mq4|3
+  BBC BASIC|../languages/bbc-basic.html|bbc|1
   Shapefile|../languages/shapefile.html|shp shx dbf|3
   FIGlet Font|../languages/figlet-font.html|flf|1
   Textile|../languages/textile.html|textile|1
@@ -387,6 +387,7 @@ replace TABLE
   Literate CoffeeScript|../languages/literate-coffeescript.html|litcoffee coffeemd|2
   QMake|../languages/qmake.html|pro pri|2
   XProc|../languages/xproc.html|xpl xproc|2
+  Cobra|../languages/cobra.html|cobra|1
   Apex|../languages/apex.html|cls|1
   CoNLL-U|../languages/conll-u.html|conllu conll|2
   Filebench WML|../languages/filebench-wml.html|f|1
@@ -397,7 +398,6 @@ replace TABLE
   GNU Assembler|../languages/gas.html|s S|2
   DIGITAL Command Language|../languages/digital-command-language.html|com|1
   Linden Scripting Language|../languages/lsl.html|lsl lslp|2
-  Cobra|../languages/cobra.html|cobra|1
   TSV|../languages/tsv.html|tsv|1
   GDScript|../languages/gdscript.html|gd|1
   Creole|../languages/creole.html|creole|1
@@ -560,10 +560,10 @@ replace TABLE
   astro|../languages/astro.html|astro|1
   Pawn|../languages/pawn-scripting-language.html|pwn inc sma p|4
   epsilon|../languages/epsilon.html|eol|1
-  TOM object-oriented|../languages/tom-oopl.html|t|1
   Grace|../languages/grace.html|grace|1
   Kit|../languages/kit.html|kit|1
   Soy|../languages/soy.html|soy|1
+  TOM object-oriented|../languages/tom-oopl.html|t|1
   Groovy Server Pages|../languages/groovy-server-pages.html|gsp|1
   Augeas|../languages/augeas.html|aug|1
   Aheui|../languages/aheui.html|aheui|1
