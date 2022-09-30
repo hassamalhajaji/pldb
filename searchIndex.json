@@ -1405,14 +1405,14 @@
     "id": "edn"
   },
   {
-    "label": "Self",
-    "appeared": "1987",
-    "id": "self"
-  },
-  {
     "label": "NumPy",
     "appeared": "1995",
     "id": "numpy"
+  },
+  {
+    "label": "Self",
+    "appeared": "1987",
+    "id": "self"
   },
   {
     "label": "Gzip",
@@ -4510,14 +4510,14 @@
     "id": "xcard"
   },
   {
-    "label": "Stan",
-    "appeared": "2012",
-    "id": "stan"
-  },
-  {
     "label": "Whiley",
     "appeared": "2009",
     "id": "whiley"
+  },
+  {
+    "label": "Stan",
+    "appeared": "2012",
+    "id": "stan"
   },
   {
     "label": "gleam",
@@ -5417,6 +5417,11 @@
     "id": "roy"
   },
   {
+    "label": "EGL",
+    "appeared": "2008",
+    "id": "egl"
+  },
+  {
     "label": "pasukon",
     "appeared": "2020",
     "id": "pasukon"
@@ -5467,24 +5472,19 @@
     "id": "nesc"
   },
   {
+    "label": "Increment and decrement operators",
+    "appeared": "1969",
+    "id": "increment-and-decrement-operators-feature"
+  },
+  {
     "label": "M4Sugar",
     "appeared": "2003",
     "id": "m4sugar"
   },
   {
-    "label": "EGL",
-    "appeared": "2008",
-    "id": "egl"
-  },
-  {
     "label": "llhd",
     "appeared": "2016",
     "id": "llhd"
-  },
-  {
-    "label": "Increment and decrement operators",
-    "appeared": "1969",
-    "id": "increment-and-decrement-operators-feature"
   },
   {
     "label": "IBM 1620",
