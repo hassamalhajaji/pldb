@@ -284,9 +284,9 @@ replace TABLE
   starlark|../languages/starlark.html|bzl star|2
   Bluespec|../languages/bluespec.html|bsv|1
   Latte|../languages/latte.html|latte|1
-  Stylus|../languages/stylus.html|styl|1
   JFlex|../languages/jflex.html|flex jflex|2
   K|../languages/k.html|k|1
+  Stylus|../languages/stylus.html|styl|1
   DTD|../languages/dtd.html|dtd|1
   AspectJ|../languages/aspectj.html|aj|1
   RMarkdown|../languages/rmarkdown.html|rmd qmd|2
@@ -316,13 +316,13 @@ replace TABLE
   Gerber Image|../languages/gerber-image.html|gbr cmp gbl gbo gbp gbs gko gml gpb gpt gtl gto gtp gts ncl sol|16
   Closure Templates|../languages/closure-templates.html|soy|1
   HLSL|../languages/hlsl.html|hlsl cginc fx fxh hlsli|5
+  CWL|../languages/common-workflow-language.html|cwl|1
   Ring|../languages/ring.html|ring rh rform|3
   XSLT|../languages/xslt.html|xslt xsl xpl|3
   WDL|../languages/wdl.html|wdl|1
   Hierarchical Data Format|../languages/hdf.html|hdf h4 hdf4 he2 h5 hdf5 he5|7
   Augmented Backus-Naur Form|../languages/abnf.html|abnf|1
   SIL|../languages/swift-il.html|sil|1
-  CWL|../languages/common-workflow-language.html|cwl|1
   Dogescript|../languages/dogescript.html|djs|1
   NL|../languages/nl.html|nl|1
   SourcePawn|../languages/sourcepawn.html|sp inc|2
@@ -386,9 +386,9 @@ replace TABLE
   Volt|../languages/volt.html|volt|1
   Literate CoffeeScript|../languages/literate-coffeescript.html|litcoffee coffeemd|2
   QMake|../languages/qmake.html|pro pri|2
+  Apex|../languages/apex.html|cls|1
   XProc|../languages/xproc.html|xpl xproc|2
   Cobra|../languages/cobra.html|cobra|1
-  Apex|../languages/apex.html|cls|1
   CoNLL-U|../languages/conll-u.html|conllu conll|2
   Filebench WML|../languages/filebench-wml.html|f|1
   Asymptote|../languages/asymptote.html|asy|1
@@ -478,10 +478,10 @@ replace TABLE
   Windows Registry Entries|../languages/windows-registry-entries.html|reg|1
   desktop|../languages/desktop.html|desktop desktopin service|3
   MOO|../languages/moo.html|moo|1
+  ColdFusion Components|../languages/coldfusion-components.html|cfc|1
   Jolie|../languages/jolie.html|ol iol|2
   Blade|../languages/blade.html|blade bladephp|2
   RPM Spec|../languages/rpm-spec.html|spec|1
-  ColdFusion Components|../languages/coldfusion-components.html|cfc|1
   Parrot Assembly|../languages/parrot-assembly.html|pasm|1
   Smiles|../languages/smiles-format.html|smi|1
   XC|../languages/xc.html|xc|1
