@@ -91,9 +91,9 @@ replace TABLE
   PureBasic|../languages/purebasic.html|pb pbi|2
   Chapel|../languages/chapel.html|chpl|1
   Markdown|../languages/markdown.html|md livemd markdown mdown mdwn mdx mkd mkdn mkdown ronn scd workbook|12
-  ANTLR|../languages/antlr.html|g4|1
   WebAssembly|../languages/wasm.html|wasm wast wat|3
   Red|../languages/red.html|red reds|2
+  ANTLR|../languages/antlr.html|g4|1
   LLVM IR|../languages/llvmir.html|ll|1
   Haxe|../languages/haxe.html|hx hxml hxsl|3
   Oz|../languages/oz.html|oz|1
@@ -120,8 +120,8 @@ replace TABLE
   OWL|../languages/owl.html|owl|1
   Processing|../languages/processing.html|pde|1
   Org|../languages/org.html|org|1
-  Hack|../languages/hack.html|hack hh hhi php|4
   Dylan|../languages/dylan.html|dylan dyl intr lid|4
+  Hack|../languages/hack.html|hack hh hhi php|4
   Brainfuck|../languages/brainfuck.html|b bf|2
   DOT|../languages/dot.html|dot gv|2
   FLUX|../languages/flux.html|fx flux|2
@@ -133,9 +133,9 @@ replace TABLE
   HAML|../languages/haml.html|haml hamldeface|2
   MUMPS|../languages/mumps.html|mumps m|2
   Jinja|../languages/jinja.html|jinja j2 jinja2|3
+  Coq|../languages/coq.html|coq v|2
   ColdFusion|../languages/coldfusion.html|cfm cfml|2
   Emacs Lisp|../languages/emacs-lisp.html|el emacs emacsdesktop elc|4
-  Coq|../languages/coq.html|coq v|2
   Monkey|../languages/monkey.html|monkey monkey2|2
   AutoIt|../languages/autoit.html|au3|1
   ABAP|../languages/abap.html|abap ABAP|2
@@ -146,8 +146,8 @@ replace TABLE
   Terra|../languages/terra.html|t|1
   Vala|../languages/vala.html|vala vapi|2
   Squirrel|../languages/squirrel.html|nut|1
-  Ballerina|../languages/ballerina.html|bal|1
   TOML|../languages/toml.html|toml Pipfile poetry.lock|3
+  Ballerina|../languages/ballerina.html|bal|1
   Zig|../languages/zig.html|zig|1
   Icon|../languages/icon.html|icon ICON|2
   X10|../languages/x10.html|x10|1
@@ -267,9 +267,9 @@ replace TABLE
   Thrift|../languages/thrift.html|thrift|1
   wisp|../languages/wisp.html|wisp|1
   Genie|../languages/genie.html|gs|1
+  Classroom Object Oriented Language|../languages/cool.html|cl|1
   Maxima|../languages/maxima.html|mac max|2
   ASN.1|../languages/asn-1.html|asn asn1|2
-  Classroom Object Oriented Language|../languages/cool.html|cl|1
   Falcon|../languages/falcon.html|ftd fal fam|3
   Transact-SQL|../languages/transact-sql.html|sql|1
   YASnippet|../languages/yasnippet.html|yasnippet|1
@@ -348,8 +348,8 @@ replace TABLE
   RUNOFF|../languages/runoff.html|rnh rno|2
   CWEB|../languages/cweb.html|w|1
   CSV|../languages/csv.html|csv|1
-  CodeQL|../languages/codeql.html|ql qll|2
   Jule|../languages/x.html|.jule|1
+  CodeQL|../languages/codeql.html|ql qll|2
   PAWN|../languages/pawn.html|pwn inc|2
   Pony|../languages/pony.html|pony|1
   SubRip Text|../languages/subrip-text.html|srt|1
@@ -372,9 +372,9 @@ replace TABLE
   NetLinx|../languages/netlinx.html|axserb axierb axs axi|4
   X BitMap|../languages/x-bitmap.html|xbm|1
   mustache|../languages/mustache.html|mustache|1
-  MQL5|../languages/mql.html|mq5 mqh mq4|3
   BBC BASIC|../languages/bbc-basic.html|bbc|1
   Shapefile|../languages/shapefile.html|shp shx dbf|3
+  MQL5|../languages/mql.html|mq5 mqh mq4|3
   FIGlet Font|../languages/figlet-font.html|flf|1
   Textile|../languages/textile.html|textile|1
   chaiscript|../languages/chaiscript.html|chai|1
@@ -426,9 +426,9 @@ replace TABLE
   Yorick|../languages/yorick.html|i|1
   ooc|../languages/ooc.html|ooc|1
   RenderScript|../languages/renderscript.html|rs rsh|2
+  vyper|../languages/vyper.html|vy|1
   Jasmin|../languages/jasmin.html|j|1
   Literate Agda|../languages/literate-agda.html|lagda|1
-  vyper|../languages/vyper.html|vy|1
   clay|../languages/clay.html|clay|1
   Nit|../languages/nit.html|nit|1
   Game Maker Language|../languages/game-maker-language.html|gml|1
