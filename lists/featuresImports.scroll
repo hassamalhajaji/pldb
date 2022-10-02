@@ -28,10 +28,10 @@ replace TABLE
   Exceptions|../languages/exceptions-feature.html|throw new Error("PLDB uh oh")|21|0|-
   Pointers|../languages/pointers-feature.html|int *pldb|18|4|-
   Directives|../languages/directives-feature.html|use strict;|18|0|-
+  Inheritance|../languages/inheritance-feature.html|class PLDBFile extends File|16|0|-
   Garbage Collection|../languages/garbage-collection-feature.html|var iDontNeedToFreeThis|16|7|-
   Case Sensitivity|../languages/case-sensitivity-feature.html|pldb != PLDB|16|8|-
   Access Modifiers|../languages/access-modifiers-feature.html|class PLDBFile { public title }|15|1|-
-  Inheritance|../languages/inheritance-feature.html|class PLDBFile extends File|14|0|-
   Scientific Notation|../languages/scientific-notation-feature.html|8076686.6e1|13|0|-
   Multiple Inheritance|../languages/multiple-inheritance-feature.html|extends parentWhichExtendsSomethingElse|13|1|-
   Macros|../languages/macros-feature.html|#define pldbItems 4000|13|3|-
