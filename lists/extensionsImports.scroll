@@ -39,8 +39,8 @@ replace TABLE
   Kotlin|../languages/kotlin.html|kt kts ktm|3
   Erlang|../languages/erlang.html|erl hrl appsrc es escript xrl yrl|7
   Julia|../languages/julia.html|jl|1
-  Elixir|../languages/elixir.html|ex exs eex|3
   Mathematica|../languages/mathematica.html|mathematica cdf m ma mt nb nbp wl wlt|9
+  Elixir|../languages/elixir.html|ex exs eex|3
   Modula-2|../languages/modula-2.html|mod m2 def MOD DEF mi md|7
   CUDA|../languages/cuda.html|cu cuh|2
   Scheme|../languages/scheme.html|scm ss sch sld sls sps |7
@@ -283,9 +283,9 @@ replace TABLE
   EML|../languages/mbox.html|eml mbox|2
   starlark|../languages/starlark.html|bzl star|2
   Bluespec|../languages/bluespec.html|bsv|1
-  Latte|../languages/latte.html|latte|1
   K|../languages/k.html|k|1
   Stylus|../languages/stylus.html|styl|1
+  Latte|../languages/latte.html|latte|1
   JFlex|../languages/jflex.html|flex jflex|2
   DTD|../languages/dtd.html|dtd|1
   RMarkdown|../languages/rmarkdown.html|rmd qmd|2
@@ -296,9 +296,9 @@ replace TABLE
   TXL|../languages/txl.html|txl|1
   Parrot|../languages/parrot-vm.html|parrot|1
   DTrace|../languages/dtrace.html|d|1
-  Max|../languages/max.html|maxpat maxhelp maxproj mxt pat|5
   Smarty|../languages/smarty.html|tpl|1
   Graph Modeling Language|../languages/graph-modeling-language.html|gml|1
+  Max|../languages/max.html|maxpat maxhelp maxproj mxt pat|5
   Xtend|../languages/xtend.html|xtend|1
   Slash|../languages/slash.html|sl sla|2
   Diff|../languages/diff.html|diff patch|2
@@ -313,14 +313,14 @@ replace TABLE
   Fennel|../languages/fennel.html|fnl|1
   Pure Data|../languages/puredata.html|pd|1
   beef-lang|../languages/beef.html|bf|1
-  PEG|../languages/peg.html|peg|1
   HLSL|../languages/hlsl.html|hlsl cginc fx fxh hlsli|5
+  PEG|../languages/peg.html|peg|1
   Gerber Image|../languages/gerber-image.html|gbr cmp gbl gbo gbp gbs gko gml gpb gpt gtl gto gtp gts ncl sol|16
   Closure Templates|../languages/closure-templates.html|soy|1
   Ring|../languages/ring.html|ring rh rform|3
   XSLT|../languages/xslt.html|xslt xsl xpl|3
-  CWL|../languages/common-workflow-language.html|cwl|1
   SIL|../languages/swift-il.html|sil|1
+  CWL|../languages/common-workflow-language.html|cwl|1
   WDL|../languages/wdl.html|wdl|1
   Hierarchical Data Format|../languages/hdf.html|hdf h4 hdf4 he2 h5 hdf5 he5|7
   NL|../languages/nl.html|nl|1
@@ -335,8 +335,8 @@ replace TABLE
   Ren'Py|../languages/renpy.html|rpy|1
   Curry|../languages/curry.html|curry|1
   Java Properties|../languages/java-properties.html|properties|1
-  Xtext|../languages/xtext.html|xtext|1
   Inno Setup|../languages/inno-setup.html|iss isl|2
+  Xtext|../languages/xtext.html|xtext|1
   LilyPond|../languages/lilypond.html|ly ily|2
   Eagle|../languages/eagle.html|sch brd|2
   IGOR Pro|../languages/igor-pro.html|ipf|1
@@ -396,8 +396,8 @@ replace TABLE
   GNU Assembler|../languages/gas.html|s S|2
   DIGITAL Command Language|../languages/digital-command-language.html|com|1
   DNS Zone|../languages/zone.html|zone arpa|2
-  Filebench WML|../languages/filebench-wml.html|f|1
   Linden Scripting Language|../languages/lsl.html|lsl lslp|2
+  Filebench WML|../languages/filebench-wml.html|f|1
   GDScript|../languages/gdscript.html|gd|1
   TSV|../languages/tsv.html|tsv|1
   Eclipse Command Language|../languages/eclipse-command-language.html|ecl|1
@@ -419,8 +419,8 @@ replace TABLE
   IcedCoffeeScript|../languages/icedcoffeescript.html|coffee|1
   BlitzMax|../languages/blitzmax.html|bmx|1
   Mu|../languages/mu.html|mu|1
-  Gettext Catalog|../languages/gettext.html|po pot|2
   CartoCSS|../languages/cartocss.html|mss|1
+  Gettext Catalog|../languages/gettext.html|po pot|2
   Mask|../languages/maskjs.html|mask|1
   Omgrofl|../languages/omgrofl.html|omgrofl|1
   Yorick|../languages/yorick.html|i|1
@@ -452,8 +452,8 @@ replace TABLE
   Ch|../languages/chuck.html|ck|1
   Golo|../languages/golo.html|golo|1
   Shen|../languages/shen.html|shen|1
-  Fancy|../languages/fancy.html|fy fancypack|2
   Brightscript|../languages/roku-brightscript.html|brs|1
+  Fancy|../languages/fancy.html|fy fancypack|2
   WebIDL|../languages/web-idl.html|webidl|1
   SCSS|../languages/scss.html|sass scss|2
   GraphIt|../languages/graph-it.html|gt|1
@@ -489,8 +489,8 @@ replace TABLE
   M4Sugar|../languages/m4sugar.html|m4|1
   Programming Language for Business|../languages/plb.html|rl ps cb|3
   XC|../languages/xc.html|xc|1
-  network embedded systems C|../languages/nesc.html|nc|1
   Opal|../languages/opal.html|opal|1
+  network embedded systems C|../languages/nesc.html|nc|1
   Xgboost|../languages/xgboost-model.html|model|1
   HiveQL|../languages/hiveql.html|q hql|2
   Jison Lex|../languages/jison-lex.html|jisonlex|1
@@ -498,9 +498,9 @@ replace TABLE
   Molfile|../languages/molfile-format.html|mol|1
   Object Rexx|../languages/object-rexx.html|rxs rex|2
   Sweave|../languages/sweave.html|rnw|1
-  Lux|../languages/lux.html|lux|1
   Cypher Query Language|../languages/cypher.html|cyp cypher|2
   MXML|../languages/mxml.html|mxml|1
+  Lux|../languages/lux.html|lux|1
   TAP|../languages/tap.html|tap|1
   Spline Font Database|../languages/spline-font-database.html|sfd|1
   EEX|../languages/eex.html|eex htmlheex htmlleex|3
@@ -546,11 +546,11 @@ replace TABLE
   Zimpl|../languages/zimpl.html|zimpl zmpl zpl|3
   Redcode|../languages/redcode.html|cw|1
   Snap!|../languages/snap.html|ypr ysp xml|3
-  Egison|../languages/egison.html|egi|1
   Cirru|../languages/cirru.html|cirru|1
   Boron|../languages/boron.html|b sb|2
   Ren|../languages/ren-notation.html|ren|1
   holyc|../languages/holyc.html|hc|1
+  Egison|../languages/egison.html|egi|1
   Adobe Font Metrics|../languages/adobe-font-metrics.html|afm|1
   NWScript|../languages/nwscript.html|nss|1
   Genero Business Development Language|../languages/genero.html|4gl|1
