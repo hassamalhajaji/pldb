@@ -6037,6 +6037,11 @@
     "id": "smartsheet-app"
   },
   {
+    "label": "CORAL",
+    "appeared": "1964",
+    "id": "coral"
+  },
+  {
     "label": "I-expressions",
     "appeared": "2003",
     "id": "i-expressions"
@@ -6296,16 +6301,6 @@
     "id": "fhir"
   },
   {
-    "label": "CMS-2",
-    "appeared": "1968",
-    "id": "cms-2"
-  },
-  {
-    "label": "SISAL",
-    "appeared": "1983",
-    "id": "sisal"
-  },
-  {
     "label": "INTELLECT",
     "appeared": "1977",
     "id": "intellect"
@@ -6324,6 +6319,16 @@
     "label": "Grammatical Framework",
     "appeared": "1998",
     "id": "grammatical-framework"
+  },
+  {
+    "label": "CMS-2",
+    "appeared": "1968",
+    "id": "cms-2"
+  },
+  {
+    "label": "SISAL",
+    "appeared": "1983",
+    "id": "sisal"
   },
   {
     "label": "Gerbil Scheme",
@@ -6451,6 +6456,11 @@
     "id": "babylonian-numerals"
   },
   {
+    "label": "COWSEL",
+    "appeared": "1964",
+    "id": "cowsel"
+  },
+  {
     "label": "Etoys",
     "appeared": "1996",
     "id": "etoys"
@@ -6544,11 +6554,6 @@
     "label": "bloom",
     "appeared": "2010",
     "id": "bloom"
-  },
-  {
-    "label": "CORAL",
-    "appeared": "1964",
-    "id": "coral"
   },
   {
     "label": "APT Debian",
@@ -6704,19 +6709,14 @@
     "id": "muon"
   },
   {
-    "label": "Scribe",
-    "appeared": "1980",
-    "id": "scribe"
-  },
-  {
-    "label": "COWSEL",
-    "appeared": "1964",
-    "id": "cowsel"
-  },
-  {
     "label": "OCL",
     "appeared": "1997",
     "id": "ocl"
+  },
+  {
+    "label": "Scribe",
+    "appeared": "1980",
+    "id": "scribe"
   },
   {
     "label": "Flavors",
@@ -6952,6 +6952,11 @@
     "id": "tsquery"
   },
   {
+    "label": "Linda",
+    "appeared": "1986",
+    "id": "linda"
+  },
+  {
     "label": "OPS5",
     "appeared": "1977",
     "id": "ops5"
@@ -6960,11 +6965,6 @@
     "label": "Liberty BASIC",
     "appeared": "1992",
     "id": "liberty-basic"
-  },
-  {
-    "label": "Linda",
-    "appeared": "1986",
-    "id": "linda"
   },
   {
     "label": "NixOS",
@@ -7241,11 +7241,6 @@
     "id": "xpl"
   },
   {
-    "label": "POP-2",
-    "appeared": "1967",
-    "id": "pop-2"
-  },
-  {
     "label": "Coco/R",
     "appeared": "1990",
     "id": "coco-r"
@@ -7259,6 +7254,11 @@
     "label": "CHIP-8",
     "appeared": "1970",
     "id": "chip-8"
+  },
+  {
+    "label": "POP-2",
+    "appeared": "1967",
+    "id": "pop-2"
   },
   {
     "label": "Union Types",
@@ -7350,16 +7350,6 @@
     "id": "partiql"
   },
   {
-    "label": "Strongtalk",
-    "appeared": "1994",
-    "id": "strongtalk"
-  },
-  {
-    "label": "Tree Notation",
-    "appeared": "2017",
-    "id": "treenotation"
-  },
-  {
     "label": "Groovy Server Pages",
     "appeared": "2008",
     "id": "groovy-server-pages"
@@ -7398,6 +7388,16 @@
     "label": "HMMM",
     "appeared": "2006",
     "id": "hmmm"
+  },
+  {
+    "label": "Strongtalk",
+    "appeared": "1994",
+    "id": "strongtalk"
+  },
+  {
+    "label": "Tree Notation",
+    "appeared": "2017",
+    "id": "treenotation"
   },
   {
     "label": "Newsqueak",
@@ -7565,6 +7565,16 @@
     "id": "hazel"
   },
   {
+    "label": "RubyGems",
+    "appeared": "2018",
+    "id": "rubygems-pm"
+  },
+  {
+    "label": "Hodor",
+    "appeared": "2015",
+    "id": "hodor"
+  },
+  {
     "label": "PBASIC",
     "appeared": "1988",
     "id": "pbasic"
@@ -7580,29 +7590,9 @@
     "id": "neliac"
   },
   {
-    "label": "RubyGems",
-    "appeared": "2018",
-    "id": "rubygems-pm"
-  },
-  {
-    "label": "Hodor",
-    "appeared": "2015",
-    "id": "hodor"
-  },
-  {
     "label": "MultiDimensional eXpressions",
     "appeared": "1997",
     "id": "mdx-lang"
-  },
-  {
-    "label": "QUEL",
-    "appeared": "1976",
-    "id": "quel"
-  },
-  {
-    "label": "Text Adventure Development System",
-    "appeared": "1988",
-    "id": "tads"
   },
   {
     "label": "httplang",
@@ -7648,6 +7638,16 @@
     "label": "BuddyScript",
     "appeared": "2002",
     "id": "buddyscript"
+  },
+  {
+    "label": "QUEL",
+    "appeared": "1976",
+    "id": "quel"
+  },
+  {
+    "label": "Text Adventure Development System",
+    "appeared": "1988",
+    "id": "tads"
   },
   {
     "label": "Information Processing Language",
@@ -8280,6 +8280,11 @@
     "id": "pyrex"
   },
   {
+    "label": "Async Await",
+    "appeared": "2007",
+    "id": "async-await-feature"
+  },
+  {
     "label": "Executive Systems Problem Oriented Language",
     "appeared": "1967",
     "id": "espol"
@@ -8293,11 +8298,6 @@
     "label": "Sublime Syntax",
     "appeared": "2008",
     "id": "sublime-syntax"
-  },
-  {
-    "label": "Async Await",
-    "appeared": "2007",
-    "id": "async-await-feature"
   },
   {
     "label": "Structured Query Reporter",
@@ -8379,14 +8379,14 @@
     "id": "t2b"
   },
   {
-    "label": "Atlas Autocode",
-    "appeared": "1965",
-    "id": "atlas-autocode"
-  },
-  {
     "label": "pipelines",
     "appeared": "2018",
     "id": "pipelines"
+  },
+  {
+    "label": "Atlas Autocode",
+    "appeared": "1965",
+    "id": "atlas-autocode"
   },
   {
     "label": "KUKA Robot Language",
@@ -8409,6 +8409,11 @@
     "id": "c-al"
   },
   {
+    "label": "multibase",
+    "appeared": "2016",
+    "id": "multibase"
+  },
+  {
     "label": "MAGMA",
     "appeared": "1993",
     "id": "magma"
@@ -8422,11 +8427,6 @@
     "label": "Matrix Market Coordinate Format",
     "appeared": "1996",
     "id": "coordinate-format"
-  },
-  {
-    "label": "multibase",
-    "appeared": "2016",
-    "id": "multibase"
   },
   {
     "label": "Matrix protocol",
@@ -9178,6 +9178,11 @@
     "id": "tahoe-lafs"
   },
   {
+    "label": "3D Manufacturing Format",
+    "appeared": "2015",
+    "id": "3mf"
+  },
+  {
     "label": "Atari Microsoft BASIC",
     "appeared": "1981",
     "id": "atari-microsoft-basic"
@@ -9196,11 +9201,6 @@
     "label": "Spice Lisp",
     "appeared": "1980",
     "id": "spice-lisp"
-  },
-  {
-    "label": "3D Manufacturing Format",
-    "appeared": "2015",
-    "id": "3mf"
   },
   {
     "label": "BEAM Erlang virtual machine",
@@ -9226,6 +9226,16 @@
     "label": "lift",
     "appeared": "2014",
     "id": "lift"
+  },
+  {
+    "label": "Zippers",
+    "appeared": "1997",
+    "id": "zipper-feature"
+  },
+  {
+    "label": "Basic4android",
+    "appeared": "2011",
+    "id": "basic4android"
   },
   {
     "label": "Chipmunk Basic",
@@ -9266,16 +9276,6 @@
     "label": "Cambridge Algebra System",
     "appeared": "1973",
     "id": "camal"
-  },
-  {
-    "label": "Zippers",
-    "appeared": "1997",
-    "id": "zipper-feature"
-  },
-  {
-    "label": "Basic4android",
-    "appeared": "2011",
-    "id": "basic4android"
   },
   {
     "label": "A++",
@@ -9572,6 +9572,11 @@
     "id": "y"
   },
   {
+    "label": "General-purpose macro processor",
+    "appeared": "1995",
+    "id": "gema"
+  },
+  {
     "label": "Laning and Zierler system",
     "appeared": "1953",
     "id": "laning-and-zierler-system"
@@ -9580,11 +9585,6 @@
     "label": "praxis-lang",
     "appeared": "2011",
     "id": "praxis-lang"
-  },
-  {
-    "label": "General-purpose macro processor",
-    "appeared": "1995",
-    "id": "gema"
   },
   {
     "label": "Dink Smallwood",
@@ -9845,6 +9845,11 @@
     "label": "TTM",
     "appeared": "1968",
     "id": "ttm"
+  },
+  {
+    "label": "Corman Common Lisp",
+    "appeared": "1995",
+    "id": "corman-common-lisp"
   },
   {
     "label": "QUIKSCRIPT",
@@ -10767,6 +10772,11 @@
     "id": "verve"
   },
   {
+    "label": "CP",
+    "appeared": "1987",
+    "id": "cp"
+  },
+  {
     "label": "LIFE",
     "appeared": "1987",
     "id": "life"
@@ -10790,6 +10800,11 @@
     "label": "Alma-0",
     "appeared": "1997",
     "id": "alma-0"
+  },
+  {
+    "label": "Cornell University Programming Language",
+    "appeared": "1967",
+    "id": "cornell-university-programming-language"
   },
   {
     "label": "ABSET",
@@ -10875,11 +10890,6 @@
     "label": "PascalABC.NET",
     "appeared": "2002",
     "id": "pascal-abc-dot-net"
-  },
-  {
-    "label": "Cornell University Programming Language",
-    "appeared": "1967",
-    "id": "cornell-university-programming-language"
   },
   {
     "label": "WFL",
@@ -10970,6 +10980,21 @@
     "label": "MacBASIC",
     "appeared": "1985",
     "id": "macbasic"
+  },
+  {
+    "label": "Fenix Project",
+    "appeared": "2006",
+    "id": "fenix-project"
+  },
+  {
+    "label": "ScriptBasic",
+    "appeared": "1999",
+    "id": "scriptbasic"
+  },
+  {
+    "label": "Knowledge Query and Manipulation Language",
+    "appeared": "1993",
+    "id": "kqml"
   },
   {
     "label": "Algebraic Logic Functional",
@@ -11105,21 +11130,6 @@
     "id": "scl"
   },
   {
-    "label": "Fenix Project",
-    "appeared": "2006",
-    "id": "fenix-project"
-  },
-  {
-    "label": "ScriptBasic",
-    "appeared": "1999",
-    "id": "scriptbasic"
-  },
-  {
-    "label": "Knowledge Query and Manipulation Language",
-    "appeared": "1993",
-    "id": "kqml"
-  },
-  {
     "label": "R++",
     "appeared": "1990",
     "id": "rpp"
@@ -11250,11 +11260,6 @@
     "id": "aplx"
   },
   {
-    "label": "Corman Common Lisp",
-    "appeared": "1995",
-    "id": "corman-common-lisp"
-  },
-  {
     "label": "Digital Interactive Business Oriented Language",
     "appeared": "1970",
     "id": "dibol"
@@ -11355,6 +11360,11 @@
     "id": "asp-dot-net"
   },
   {
+    "label": "corescript",
+    "appeared": "2018",
+    "id": "corescript"
+  },
+  {
     "label": "U",
     "appeared": "2013",
     "id": "u"
@@ -11397,11 +11407,6 @@
     "label": "Bossam Rule Language",
     "appeared": "2004",
     "id": "bossam"
-  },
-  {
-    "label": "CP",
-    "appeared": "1987",
-    "id": "cp"
   },
   {
     "label": "Darcs Advanced Revision Control System",
@@ -12049,6 +12054,11 @@
     "id": "phorth"
   },
   {
+    "label": "CorVision",
+    "appeared": "1986",
+    "id": "corvision"
+  },
+  {
     "label": "Leda",
     "appeared": "1995",
     "id": "leda"
@@ -12157,11 +12167,6 @@
     "label": "Citrine",
     "appeared": "2014",
     "id": "citrine"
-  },
-  {
-    "label": "corescript",
-    "appeared": "2018",
-    "id": "corescript"
   },
   {
     "label": "MathML",
@@ -12692,6 +12697,11 @@
     "id": "canon-capsl"
   },
   {
+    "label": "CorbaScript",
+    "appeared": "1998",
+    "id": "corbascript"
+  },
+  {
     "label": "Revolution",
     "appeared": "1993",
     "id": "revolution-programming-language"
@@ -12850,11 +12860,6 @@
     "label": "Service Modeling Language",
     "appeared": "2009",
     "id": "service-modeling-language"
-  },
-  {
-    "label": "CorVision",
-    "appeared": "1986",
-    "id": "corvision"
   },
   {
     "label": "IAL",
@@ -13112,6 +13117,11 @@
     "id": "linoleum"
   },
   {
+    "label": "Cotton",
+    "appeared": "2021",
+    "id": "cotton"
+  },
+  {
     "label": "Maps",
     "id": "maps-feature"
   },
@@ -13313,11 +13323,6 @@
     "label": "mawk",
     "appeared": "1991",
     "id": "mawk"
-  },
-  {
-    "label": "CorbaScript",
-    "appeared": "1998",
-    "id": "corbascript"
   },
   {
     "label": "RASP",
@@ -14154,11 +14159,6 @@
     "id": "lyric"
   },
   {
-    "label": "Cotton",
-    "appeared": "2021",
-    "id": "cotton"
-  },
-  {
     "label": "Definite clause grammar",
     "appeared": "1980",
     "id": "definite-clause-grammar-notation"
@@ -14246,6 +14246,11 @@
     "label": "cocoapods-pm",
     "appeared": "2011",
     "id": "cocoapods-pm"
+  },
+  {
+    "label": "cpan-pm",
+    "appeared": "1995",
+    "id": "cpan-pm"
   },
   {
     "label": "dio",
@@ -14942,11 +14947,6 @@
     "id": "cleanlang"
   },
   {
-    "label": "cpan-pm",
-    "appeared": "1995",
-    "id": "cpan-pm"
-  },
-  {
     "label": "crates-pm",
     "appeared": "2014",
     "id": "crates-pm"
@@ -15370,11 +15370,6 @@
     "id": "aur-pm"
   },
   {
-    "label": "Coral",
-    "appeared": "1964",
-    "id": "coral-lang"
-  },
-  {
     "label": "domino",
     "appeared": "1989",
     "id": "domino"
@@ -15735,6 +15730,11 @@
     "id": "clickpath"
   },
   {
+    "label": "Coral",
+    "appeared": "2017",
+    "id": "coral-lang"
+  },
+  {
     "label": "Descript",
     "appeared": "2018",
     "id": "descript"
@@ -15935,6 +15935,10 @@
     "label": "Cheri",
     "appeared": "2010",
     "id": "cheri"
+  },
+  {
+    "label": "CorelScript",
+    "id": "corelscript"
   },
   {
     "label": "crack",
@@ -17835,6 +17839,26 @@
     "id": "coral-64"
   },
   {
+    "label": "Coral++",
+    "appeared": "1993",
+    "id": "coralpp"
+  },
+  {
+    "label": "CORC",
+    "appeared": "1963",
+    "id": "corc"
+  },
+  {
+    "label": "CosmicOS",
+    "appeared": "2000",
+    "id": "cosmicos"
+  },
+  {
+    "label": "COSMO",
+    "appeared": "2001",
+    "id": "cosmo"
+  },
+  {
     "label": "cuscus",
     "appeared": "2019",
     "id": "cuscus"
@@ -18300,15 +18324,6 @@
     "label": "concordance",
     "appeared": "1994",
     "id": "concordance"
-  },
-  {
-    "label": "CorelScript",
-    "id": "corelscript"
-  },
-  {
-    "label": "Cosmos",
-    "appeared": "2022",
-    "id": "cosmos"
   },
   {
     "label": "CSV++",
@@ -18888,26 +18903,6 @@
     "label": "concept-script",
     "appeared": "1879",
     "id": "concept-script"
-  },
-  {
-    "label": "Coral++",
-    "appeared": "1993",
-    "id": "coralpp"
-  },
-  {
-    "label": "CORC",
-    "appeared": "1963",
-    "id": "corc"
-  },
-  {
-    "label": "CosmicOS",
-    "appeared": "2000",
-    "id": "cosmicos"
-  },
-  {
-    "label": "COSMO",
-    "appeared": "2001",
-    "id": "cosmo"
   },
   {
     "label": "CQLF",
@@ -22323,6 +22318,11 @@
     "label": "CONA",
     "appeared": "1977",
     "id": "cona"
+  },
+  {
+    "label": "Cosmos",
+    "appeared": "2022",
+    "id": "cosmos"
   },
   {
     "label": "CST",
