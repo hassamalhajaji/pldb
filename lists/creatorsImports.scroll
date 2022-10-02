@@ -489,8 +489,8 @@ replace TABLE
   <a name='Tom_Duff' />Tom Duff|<a href='../languages/rc.html'>Rc</a>|1|1066
   <a name='Olle_Fredriksson' />Olle Fredriksson|<a href='../languages/sixten.html'>sixten</a>|1|1074
   <a name='Makoto_Murata' />Makoto Murata|<a href='../languages/relax.html'>relax</a>|1|1077
-  <a name='Egil_Möller' />Egil Möller|<a href='../languages/i-expressions.html'>I-expressions</a>|1|1079
-  <a name='Viktor_Turskyi' />Viktor Turskyi|<a href='../languages/livr.html'>Livr</a>|1|1080
+  <a name='Viktor_Turskyi' />Viktor Turskyi|<a href='../languages/livr.html'>Livr</a>|1|1078
+  <a name='Egil_Möller' />Egil Möller|<a href='../languages/i-expressions.html'>I-expressions</a>|1|1080
   <a name='Konrad_Zuse' href='https://en.wikipedia.org/wiki/Konrad_Zuse'>Konrad Zuse</a>|<a href='../languages/plankalkul.html'>Plankalkul</a>|1|1084
   <a name='Khaled_Mardam-Bey' />Khaled Mardam-Bey|<a href='../languages/mirc.html'>MIRC scripting language</a>|1|1089
   <a name='Alexey_Krivonogov' />Alexey Krivonogov|<a href='../languages/gentee.html'>gentee</a>|1|1090
@@ -548,8 +548,8 @@ replace TABLE
   <a name='Anton_Rapetov' />Anton Rapetov|<a href='../languages/jspp.html'>JS++</a>|1|1240
   <a name='Dan_Adler' />Dan Adler|<a href='../languages/lsif-format.html'>Language Server Index Format</a>|1|1242
   <a name='Sandro_Lovnički' />Sandro Lovnički|<a href='../languages/plam.html'>plam</a>|1|1248
-  <a name='Marc_Schellens' />Marc Schellens|<a href='../languages/gdl.html'>GNU Data Language</a>|1|1253
-  <a name='Calvin_Mooers' />Calvin Mooers|<a href='../languages/trac.html'>TRAC</a>|1|1255
+  <a name='Marc_Schellens' />Marc Schellens|<a href='../languages/gdl.html'>GNU Data Language</a>|1|1254
+  <a name='Calvin_Mooers' />Calvin Mooers|<a href='../languages/trac.html'>TRAC</a>|1|1256
   <a name='Joshua_Barretto' />Joshua Barretto|<a href='../languages/tao-lang.html'>Tao</a>|1|1263
   <a name='David_Crawshaw' />David Crawshaw|<a href='../languages/hujson.html'>HuJSON</a>|1|1264
   <a name='Yoichi_Hirai' />Yoichi Hirai|<a href='../languages/bamboo.html'>bamboo</a>|1|1267
@@ -690,21 +690,21 @@ replace TABLE
   <a name='Tom_MacWright' />Tom MacWright|<a href='../languages/wah.html'>wah</a>|1|1684
   <a name='Per_Bothner' />Per Bothner|<a href='../languages/kawa-scheme-implementation.html'>Kawa</a>|1|1690
   <a name='Joe_Eli_McIlvain' />Joe Eli McIlvain|<a href='../languages/savi.html'>Savi</a>|1|1704
-  <a name='evancz' />evancz|<a href='../languages/gren.html'>Gren</a>|1|1712
-  <a name='Paul_Tenczar' />Paul Tenczar|<a href='../languages/tutor.html'>TUTOR</a>|1|1713
-  <a name='Richard_Blomme' />Richard Blomme|<a href='../languages/tutor.html'>TUTOR</a>|1|1713
-  <a name='Nevil_Brownlee' />Nevil Brownlee|<a href='../languages/small.html'>Small</a>|1|1719
-  <a name='Erik_Moqvist' />Erik Moqvist|<a href='../languages/mys.html'>mys</a>|1|1731
+  <a name='Erik_Moqvist' />Erik Moqvist|<a href='../languages/mys.html'>mys</a>|1|1712
+  <a name='evancz' />evancz|<a href='../languages/gren.html'>Gren</a>|1|1713
+  <a name='Paul_Tenczar' />Paul Tenczar|<a href='../languages/tutor.html'>TUTOR</a>|1|1714
+  <a name='Richard_Blomme' />Richard Blomme|<a href='../languages/tutor.html'>TUTOR</a>|1|1714
+  <a name='Nevil_Brownlee' />Nevil Brownlee|<a href='../languages/small.html'>Small</a>|1|1720
   <a name='Steven_Ericsson-Zenith' />Steven Ericsson-Zenith|<a href='../languages/ease.html'>Ease</a>|1|1736
   <a name='Steven_M._Caine' />Steven M. Caine|<a href='../languages/ttm.html'>TTM</a>|1|1738
   <a name='E._Kent_Gordon' />E. Kent Gordon|<a href='../languages/ttm.html'>TTM</a>|1|1738
   <a name='Roger_Corman' />Roger Corman|<a href='../languages/corman-common-lisp.html'>Corman Common Lisp</a>|1|1739
   <a name='Alexander_Ivanov' />Alexander Ivanov|<a href='../languages/hivemind.html'>hivemind</a>|1|1743
   <a name='Mario_Montoya' />Mario Montoya|<a href='../languages/tablam.html'>tablam</a>|1|1746
-  <a name='S.S._Mikhalkovich' />S.S. Mikhalkovich|<a href='../languages/pascal-abc-dot-net.html'>PascalABC.NET</a>|1|1753
-  <a name='Ivan_Bondarev' />Ivan Bondarev|<a href='../languages/pascal-abc-dot-net.html'>PascalABC.NET</a>|1|1753
-  <a name='A.V._Tkachuk' />A.V. Tkachuk|<a href='../languages/pascal-abc-dot-net.html'>PascalABC.NET</a>|1|1753
-  <a name='S.O._Ivanov' />S.O. Ivanov|<a href='../languages/pascal-abc-dot-net.html'>PascalABC.NET</a>|1|1753
+  <a name='S.S._Mikhalkovich' />S.S. Mikhalkovich|<a href='../languages/pascal-abc.net.html'>PascalABC.NET</a>|1|1753
+  <a name='Ivan_Bondarev' />Ivan Bondarev|<a href='../languages/pascal-abc.net.html'>PascalABC.NET</a>|1|1753
+  <a name='A.V._Tkachuk' />A.V. Tkachuk|<a href='../languages/pascal-abc.net.html'>PascalABC.NET</a>|1|1753
+  <a name='S.O._Ivanov' />S.O. Ivanov|<a href='../languages/pascal-abc.net.html'>PascalABC.NET</a>|1|1753
   <a name='Tiago_Campos' />Tiago Campos|<a href='../languages/kei.html'>kei</a>|1|1755
   <a name='Florian_Rappl' />Florian Rappl|<a href='../languages/mages.html'>mages</a>|1|1756
   <a name='Paul_Stansifer' />Paul Stansifer|<a href='../languages/unseemly.html'>unseemly</a>|1|1777
@@ -717,7 +717,7 @@ replace TABLE
   <a name='Anssi_Halmeaho' />Anssi Halmeaho|<a href='../languages/funl.html'>funl</a>|1|1810
   <a name='zplusfour' />zplusfour|<a href='../languages/fardlang.html'>Fardlang</a>|1|1813
   <a name='Diarmuid_Pigott' />Diarmuid Pigott|<a href='../languages/protium.html'>protium</a>|1|1819
-  <a name='Martijn_Koster' />Martijn Koster|<a href='../languages/robot-dot-txt.html'>Robots.txt</a>|1|1823
+  <a name='Martijn_Koster' />Martijn Koster|<a href='../languages/robots.txt.html'>Robots.txt</a>|1|1823
   <a name='DJMcMayhem' />DJMcMayhem|<a href='../languages/brain-flak.html'>Brain-Flak</a> - <a href='../languages/v-golf.html'>V</a>|2|1824
   <a name='Michael_Dvorkin' />Michael Dvorkin|<a href='../languages/ante-esolang.html'>Ante</a>|1|1840
   <a name='Vaughan_Ronald_Pratt' />Vaughan Ronald Pratt|<a href='../languages/cgol.html'>CGOL</a>|1|1843

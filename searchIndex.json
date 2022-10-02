@@ -822,7 +822,7 @@
   {
     "label": "Visual Basic .NET",
     "appeared": "2001",
-    "id": "visual-basic-dot-net"
+    "id": "visual-basic.net"
   },
   {
     "label": "Apache Maven",
@@ -6032,16 +6032,6 @@
     "id": "circle-lang"
   },
   {
-    "label": "CORAL",
-    "appeared": "1964",
-    "id": "coral"
-  },
-  {
-    "label": "I-expressions",
-    "appeared": "2003",
-    "id": "i-expressions"
-  },
-  {
     "label": "cityhash-hash-function",
     "appeared": "2011",
     "id": "cityhash-hash-function"
@@ -6050,6 +6040,16 @@
     "label": "Google Sheets",
     "appeared": "2006",
     "id": "google-sheets-app"
+  },
+  {
+    "label": "CORAL",
+    "appeared": "1964",
+    "id": "coral"
+  },
+  {
+    "label": "I-expressions",
+    "appeared": "2003",
+    "id": "i-expressions"
   },
   {
     "label": "WML",
@@ -6223,7 +6223,7 @@
   {
     "label": ".QL",
     "appeared": "2007",
-    "id": "dot-ql"
+    "id": ".ql"
   },
   {
     "label": "Pyret",
@@ -6461,11 +6461,6 @@
     "id": "hamler"
   },
   {
-    "label": "COWSEL",
-    "appeared": "1964",
-    "id": "cowsel"
-  },
-  {
     "label": "BASIC Programming",
     "appeared": "1979",
     "id": "basic-programming"
@@ -6474,6 +6469,11 @@
     "label": "xodio",
     "appeared": "2015",
     "id": "xodio"
+  },
+  {
+    "label": "COWSEL",
+    "appeared": "1964",
+    "id": "cowsel"
   },
   {
     "label": "kitlang",
@@ -8145,6 +8145,11 @@
     "id": "hakaru"
   },
   {
+    "label": "Tao",
+    "appeared": "2020",
+    "id": "tao-lang"
+  },
+  {
     "label": "TAL",
     "appeared": "2008",
     "id": "tal"
@@ -8158,11 +8163,6 @@
     "label": "Zeek",
     "appeared": "1994",
     "id": "zeek"
-  },
-  {
-    "label": "Tao",
-    "appeared": "2020",
-    "id": "tao-lang"
   },
   {
     "label": "HuJSON",
@@ -10174,7 +10174,7 @@
   {
     "label": "Robots.txt",
     "appeared": "1994",
-    "id": "robot-dot-txt"
+    "id": "robots.txt"
   },
   {
     "label": "DarkBASIC",
@@ -10969,7 +10969,7 @@
   {
     "label": "PascalABC.NET",
     "appeared": "2002",
-    "id": "pascal-abc-dot-net"
+    "id": "pascal-abc.net"
   },
   {
     "label": "WFL",
@@ -11442,7 +11442,7 @@
   {
     "label": "ASP.NET",
     "appeared": "2002",
-    "id": "asp-dot-net"
+    "id": "asp.net"
   },
   {
     "label": "corescript",

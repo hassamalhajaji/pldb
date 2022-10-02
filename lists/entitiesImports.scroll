@@ -168,7 +168,7 @@ replace TABLE
   Standard ML|../languages/standard-ml.html|pl|1990|162
   Protocol Buffers|../languages/protobuf.html|idl|2008|163
   Unity|../languages/unity-engine.html|library|2005|164
-  Visual Basic .NET|../languages/visual-basic-dot-net.html|pl|2001|165
+  Visual Basic .NET|../languages/visual-basic.net.html|pl|2001|165
   Apache Maven|../languages/maven-pom.html|application|2004|166
   SQLite|../languages/sqlite.html|queryLanguage|2000|167
   PureScript|../languages/purescript.html|pl|2013|168
@@ -1212,10 +1212,10 @@ replace TABLE
   PLZ|../languages/plz.html|pl|1979|1206
   Knitr|../languages/knitr.html|template|2012|1207
   circle-lang|../languages/circle-lang.html|pl|2019|1208
-  CORAL|../languages/coral.html|pl|1964|1209
-  I-expressions|../languages/i-expressions.html|dataNotation|2003|1210
-  cityhash-hash-function|../languages/cityhash-hash-function.html|hashFunction|2011|1211
-  Google Sheets|../languages/google-sheets-app.html|application|2006|1212
+  cityhash-hash-function|../languages/cityhash-hash-function.html|hashFunction|2011|1209
+  Google Sheets|../languages/google-sheets-app.html|application|2006|1210
+  CORAL|../languages/coral.html|pl|1964|1211
+  I-expressions|../languages/i-expressions.html|dataNotation|2003|1212
   WML|../languages/wireless-markup-language.html|xmlFormat|1998|1213
   Smartsheet|../languages/smartsheet-app.html|application|2006|1214
   Ch computer programming|../languages/ch.html|pl|2001|1215
@@ -1250,7 +1250,7 @@ replace TABLE
   Interlisp|../languages/interlisp.html|pl|1966|1244
   International System of Quantities|../languages/isq.html|schema|2009|1245
   basic calculator|../languages/bc.html|pl|1975|1246
-  .QL|../languages/dot-ql.html|pl|2007|1247
+  .QL|../languages/.ql.html|pl|2007|1247
   Pyret|../languages/pyret-lang.html|pl|2012|1248
   Rc|../languages/rc.html|pl|1989|1249
   F|../languages/f.html|pl|1996|1250
@@ -1293,14 +1293,14 @@ replace TABLE
   tcsh|../languages/tcsh.html|pl|1983|1287
   Caltech Intermediate Form|../languages/caltech-intermediate-form.html|pl|1980|1288
   flagship|../languages/flagship.html|pl|1986|1289
-  Dale|../languages/dale.html||2013|1290
+  Dale|../languages/dale.html|pl|2013|1290
   Pattern Matching|../languages/pattern-matching-feature.html|feature|1960|1291
   LUCID|../languages/lucid.html|pl|1976|1292
   Parrot BASIC|../languages/parrot-basic.html|pl|2009|1293
   hamler|../languages/hamler.html|pl|2019|1294
-  COWSEL|../languages/cowsel.html|pl|1964|1295
-  BASIC Programming|../languages/basic-programming.html|pl|1979|1296
-  xodio|../languages/xodio.html|visual|2015|1297
+  BASIC Programming|../languages/basic-programming.html|pl|1979|1295
+  xodio|../languages/xodio.html|visual|2015|1296
+  COWSEL|../languages/cowsel.html|pl|1964|1297
   kitlang|../languages/kitlang.html|pl|2018|1298
   Babylonian numerals|../languages/babylonian-numerals.html|numeralSystem|-2000|1299
   Subleq|../languages/subleq.html|isa|2009|1300
@@ -1636,10 +1636,10 @@ replace TABLE
   quicklisp-pm|../languages/quicklisp-pm.html|packageManager|2010|1630
   Interchange File Format|../languages/interchange-file-format.html|binaryDataFormat|1985|1631
   hakaru|../languages/hakaru.html|pl|2014|1632
-  TAL|../languages/tal.html|pl|2008|1633
-  ASIC|../languages/asic-programming-language.html|pl|1992|1634
-  Zeek|../languages/zeek.html|pl|1994|1635
-  Tao|../languages/tao-lang.html|pl|2020|1636
+  Tao|../languages/tao-lang.html|pl|2020|1633
+  TAL|../languages/tal.html|pl|2008|1634
+  ASIC|../languages/asic-programming-language.html|pl|1992|1635
+  Zeek|../languages/zeek.html|pl|1994|1636
   HuJSON|../languages/hujson.html|dataNotation|2019|1637
   QtScript|../languages/qtscript.html|pl|2008|1638
   titan|../languages/titan.html|pl|2017|1639
@@ -1750,7 +1750,7 @@ replace TABLE
   Gremlin|../languages/gremlin.html|queryLanguage|2009|1744
   LispWorks|../languages/lispworks.html|pl|1989|1745
   Processor Technology|../languages/processor-technology.html|pl|1975|1746
-  Functional PHP Preprocessor|../languages/fpp.html||2018|1747
+  Functional PHP Preprocessor|../languages/fpp.html|pl|2018|1747
   SDTM|../languages/sdtm.html|standard|2004|1748
   Conway chained arrow notation|../languages/chained-arrow-notation.html|notation|1996|1749
   crmsh|../languages/crmsh.html|pl|2008|1750
@@ -2042,7 +2042,7 @@ replace TABLE
   wescheme|../languages/wescheme.html|pl|2009|2036
   ><>|../languages/fishlang.html|esolang|2009|2037
   Make|../languages/make.html|application|1977|2038
-  Robots.txt|../languages/robot-dot-txt.html|configFormat|1994|2039
+  Robots.txt|../languages/robots.txt.html|configFormat|1994|2039
   DarkBASIC|../languages/darkbasic.html|pl|2000|2040
   Portable Standard Lisp|../languages/portable-standard-lisp.html|pl|1980|2041
   Polymorphic Programming Language|../languages/polymorphic-programming-language.html|pl|1969|2042
@@ -2201,7 +2201,7 @@ replace TABLE
   UPIC|../languages/upic.html|pl|2018|2195
   MAPPER|../languages/mapper.html|pl|1960|2196
   vivaldi|../languages/vivaldi.html|pl|2015|2197
-  PascalABC.NET|../languages/pascal-abc-dot-net.html|pl|2002|2198
+  PascalABC.NET|../languages/pascal-abc.net.html|pl|2002|2198
   WFL|../languages/work-flow-language.html|pl|1961|2199
   AgentSpeak|../languages/agentspeak.html|pl|1994|2200
   BCX|../languages/bcx.html|pl|1999|2201
@@ -2296,7 +2296,7 @@ replace TABLE
   LEAP|../languages/leap.html|pl|1969|2290
   nianiolang|../languages/nianiolang.html|pl|2015|2291
   blur-markup-language|../languages/blur-markup-language.html|textMarkup|2017|2292
-  ASP.NET|../languages/asp-dot-net.html|pl|2002|2293
+  ASP.NET|../languages/asp.net.html|pl|2002|2293
   corescript|../languages/corescript.html|pl|2018|2294
   U|../languages/u.html|pl|2013|2295
   Kami|../languages/kami.html|textMarkup|2022|2296
