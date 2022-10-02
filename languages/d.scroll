@@ -9,7 +9,7 @@ paragraph
  D is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2001">2001</a> by <a href="../lists/creators.html#Walter_Bright">Walter Bright</a> and <a href="../lists/creators.html#Andrei_Alexandrescu">Andrei Alexandrescu</a>.
 
 kpiTable
- #72 <span title="TotalRank: 217 Jobs: 62 Users: 150 Facts: 99 Links: 56">on PLDB</span>
+ #81 <span title="TotalRank: 231 Jobs: 62 Users: 151 Facts: 113 Links: 56">on PLDB</span>
  21 Years Old
  6.3k <span title="Crude user estimate from a linear model.">Users</span>
  2 <span title="Books about or leveraging D">Books</span>
@@ -70,15 +70,6 @@ code
  void main()
  {
      writeln(&quot;Hello, world!&quot;);
- }
- 
-
-exampleCodeHeader Example from <a href='https://github.com/leachim6/hello-world/blob/main/d/D♭♭'>hello-world</a>:
-code
- #include &lt;stdio.h&gt;
- int main() {
-    printf(&quot;Hello World&quot;);
-    return 0;
  }
  
 
@@ -258,4 +249,4 @@ pipeTable
 
 
 
-keyboardNav elm.html smalltalk.html
+keyboardNav graphql.html groovy.html
