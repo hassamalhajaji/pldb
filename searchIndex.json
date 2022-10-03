@@ -6197,14 +6197,14 @@
     "id": "wyvern"
   },
   {
-    "label": "Interlisp",
-    "appeared": "1966",
-    "id": "interlisp"
-  },
-  {
     "label": "atomspace",
     "appeared": "2008",
     "id": "atomspace"
+  },
+  {
+    "label": "Interlisp",
+    "appeared": "1966",
+    "id": "interlisp"
   },
   {
     "label": "Mesa",
@@ -6839,14 +6839,14 @@
     "id": "s-plus"
   },
   {
-    "label": "Business Basic",
-    "appeared": "1970",
-    "id": "business-basic"
-  },
-  {
     "label": "JSON Query Language",
     "appeared": "2019",
     "id": "jql"
+  },
+  {
+    "label": "Business Basic",
+    "appeared": "1970",
+    "id": "business-basic"
   },
   {
     "label": "Lustre",
@@ -6992,6 +6992,11 @@
     "id": "haggis"
   },
   {
+    "label": "humanhash-hash-function",
+    "appeared": "2011",
+    "id": "humanhash-hash-function"
+  },
+  {
     "label": "OPS5",
     "appeared": "1977",
     "id": "ops5"
@@ -7000,11 +7005,6 @@
     "label": "Liberty BASIC",
     "appeared": "1992",
     "id": "liberty-basic"
-  },
-  {
-    "label": "humanhash-hash-function",
-    "appeared": "2011",
-    "id": "humanhash-hash-function"
   },
   {
     "label": "Bioconductor",
@@ -7256,11 +7256,6 @@
     "id": "ink-lang"
   },
   {
-    "label": "Coco/R",
-    "appeared": "1990",
-    "id": "coco-r"
-  },
-  {
     "label": "MUSIC/SP",
     "appeared": "1972",
     "id": "music-sp"
@@ -7269,6 +7264,11 @@
     "label": "Watcom",
     "appeared": "1988",
     "id": "watcom"
+  },
+  {
+    "label": "Coco/R",
+    "appeared": "1990",
+    "id": "coco-r"
   },
   {
     "label": "Numbers",
@@ -7680,6 +7680,11 @@
     "id": "buddyscript"
   },
   {
+    "label": "Hush",
+    "appeared": "2021",
+    "id": "hush"
+  },
+  {
     "label": "QUEL",
     "appeared": "1976",
     "id": "quel"
@@ -7690,24 +7695,19 @@
     "id": "tads"
   },
   {
-    "label": "Hush",
-    "appeared": "2021",
-    "id": "hush"
-  },
-  {
     "label": "co-dfns",
     "appeared": "2012",
     "id": "co-dfns"
   },
   {
-    "label": "Color BASIC",
-    "appeared": "1980",
-    "id": "color-basic"
-  },
-  {
     "label": "Li-Chen Wang",
     "appeared": "1976",
     "id": "li-chen-wang"
+  },
+  {
+    "label": "Color BASIC",
+    "appeared": "1980",
+    "id": "color-basic"
   },
   {
     "label": "hazel",
@@ -8300,6 +8300,11 @@
     "id": "titan"
   },
   {
+    "label": "QtScript",
+    "appeared": "2008",
+    "id": "qtscript"
+  },
+  {
     "label": "Winbatch",
     "appeared": "1989",
     "id": "winbatch"
@@ -8308,11 +8313,6 @@
     "label": "FL",
     "appeared": "1989",
     "id": "fl"
-  },
-  {
-    "label": "QtScript",
-    "appeared": "2008",
-    "id": "qtscript"
   },
   {
     "label": "bamboo",
@@ -8664,6 +8664,11 @@
     "id": "synapse"
   },
   {
+    "label": "Optimized Systems Software",
+    "appeared": "1981",
+    "id": "optimized-systems-software"
+  },
+  {
     "label": "Sawzall",
     "appeared": "2003",
     "id": "sawzall"
@@ -8677,11 +8682,6 @@
     "label": "ARM Templates",
     "appeared": "2017",
     "id": "arm-templates"
-  },
-  {
-    "label": "Optimized Systems Software",
-    "appeared": "1981",
-    "id": "optimized-systems-software"
   },
   {
     "label": "fructure-editor",
@@ -10762,6 +10762,16 @@
     "id": "ana"
   },
   {
+    "label": "Scratchpad",
+    "appeared": "1971",
+    "id": "scratchpad"
+  },
+  {
+    "label": "l2",
+    "appeared": "2017",
+    "id": "l2"
+  },
+  {
     "label": "Join Java",
     "appeared": "2000",
     "id": "join-java"
@@ -10885,16 +10895,6 @@
     "label": "webql",
     "appeared": "2001",
     "id": "webql"
-  },
-  {
-    "label": "Scratchpad",
-    "appeared": "1971",
-    "id": "scratchpad"
-  },
-  {
-    "label": "l2",
-    "appeared": "2017",
-    "id": "l2"
   },
   {
     "label": "Vilnius BASIC",
@@ -11599,31 +11599,6 @@
     "id": "dcat"
   },
   {
-    "label": "ALGOL N",
-    "appeared": "1967",
-    "id": "algol-n"
-  },
-  {
-    "label": "FastTrack Scripting Host",
-    "appeared": "2006",
-    "id": "fasttrack-scripting-host"
-  },
-  {
-    "label": "AlphaBasic",
-    "appeared": "1976",
-    "id": "alphabasic"
-  },
-  {
-    "label": "PS-algol",
-    "appeared": "1981",
-    "id": "ps-algol"
-  },
-  {
-    "label": "Tymshare SuperBasic",
-    "appeared": "1968",
-    "id": "tymshare-superbasic"
-  },
-  {
     "label": "Meta II",
     "appeared": "1962",
     "id": "meta-ii"
@@ -11657,6 +11632,31 @@
     "label": "Systems Biology Markup Language",
     "appeared": "2006",
     "id": "sbml"
+  },
+  {
+    "label": "ALGOL N",
+    "appeared": "1967",
+    "id": "algol-n"
+  },
+  {
+    "label": "FastTrack Scripting Host",
+    "appeared": "2006",
+    "id": "fasttrack-scripting-host"
+  },
+  {
+    "label": "AlphaBasic",
+    "appeared": "1976",
+    "id": "alphabasic"
+  },
+  {
+    "label": "PS-algol",
+    "appeared": "1981",
+    "id": "ps-algol"
+  },
+  {
+    "label": "Tymshare SuperBasic",
+    "appeared": "1968",
+    "id": "tymshare-superbasic"
   },
   {
     "label": "APSE",
@@ -12369,6 +12369,11 @@
     "id": "workfl"
   },
   {
+    "label": "Broccoli",
+    "appeared": "2020",
+    "id": "broccoli-1"
+  },
+  {
     "label": "clarity",
     "appeared": "2019",
     "id": "clarity"
@@ -12508,46 +12513,6 @@
     "id": "snit"
   },
   {
-    "label": "FLACC",
-    "appeared": "1977",
-    "id": "flacc"
-  },
-  {
-    "label": "Object Oberon",
-    "appeared": "1990",
-    "id": "object-oberon"
-  },
-  {
-    "label": "Ramis software",
-    "appeared": "1960",
-    "id": "ramis-software"
-  },
-  {
-    "label": "NorthStar BASIC",
-    "appeared": "1977",
-    "id": "northstar-basic"
-  },
-  {
-    "label": "SBASIC",
-    "appeared": "1983",
-    "id": "sbasic"
-  },
-  {
-    "label": "Tiger-BASIC",
-    "appeared": "1986",
-    "id": "tiger-basic"
-  },
-  {
-    "label": "Note",
-    "appeared": "2012",
-    "id": "note"
-  },
-  {
-    "label": "Bayer Expressions",
-    "appeared": "2018",
-    "id": "bayer-expressions"
-  },
-  {
     "label": "Gello Expression Language",
     "appeared": "2001",
     "id": "gello"
@@ -12621,6 +12586,46 @@
     "label": "preforth",
     "appeared": "2018",
     "id": "preforth"
+  },
+  {
+    "label": "FLACC",
+    "appeared": "1977",
+    "id": "flacc"
+  },
+  {
+    "label": "Object Oberon",
+    "appeared": "1990",
+    "id": "object-oberon"
+  },
+  {
+    "label": "Ramis software",
+    "appeared": "1960",
+    "id": "ramis-software"
+  },
+  {
+    "label": "NorthStar BASIC",
+    "appeared": "1977",
+    "id": "northstar-basic"
+  },
+  {
+    "label": "SBASIC",
+    "appeared": "1983",
+    "id": "sbasic"
+  },
+  {
+    "label": "Tiger-BASIC",
+    "appeared": "1986",
+    "id": "tiger-basic"
+  },
+  {
+    "label": "Note",
+    "appeared": "2012",
+    "id": "note"
+  },
+  {
+    "label": "Bayer Expressions",
+    "appeared": "2018",
+    "id": "bayer-expressions"
   },
   {
     "label": "MINC",
@@ -12863,6 +12868,11 @@
     "id": "revolution-programming-language"
   },
   {
+    "label": "Bizubee",
+    "appeared": "2015",
+    "id": "bizubee"
+  },
+  {
     "label": "emerald-lang",
     "appeared": "2019",
     "id": "emerald-lang"
@@ -12881,6 +12891,11 @@
     "label": "woe",
     "appeared": "2009",
     "id": "woe"
+  },
+  {
+    "label": "Broccoli",
+    "appeared": "2008",
+    "id": "broccoli"
   },
   {
     "label": "rocket",
@@ -13257,11 +13272,6 @@
     "id": "proset"
   },
   {
-    "label": "Bizubee",
-    "appeared": "2015",
-    "id": "bizubee"
-  },
-  {
     "label": "KavaScript",
     "appeared": "2021",
     "id": "kavascript"
@@ -13374,11 +13384,6 @@
     "label": "rockstar-rkt",
     "appeared": "2019",
     "id": "rockstar-rkt"
-  },
-  {
-    "label": "Broccoli",
-    "appeared": "2020",
-    "id": "broccoli-1"
   },
   {
     "label": "clash",
@@ -14456,11 +14461,6 @@
     "label": "RoyalScript",
     "appeared": "2016",
     "id": "royalscript"
-  },
-  {
-    "label": "Broccoli",
-    "appeared": "2008",
-    "id": "broccoli"
   },
   {
     "label": "H++",
@@ -15788,11 +15788,6 @@
     "id": "bistro-smalltalk"
   },
   {
-    "label": "Broccoli",
-    "appeared": "2022",
-    "id": "broccoli-2"
-  },
-  {
     "label": "bytecode-modeling-language",
     "appeared": "2008",
     "id": "bytecode-modeling-language"
@@ -16220,6 +16215,11 @@
     "label": "BRL",
     "appeared": "1997",
     "id": "brl"
+  },
+  {
+    "label": "Broccoli",
+    "appeared": "2022",
+    "id": "broccoli-2"
   },
   {
     "label": "business-rule-language",
