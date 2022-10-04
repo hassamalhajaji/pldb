@@ -105,8 +105,8 @@ replace TABLE
   VBScript|../languages/vbscript.html|vbs vbe wsf wsc VBS|5
   Idris|../languages/idris.html|idr lidr|2
   Nginx|../languages/nginx-config.html|nginx nginxconf vhost nginx.conf|4
-  V|../languages/v.html|v|1
   sed|../languages/sed.html|sed [gs]sed|2
+  V|../languages/v.html|v|1
   Lasso|../languages/lasso.html|lasso LassoApp las lasso8 lasso9 lasso[89]|6
   AMPL|../languages/ampl.html|ampl mod run dat|4
   PicoLisp|../languages/picolisp.html|l|1
@@ -173,8 +173,8 @@ replace TABLE
   Lean|../languages/lean.html|lean hlean|2
   Object Pascal|../languages/object-pascal.html|p pp pas|3
   Ceylon|../languages/ceylon.html|ceylon ceyloncite web|3
-  SuperCollider|../languages/supercollider.html|sc scd|2
   SPARQL|../languages/sparql.html|sparql rq|2
+  SuperCollider|../languages/supercollider.html|sc scd|2
   LOLCODE|../languages/lolcode.html|lol|1
   Clean|../languages/clean.html|icl dcl abc sapl|4
   SystemVerilog|../languages/systemverilog.html|sv svh vh header file|5
@@ -206,11 +206,11 @@ replace TABLE
   YANG|../languages/yang.html|yang|1
   RAML|../languages/raml.html|raml|1
   ATS|../languages/ats.html|dats hats sats|3
+  Csound|../languages/csound.html|csd sco orc udo|4
   F*|../languages/fstar.html|fst fsti|2
   AGC|../languages/apollo-guidance-computer.html|agc|1
   Sass|../languages/sass.html|sass scss|2
   ClojureScript|../languages/clojurescript.html|cljs|1
-  Csound|../languages/csound.html|csd sco orc udo|4
   Perl 6|../languages/perl-6.html|6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t|11
   Turtle|../languages/turtle.html|ttl|1
   Xojo|../languages/xojo.html|xojo_code xojo_menu xojo_report xojo_script xojo_toolbar xojo_window|6
@@ -229,8 +229,8 @@ replace TABLE
   Ioke|../languages/ioke.html|ik|1
   Modelica|../languages/modelica.html|mo|1
   LiveScript|../languages/livescript.html|ls _ls|2
-  Gradle|../languages/gradle.html|gradle|1
   RDoc|../languages/rdoc.html|rdoc|1
+  Gradle|../languages/gradle.html|gradle|1
   Ini|../languages/ini.html|ini cfg dof lektorproject prefs pro properties url inf .editorconfig service socket device mount automount swap target path timer slice scope|21
   Dafny|../languages/dafny.html|dfy|1
   Batchfile|../languages/batch.html|bat cmd|2
@@ -261,14 +261,14 @@ replace TABLE
   PowerBuilder|../languages/powerbuilder.html|pbt sra sru srw|4
   Twig|../languages/twig.html|twig|1
   Less|../languages/less.html|less|1
-  SaltStack|../languages/saltstack.html|sls|1
   XS|../languages/xs.html|xs|1
+  SaltStack|../languages/saltstack.html|sls|1
   G-code|../languages/g-code.html|g cnc gco gcode mpt mpf nc|7
   Thrift|../languages/thrift.html|thrift|1
   Genie|../languages/genie.html|gs|1
   Classroom Object Oriented Language|../languages/cool.html|cl|1
-  Maxima|../languages/maxima.html|mac max|2
   wisp|../languages/wisp.html|wisp|1
+  Maxima|../languages/maxima.html|mac max|2
   Falcon|../languages/falcon.html|ftd fal fam|3
   Transact-SQL|../languages/transact-sql.html|sql|1
   ASN.1|../languages/asn-1.html|asn asn1|2
@@ -283,8 +283,8 @@ replace TABLE
   Bluespec|../languages/bluespec.html|bsv|1
   EML|../languages/mbox.html|eml mbox|2
   starlark|../languages/starlark.html|bzl star|2
-  K|../languages/k.html|k|1
   Stylus|../languages/stylus.html|styl|1
+  K|../languages/k.html|k|1
   Latte|../languages/latte.html|latte|1
   JFlex|../languages/jflex.html|flex jflex|2
   CIL|../languages/cilk.html|cil|1
@@ -321,6 +321,7 @@ replace TABLE
   SIL|../languages/swift-il.html|sil|1
   Closure Templates|../languages/closure-templates.html|soy|1
   NL|../languages/nl.html|nl|1
+  Curry|../languages/curry.html|curry|1
   CWL|../languages/common-workflow-language.html|cwl|1
   Hierarchical Data Format|../languages/hdf.html|hdf h4 hdf4 he2 h5 hdf5 he5|7
   WDL|../languages/wdl.html|wdl|1
@@ -328,11 +329,10 @@ replace TABLE
   OpenVera|../languages/openvera.html|vr|1
   Koka|../languages/koka.html|kk kki|2
   Dogescript|../languages/dogescript.html|djs|1
-  GLSL|../languages/glsl.html|glsl fp frag frg fs fsh fshader geo geom glslf glslv gs gshader rchit rmiss shader tesc tese vert vrx vsh vshader|22
   Augmented Backus-Naur Form|../languages/abnf.html|abnf|1
+  GLSL|../languages/glsl.html|glsl fp frag frg fs fsh fshader geo geom glslf glslv gs gshader rchit rmiss shader tesc tese vert vrx vsh vshader|22
   SourcePawn|../languages/sourcepawn.html|sp inc|2
   EBNF|../languages/ebnf.html|ebnf|1
-  Curry|../languages/curry.html|curry|1
   Ren'Py|../languages/renpy.html|rpy|1
   Inno Setup|../languages/inno-setup.html|iss isl|2
   LilyPond|../languages/lilypond.html|ly ily|2
@@ -347,13 +347,14 @@ replace TABLE
   Velocity|../languages/apache-velocity.html|vm fhtml|2
   RUNOFF|../languages/runoff.html|rnh rno|2
   CWEB|../languages/cweb.html|w|1
-  CSV|../languages/csv.html|csv|1
   Glyph Bitmap Distribution Format|../languages/glyph-bitmap-distribution-format.html|bdf|1
+  CSV|../languages/csv.html|csv|1
   Jule|../languages/x.html|.jule|1
   CodeQL|../languages/codeql.html|ql qll|2
   SubRip Text|../languages/subrip-text.html|srt|1
   beads-lang|../languages/beads-lang.html|beads|1
   Dockerfile|../languages/dockerfile.html|dockerfile|1
+  CSON|../languages/cson.html|cson|1
   PAWN|../languages/pawn.html|pwn inc|2
   Pony|../languages/pony.html|pony|1
   SQLPL|../languages/sqlpl.html|sql db2|2
@@ -362,7 +363,6 @@ replace TABLE
   Spin|../languages/spin.html|spin|1
   Papyrus|../languages/papyrus.html|psc|1
   Felix|../languages/felix.html|flx flxh|2
-  CSON|../languages/cson.html|cson|1
   Uno|../languages/uno.html|uno|1
   Varnish Configuration Language|../languages/vcl.html|vcl|1
   Clarion|../languages/clarion.html|clw|1
@@ -422,8 +422,8 @@ replace TABLE
   Mask|../languages/maskjs.html|mask|1
   Omgrofl|../languages/omgrofl.html|omgrofl|1
   Yorick|../languages/yorick.html|i|1
-  Mu|../languages/mu.html|mu|1
   BlitzMax|../languages/blitzmax.html|bmx|1
+  Mu|../languages/mu.html|mu|1
   RenderScript|../languages/renderscript.html|rs rsh|2
   contracts.coffee|../languages/contracts.coffee.html|coffee|1
   ToffeeScript|../languages/toffeescript.html|toffee|1
@@ -612,10 +612,10 @@ replace TABLE
   mint|../languages/mint.html|mint|1
   Filterscript|../languages/filterscript.html|fs|1
   Sublime Syntax|../languages/sublime-syntax.html|sublime-syntax|1
+  CSpydr|../languages/cspydr.html|csp|1
   janet|../languages/janet.html|janet|1
   GorillaScript|../languages/gorillascript.html|gs|1
   groff|../languages/groff.html|[1-9] man 1p 3pm|4
-  CSpydr|../languages/cspydr.html|csp|1
   Functional PHP Preprocessor|../languages/fpp.html|fpp|1
   crmsh|../languages/crmsh.html|crmsh pcmk|2
   Scala Markup Language|../languages/scaml.html|scaml|1
