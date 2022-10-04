@@ -54,8 +54,8 @@ replace TABLE
   Regular Expressions|../languages/regex.html|regexp regex|2
   Bash|../languages/bash.html|sh bash bats cgi command env fcgi ksh shin tmux tool zsh zsh-theme ebuild eclass exheres-0 exlib .bashrc bashrc .bash_* bash_* zshrc .zshrc .kshrc kshrc PKGBUILD|26
   F#|../languages/f-sharp.html|fs fsi fsx fsscript|4
-  HTTP|../languages/http.html|http|1
   Crystal|../languages/crystal.html|cr|1
+  HTTP|../languages/http.html|http|1
   Delphi|../languages/delphi.html|pas dpr|2
   VBA|../languages/vba.html|bas cls frm frx vba|5
   Verilog|../languages/verilog.html|v veo|2
@@ -135,8 +135,8 @@ replace TABLE
   Jinja|../languages/jinja.html|jinja j2 jinja2|3
   Coq|../languages/coq.html|coq v|2
   ColdFusion|../languages/coldfusion.html|cfm cfml|2
-  Emacs Lisp|../languages/emacs-lisp.html|el emacs emacsdesktop elc|4
   Monkey|../languages/monkey.html|monkey monkey2|2
+  Emacs Lisp|../languages/emacs-lisp.html|el emacs emacsdesktop elc|4
   AutoIt|../languages/autoit.html|au3|1
   ABAP|../languages/abap.html|abap ABAP|2
   Nearley|../languages/nearley.html|ne nearley|2
@@ -366,8 +366,8 @@ replace TABLE
   Uno|../languages/uno.html|uno|1
   Varnish Configuration Language|../languages/vcl.html|vcl|1
   Clarion|../languages/clarion.html|clw|1
-  P4|../languages/p4.html|p4|1
   Slope|../languages/slope.html|slo|1
+  P4|../languages/p4.html|p4|1
   X PixMap|../languages/x-pixmap.html|xpm pm|2
   NetLinx|../languages/netlinx.html|axserb axierb axs axi|4
   X BitMap|../languages/x-bitmap.html|xbm|1
@@ -387,8 +387,8 @@ replace TABLE
   XProc|../languages/xproc.html|xpl xproc|2
   Cobra|../languages/cobra.html|cobra|1
   Apex|../languages/apex.html|cls|1
-  NCAR Command Language|../languages/ncl.html|ncl|1
   BNF|../languages/bnf.html|bnf|1
+  NCAR Command Language|../languages/ncl.html|ncl|1
   Volt|../languages/volt.html|volt|1
   CoNLL-U|../languages/conll-u.html|conllu conll|2
   Asymptote|../languages/asymptote.html|asy|1
@@ -401,18 +401,18 @@ replace TABLE
   Filebench WML|../languages/filebench-wml.html|f|1
   Eclipse Command Language|../languages/eclipse-command-language.html|ecl|1
   Tea|../languages/tea.html|tea|1
+  Creole|../languages/creole.html|creole|1
   TSV|../languages/tsv.html|tsv|1
   PIC|../languages/pic.html|pic chem|2
   ShaderLab|../languages/shaderlab.html|shader|1
+  Cryptol|../languages/cryptol.html|cry|1
   UPC|../languages/unified-parallel-c.html|upc|1
-  Creole|../languages/creole.html|creole|1
   Nix|../languages/nix.html|nix|1
   COLLADA|../languages/collada.html|dae|1
   JSONiq|../languages/jsoniq.html|jq|1
   Easybuild|../languages/easybuild.html|eb|1
   Meson|../languages/meson.html|meson.build meson_options.txt|2
   Harbour|../languages/harbour.html|hb prg ch hbp|4
-  Cryptol|../languages/cryptol.html|cry|1
   COMPONENT PASCAL|../languages/component-pascal.html|cp cps|2
   POV-Ray SDL|../languages/pov-ray-sdl.html|pov inc|2
   IcedCoffeeScript|../languages/icedcoffeescript.html|coffee|1
@@ -622,9 +622,9 @@ replace TABLE
   Boogie|../languages/boogie.html|bpl|1
   hoon|../languages/hoon.html|hoon|1
   HyPhy|../languages/hyphy.html|bf|1
+  Candy|../languages/candy.html|candy|1
   Kuin|../languages/kuin.html|kn|1
   Pharen|../languages/pharen.html|phn|1
-  Candy|../languages/candy.html|candy|1
   CLAIRE|../languages/claire.html|cl|1
   Sugar|../languages/sugar.html|sjs|1
   ten|../languages/ten.html|ten|1
@@ -661,9 +661,9 @@ replace TABLE
   Savi|../languages/savi.html|savi|1
   git-config|../languages/git-config.html|gitconfig|1
   SubX|../languages/subx.html|subx|1
+  Jisp|../languages/jisp.html|jisp|1
   CheetahTemplate|../languages/cheetah.html|tmpl spt|2
   Myghty|../languages/myghty.html|myt autodelegate|2
-  Jisp|../languages/jisp.html|jisp|1
   Todotxt|../languages/todotxt.html|todo.txt todotxt|2
   Sun Raster|../languages/sun-raster-format.html|sun ras|2
   Rita|../languages/rita.html|rita|1
@@ -687,6 +687,7 @@ replace TABLE
   formality|../languages/formality.html|fm|1
   Storymatic|../languages/storymatic.html|coffee|1
   clarity|../languages/clarity.html|clar|1
+  Croc|../languages/croc.html|croc|1
   plink-ped-format|../languages/plink-ped-format.html|ped|1
   SARL|../languages/sarl.html|sarl|1
   phylip|../languages/phylip.html|phy ph|2
@@ -700,7 +701,6 @@ replace TABLE
   Nasal|../languages/nasal.html|nas|1
   Autoconf|../languages/autoconf.html|ac|1
   Hot Cocoa Lisp|../languages/hotcocoalisp.html|hcl|1
-  Croc|../languages/croc.html|croc|1
   arrow|../languages/arrow.html|arw|1
   ObjectScript|../languages/objectscript.html|cls|1
   Parasolid|../languages/parasolid.html|x_t x_b|2
