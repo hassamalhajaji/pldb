@@ -9,59 +9,59 @@ replace TABLE
   C|../languages/c.html|pl|1972|3
   Python|../languages/python.html|pl|1991|4
   C++|../languages/cpp.html|pl|1985|5
-  Linux|../languages/linux.html|os|1991|6
-  HTML|../languages/html.html|textMarkup|1991|7
+  HTML|../languages/html.html|textMarkup|1991|6
+  Linux|../languages/linux.html|os|1991|7
   SQL|../languages/sql.html|queryLanguage|1974|8
-  PHP|../languages/php.html|pl|1995|9
-  XML|../languages/xml.html|dataNotation|1996|10
+  XML|../languages/xml.html|dataNotation|1996|9
+  PHP|../languages/php.html|pl|1995|10
   Perl|../languages/perl.html|pl|1987|11
   MATLAB|../languages/matlab.html|pl|1984|12
   Ruby|../languages/ruby.html|pl|1995|13
   C#|../languages/csharp.html|pl|2000|14
-  Fortran|../languages/fortran.html|pl|1957|15
-  Android|../languages/android.html|os|2008|16
-  CSS|../languages/css.html|stylesheetLanguage|1996|17
-  MySQL|../languages/mysql.html|queryLanguage|1995|18
-  iOS|../languages/ios.html|os|2007|19
-  Go|../languages/go.html|pl|2009|20
-  R|../languages/r.html|pl|1993|21
-  Swift|../languages/swift.html|pl|2014|22
-  JSON|../languages/json.html|dataNotation|2001|23
-  Scala|../languages/scala.html|pl|2004|24
+  Android|../languages/android.html|os|2008|15
+  Fortran|../languages/fortran.html|pl|1957|16
+  MySQL|../languages/mysql.html|queryLanguage|1995|17
+  CSS|../languages/css.html|stylesheetLanguage|1996|18
+  R|../languages/r.html|pl|1993|19
+  iOS|../languages/ios.html|os|2007|20
+  Go|../languages/go.html|pl|2009|21
+  JSON|../languages/json.html|dataNotation|2001|22
+  Swift|../languages/swift.html|pl|2014|23
+  Ada|../languages/ada.html|pl|1980|24
   COBOL|../languages/cobol.html|pl|1959|25
-  Haskell|../languages/haskell.html|pl|1990|26
-  Rust|../languages/rust.html|pl|2010|27
-  Pascal|../languages/pascal.html|pl|1970|28
-  PostgreSQL|../languages/postgresql.html|queryLanguage|1986|29
-  Ada|../languages/ada.html|pl|1980|30
+  Scala|../languages/scala.html|pl|2004|26
+  Pascal|../languages/pascal.html|pl|1970|27
+  PostgreSQL|../languages/postgresql.html|queryLanguage|1986|28
+  Rust|../languages/rust.html|pl|2010|29
+  Haskell|../languages/haskell.html|pl|1990|30
   Lisp|../languages/lisp.html|pl|1958|31
   SAS|../languages/sas.html|pl|1976|32
   TypeScript|../languages/typescript.html|pl|2012|33
   Lua|../languages/lua.html|pl|1993|34
   ARM|../languages/arm.html|assembly|1985|35
-  PowerShell|../languages/powershell.html|pl|2006|36
-  Prolog|../languages/prolog.html|pl|1972|37
+  Prolog|../languages/prolog.html|pl|1972|36
+  PowerShell|../languages/powershell.html|pl|2006|37
   Objective-C|../languages/objective-c.html|pl|1984|38
   Clojure|../languages/clojure.html|pl|2007|39
   Kotlin|../languages/kotlin.html|pl|2011|40
-  Erlang|../languages/erlang.html|pl|1986|41
-  Julia|../languages/julia.html|pl|2012|42
-  ISBN|../languages/isbn.html|schema|1970|43
-  Mathematica|../languages/mathematica.html|pl|1988|44
-  Elixir|../languages/elixir.html|pl|2011|45
-  Emacs|../languages/emacs-editor.html|editor|1976|46
-  Modula-2|../languages/modula-2.html|pl|1978|47
-  CUDA|../languages/cuda.html|pl|2007|48
+  Node.js|../languages/nodejs.html|pl|2009|41
+  Erlang|../languages/erlang.html|pl|1986|42
+  Julia|../languages/julia.html|pl|2012|43
+  ISBN|../languages/isbn.html|schema|1970|44
+  Mathematica|../languages/mathematica.html|pl|1988|45
+  Elixir|../languages/elixir.html|pl|2011|46
+  Emacs|../languages/emacs-editor.html|editor|1976|47
+  Modula-2|../languages/modula-2.html|pl|1978|48
   JQuery|../languages/jquery.html|library|2006|49
-  Scheme|../languages/scheme.html|pl|1970|50
-  Tcl|../languages/tcl.html|pl|1988|51
-  Assembly language|../languages/assembly-language.html|assembly|1960|52
-  Vim|../languages/vim-editor.html|editor|1991|53
-  BASIC|../languages/basic.html|pl|1964|54
-  Dart|../languages/dart.html|pl|2011|55
-  Visual Basic|../languages/visual-basic.html|pl|1991|56
-  ASCII|../languages/ascii.html|characterEncoding|1963|57
-  Node.js|../languages/nodejs.html|pl|2009|58
+  CUDA|../languages/cuda.html|pl|2007|50
+  Scheme|../languages/scheme.html|pl|1970|51
+  Tcl|../languages/tcl.html|pl|1988|52
+  Assembly language|../languages/assembly-language.html|assembly|1960|53
+  Vim|../languages/vim-editor.html|editor|1991|54
+  BASIC|../languages/basic.html|pl|1964|55
+  Dart|../languages/dart.html|pl|2011|56
+  Visual Basic|../languages/visual-basic.html|pl|1991|57
+  ASCII|../languages/ascii.html|characterEncoding|1963|58
   Arduino|../languages/arduino.html|pl|2005|59
   ActionScript|../languages/actionscript.html|pl|1998|60
   awk|../languages/awk.html|pl|1977|61
@@ -71,8 +71,8 @@ replace TABLE
   Ruby on Rails|../languages/rails.html|framework|2005|65
   Crystal|../languages/crystal.html|pl|2014|66
   HTTP|../languages/http.html|protocol|1989|67
-  Delphi|../languages/delphi.html|pl|1995|68
-  WordPress|../languages/wordpress.html|application|2003|69
+  WordPress|../languages/wordpress.html|application|2003|68
+  Delphi|../languages/delphi.html|pl|1995|69
   VBA|../languages/vba.html|pl|1993|70
   Verilog|../languages/verilog.html|hardwareDescriptionLanguage|1984|71
   Smalltalk|../languages/smalltalk.html|pl|1972|72
@@ -81,16 +81,16 @@ replace TABLE
   Modula-3|../languages/modula-3.html|pl|1986|75
   Unix|../languages/unix.html|os|1969|76
   Reason|../languages/reason.html|pl|2016|77
-  Unicode|../languages/unicode.html|characterEncoding|1987|78
-  MongoDB|../languages/mongodb.html|application|2009|79
+  MongoDB|../languages/mongodb.html|application|2009|78
+  Unicode|../languages/unicode.html|characterEncoding|1987|79
   UML|../languages/uml.html|xmlFormat|1996|80
-  Solidity|../languages/solidity.html|contractLanguage|2014|81
-  Sage|../languages/sagemath.html|pl|2005|82
-  AWS|../languages/aws.html|cloud|2006|83
+  AWS|../languages/aws.html|cloud|2006|81
+  Solidity|../languages/solidity.html|contractLanguage|2014|82
+  Sage|../languages/sagemath.html|pl|2005|83
   Yacc|../languages/yacc.html|grammarLanguage|1975|84
   D|../languages/d.html|pl|2001|85
-  Groovy|../languages/groovy.html|pl|2003|86
-  Elm|../languages/elm.html|pl|2012|87
+  Elm|../languages/elm.html|pl|2012|86
+  Groovy|../languages/groovy.html|pl|2003|87
   VHDL|../languages/vhdl.html|hardwareDescriptionLanguage|1983|88
   Racket|../languages/racket.html|pl|1994|89
   Common Lisp|../languages/common-lisp.html|pl|1984|90
@@ -122,9 +122,9 @@ replace TABLE
   SciPy|../languages/scipy.html|library|2001|116
   Nim|../languages/nim.html|pl|2008|117
   SMTP|../languages/smtp.html|protocol|1982|118
-  LFE|../languages/lfe.html|pl|2008|119
-  Forth|../languages/forth.html|pl|1970|120
-  SPSS|../languages/spss.html|pl|1968|121
+  SPSS|../languages/spss.html|pl|1968|119
+  LFE|../languages/lfe.html|pl|2008|120
+  Forth|../languages/forth.html|pl|1970|121
   Rexx|../languages/rexx.html|pl|1979|122
   Solaris|../languages/solaris.html|os|1992|123
   PureBasic|../languages/purebasic.html|pl|1998|124
@@ -143,9 +143,9 @@ replace TABLE
   ML|../languages/ml.html|pl|1973|137
   Oberon|../languages/oberon.html|pl|1986|138
   Applescript|../languages/applescript.html|pl|1993|139
-  MediaWiki|../languages/mediawiki.html|wikiMarkup|2002|140
-  Simula|../languages/simula.html|pl|1965|141
-  LabVIEW G|../languages/labview.html|pl|1986|142
+  LabVIEW G|../languages/labview.html|pl|1986|140
+  MediaWiki|../languages/mediawiki.html|wikiMarkup|2002|141
+  Simula|../languages/simula.html|pl|1965|142
   REST|../languages/rest.html|protocol|1996|143
   fish|../languages/fish.html|pl|2005|144
   OpenGL|../languages/opengl.html|library|1992|145
@@ -154,8 +154,8 @@ replace TABLE
   SOAP|../languages/soap.html|xmlFormat|1998|148
   Idris|../languages/idris.html|pl|2014|149
   Visual Studio Code|../languages/visual-studio-code-editor.html|editor|2015|150
-  FreeBSD|../languages/freebsd.html|os|1993|151
-  Git|../languages/git.html|application|2005|152
+  Git|../languages/git.html|application|2005|151
+  FreeBSD|../languages/freebsd.html|os|1993|152
   Nginx|../languages/nginx-config.html|configFormat|2004|153
   JVM|../languages/jvm.html|vm|1994|154
   sed|../languages/sed.html|pl|1974|155
@@ -338,8 +338,8 @@ replace TABLE
   YARA|../languages/yara.html|pl|2008|332
   PL/pgSQL|../languages/plpgsql.html|pl|1998|333
   E|../languages/e.html|pl|1997|334
-  Alloy|../languages/alloy.html|pl|1997|335
-  CSP|../languages/csp.html|pl|1978|336
+  CSP|../languages/csp.html|pl|1978|335
+  Alloy|../languages/alloy.html|pl|1997|336
   Ioke|../languages/ioke.html|pl|2008|337
   Office Open XML|../languages/ooxml.html|xmlFormat|2006|338
   Modelica|../languages/modelica.html|pl|1997|339

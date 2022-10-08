@@ -11,29 +11,29 @@ replace TABLE
   C++|../languages/cpp.html|cpp c++ cc cp cxx h h++ hh hpp hxx inc inl ino ipp ixx re tcc tpp C H CPP|21
   HTML|../languages/html.html|html hta htm htmlhl inc xht xhtml xslt|8
   SQL|../languages/sql.html|sql cql ddl inc mysql prc tab udf viw|9
-  PHP|../languages/php.html|php phtml php3 php4 php5 php7 phps aw ctp fcgi inc phpt php[345]|13
   XML|../languages/xml.html|xml adml admx ant axaml axml builds ccproj ccxml clixml cproject cscfg csdef csl csproj ct depproj dita ditamap ditaval dllconfig dotsettings filters fsproj fxml glade gml gmx grxml gst hzp iml ivy jelly jsproj kml launch mdpolicy mjml mm mod mxml natvis ncl ndproj nproj nuspec odd osm pkgproj pluginspec proj props ps1xml psc1 pt qhelp rdf res resx rs rss sch scxml sfproj shproj srdf storyboard sublime-snippet targets tml ts tsx ui urdf ux vbproj vcxproj vsixmanifest vssettings vstemplate vxml wixproj workflow wsdl wsf wxi wxl wxs x3d xacro xaml xib xlf xliff xmi xmldist xmp xproj xsd xspec xul zcml xsl xslt|105
+  PHP|../languages/php.html|php phtml php3 php4 php5 php7 phps aw ctp fcgi inc phpt php[345]|13
   Perl|../languages/perl.html|pl pm t pod al cgi fcgi perl ph plx psgi|11
   MATLAB|../languages/matlab.html|matlab m|2
   Ruby|../languages/ruby.html|rb builder eye fcgi gemspec god jbuilder mspec pluginspec podspec prawn rabl rake rbi rbuild rbw rbx ru ruby spec thor watchr Rakefile duby Gemfile Vagrantfile|26
   C#|../languages/csharp.html|cs cake csx linq|4
   Fortran|../languages/fortran.html|f for f90 f95 f03 f08 f15 f77 fpp F03 F90|11
   CSS|../languages/css.html|css|1
-  Go|../languages/go.html|go|1
   R|../languages/r.html|r R RData rds rda rd rsx|7
-  Swift|../languages/swift.html|swift|1
+  Go|../languages/go.html|go|1
   JSON|../languages/json.html|json 4DForm 4DProject avsc geojson gltf har ice JSON-tmLanguage jsonl mcmeta tfstate tfstatebackup topojson webapp webmanifest yy yyp Pipfile.lock|19
-  Scala|../languages/scala.html|scala sc kojo sbt|4
-  COBOL|../languages/cobol.html|cbl cob cpy ccp cobol COB CPY|7
-  Haskell|../languages/haskell.html|hs lhs hs-boot hsc|4
-  Rust|../languages/rust.html|rs rlib rsin rs.in|4
-  Pascal|../languages/pascal.html|pp pas inc dfm dpr lpr pascal|7
+  Swift|../languages/swift.html|swift|1
   Ada|../languages/ada.html|adb ads ada|3
+  COBOL|../languages/cobol.html|cbl cob cpy ccp cobol COB CPY|7
+  Scala|../languages/scala.html|scala sc kojo sbt|4
+  Pascal|../languages/pascal.html|pp pas inc dfm dpr lpr pascal|7
+  Rust|../languages/rust.html|rs rlib rsin rs.in|4
+  Haskell|../languages/haskell.html|hs lhs hs-boot hsc|4
   SAS|../languages/sas.html|sas SAS|2
   TypeScript|../languages/typescript.html|ts tsx cts mts|4
   Lua|../languages/lua.html|lua fcgi nse p8 pd_lua rbxs rockspec wlua|8
-  PowerShell|../languages/powershell.html|ps1 psd1 psm1|3
   Prolog|../languages/prolog.html|pl pro P prolog yap ecl|6
+  PowerShell|../languages/powershell.html|ps1 psd1 psm1|3
   Objective-C|../languages/objective-c.html|h m mm C|4
   Clojure|../languages/clojure.html|clj cljs cljc edn bb boot cl2 cljshl cljscm cljx hic|11
   Kotlin|../languages/kotlin.html|kt kts ktm|3
@@ -68,8 +68,8 @@ replace TABLE
   Sage|../languages/sagemath.html|sage sagews|2
   Yacc|../languages/yacc.html|y yacc yy|3
   D|../languages/d.html|d di|2
-  Groovy|../languages/groovy.html|groovy grt gtpl gvy gradle|5
   Elm|../languages/elm.html|elm|1
+  Groovy|../languages/groovy.html|groovy grt gtpl gvy gradle|5
   VHDL|../languages/vhdl.html|vhdl vhd vhf vhi vho vhs vht vhw|8
   Racket|../languages/racket.html|rkt rktl rktd scrbl plt ss scm|7
   Common Lisp|../languages/common-lisp.html|lisp lsp l cl fasl asd ny podsl sexp|9
@@ -99,8 +99,8 @@ replace TABLE
   Oz|../languages/oz.html|oz|1
   Liquid|../languages/liquid.html|liquid|1
   Applescript|../languages/applescript.html|scpt scptd AppleScript applescript|4
-  MediaWiki|../languages/mediawiki.html|mediawiki wiki|2
   LabVIEW G|../languages/labview.html|lvproj lvclass lvlib|3
+  MediaWiki|../languages/mediawiki.html|mediawiki wiki|2
   fish|../languages/fish.html|fish load|2
   VBScript|../languages/vbscript.html|vbs vbe wsf wsc VBS|5
   Idris|../languages/idris.html|idr lidr|2

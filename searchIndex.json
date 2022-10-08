@@ -30,16 +30,16 @@
     "url": "/languages/cpp.html"
   },
   {
-    "label": "Linux",
-    "appeared": "1991",
-    "id": "linux",
-    "url": "/languages/linux.html"
-  },
-  {
     "label": "HTML",
     "appeared": "1991",
     "id": "html",
     "url": "/languages/html.html"
+  },
+  {
+    "label": "Linux",
+    "appeared": "1991",
+    "id": "linux",
+    "url": "/languages/linux.html"
   },
   {
     "label": "SQL",
@@ -48,16 +48,16 @@
     "url": "/languages/sql.html"
   },
   {
-    "label": "PHP",
-    "appeared": "1995",
-    "id": "php",
-    "url": "/languages/php.html"
-  },
-  {
     "label": "XML",
     "appeared": "1996",
     "id": "xml",
     "url": "/languages/xml.html"
+  },
+  {
+    "label": "PHP",
+    "appeared": "1995",
+    "id": "php",
+    "url": "/languages/php.html"
   },
   {
     "label": "Perl",
@@ -84,16 +84,22 @@
     "url": "/languages/csharp.html"
   },
   {
+    "label": "Android",
+    "appeared": "2008",
+    "id": "android",
+    "url": "/languages/android.html"
+  },
+  {
     "label": "Fortran",
     "appeared": "1957",
     "id": "fortran",
     "url": "/languages/fortran.html"
   },
   {
-    "label": "Android",
-    "appeared": "2008",
-    "id": "android",
-    "url": "/languages/android.html"
+    "label": "MySQL",
+    "appeared": "1995",
+    "id": "mysql",
+    "url": "/languages/mysql.html"
   },
   {
     "label": "CSS",
@@ -102,10 +108,10 @@
     "url": "/languages/css.html"
   },
   {
-    "label": "MySQL",
-    "appeared": "1995",
-    "id": "mysql",
-    "url": "/languages/mysql.html"
+    "label": "R",
+    "appeared": "1993",
+    "id": "r",
+    "url": "/languages/r.html"
   },
   {
     "label": "iOS",
@@ -120,10 +126,10 @@
     "url": "/languages/go.html"
   },
   {
-    "label": "R",
-    "appeared": "1993",
-    "id": "r",
-    "url": "/languages/r.html"
+    "label": "JSON",
+    "appeared": "2001",
+    "id": "json",
+    "url": "/languages/json.html"
   },
   {
     "label": "Swift",
@@ -132,16 +138,10 @@
     "url": "/languages/swift.html"
   },
   {
-    "label": "JSON",
-    "appeared": "2001",
-    "id": "json",
-    "url": "/languages/json.html"
-  },
-  {
-    "label": "Scala",
-    "appeared": "2004",
-    "id": "scala",
-    "url": "/languages/scala.html"
+    "label": "Ada",
+    "appeared": "1980",
+    "id": "ada",
+    "url": "/languages/ada.html"
   },
   {
     "label": "COBOL",
@@ -150,16 +150,10 @@
     "url": "/languages/cobol.html"
   },
   {
-    "label": "Haskell",
-    "appeared": "1990",
-    "id": "haskell",
-    "url": "/languages/haskell.html"
-  },
-  {
-    "label": "Rust",
-    "appeared": "2010",
-    "id": "rust",
-    "url": "/languages/rust.html"
+    "label": "Scala",
+    "appeared": "2004",
+    "id": "scala",
+    "url": "/languages/scala.html"
   },
   {
     "label": "Pascal",
@@ -174,10 +168,16 @@
     "url": "/languages/postgresql.html"
   },
   {
-    "label": "Ada",
-    "appeared": "1980",
-    "id": "ada",
-    "url": "/languages/ada.html"
+    "label": "Rust",
+    "appeared": "2010",
+    "id": "rust",
+    "url": "/languages/rust.html"
+  },
+  {
+    "label": "Haskell",
+    "appeared": "1990",
+    "id": "haskell",
+    "url": "/languages/haskell.html"
   },
   {
     "label": "Lisp",
@@ -210,16 +210,16 @@
     "url": "/languages/arm.html"
   },
   {
-    "label": "PowerShell",
-    "appeared": "2006",
-    "id": "powershell",
-    "url": "/languages/powershell.html"
-  },
-  {
     "label": "Prolog",
     "appeared": "1972",
     "id": "prolog",
     "url": "/languages/prolog.html"
+  },
+  {
+    "label": "PowerShell",
+    "appeared": "2006",
+    "id": "powershell",
+    "url": "/languages/powershell.html"
   },
   {
     "label": "Objective-C",
@@ -238,6 +238,12 @@
     "appeared": "2011",
     "id": "kotlin",
     "url": "/languages/kotlin.html"
+  },
+  {
+    "label": "Node.js",
+    "appeared": "2009",
+    "id": "nodejs",
+    "url": "/languages/nodejs.html"
   },
   {
     "label": "Erlang",
@@ -282,16 +288,16 @@
     "url": "/languages/modula-2.html"
   },
   {
-    "label": "CUDA",
-    "appeared": "2007",
-    "id": "cuda",
-    "url": "/languages/cuda.html"
-  },
-  {
     "label": "JQuery",
     "appeared": "2006",
     "id": "jquery",
     "url": "/languages/jquery.html"
+  },
+  {
+    "label": "CUDA",
+    "appeared": "2007",
+    "id": "cuda",
+    "url": "/languages/cuda.html"
   },
   {
     "label": "Scheme",
@@ -340,12 +346,6 @@
     "appeared": "1963",
     "id": "ascii",
     "url": "/languages/ascii.html"
-  },
-  {
-    "label": "Node.js",
-    "appeared": "2009",
-    "id": "nodejs",
-    "url": "/languages/nodejs.html"
   },
   {
     "label": "Arduino",
@@ -402,16 +402,16 @@
     "url": "/languages/http.html"
   },
   {
-    "label": "Delphi",
-    "appeared": "1995",
-    "id": "delphi",
-    "url": "/languages/delphi.html"
-  },
-  {
     "label": "WordPress",
     "appeared": "2003",
     "id": "wordpress",
     "url": "/languages/wordpress.html"
+  },
+  {
+    "label": "Delphi",
+    "appeared": "1995",
+    "id": "delphi",
+    "url": "/languages/delphi.html"
   },
   {
     "label": "VBA",
@@ -462,22 +462,28 @@
     "url": "/languages/reason.html"
   },
   {
-    "label": "Unicode",
-    "appeared": "1987",
-    "id": "unicode",
-    "url": "/languages/unicode.html"
-  },
-  {
     "label": "MongoDB",
     "appeared": "2009",
     "id": "mongodb",
     "url": "/languages/mongodb.html"
   },
   {
+    "label": "Unicode",
+    "appeared": "1987",
+    "id": "unicode",
+    "url": "/languages/unicode.html"
+  },
+  {
     "label": "UML",
     "appeared": "1996",
     "id": "uml",
     "url": "/languages/uml.html"
+  },
+  {
+    "label": "AWS",
+    "appeared": "2006",
+    "id": "aws",
+    "url": "/languages/aws.html"
   },
   {
     "label": "Solidity",
@@ -492,12 +498,6 @@
     "url": "/languages/sagemath.html"
   },
   {
-    "label": "AWS",
-    "appeared": "2006",
-    "id": "aws",
-    "url": "/languages/aws.html"
-  },
-  {
     "label": "Yacc",
     "appeared": "1975",
     "id": "yacc",
@@ -510,16 +510,16 @@
     "url": "/languages/d.html"
   },
   {
-    "label": "Groovy",
-    "appeared": "2003",
-    "id": "groovy",
-    "url": "/languages/groovy.html"
-  },
-  {
     "label": "Elm",
     "appeared": "2012",
     "id": "elm",
     "url": "/languages/elm.html"
+  },
+  {
+    "label": "Groovy",
+    "appeared": "2003",
+    "id": "groovy",
+    "url": "/languages/groovy.html"
   },
   {
     "label": "VHDL",
@@ -708,6 +708,12 @@
     "url": "/languages/smtp.html"
   },
   {
+    "label": "SPSS",
+    "appeared": "1968",
+    "id": "spss",
+    "url": "/languages/spss.html"
+  },
+  {
     "label": "LFE",
     "appeared": "2008",
     "id": "lfe",
@@ -718,12 +724,6 @@
     "appeared": "1970",
     "id": "forth",
     "url": "/languages/forth.html"
-  },
-  {
-    "label": "SPSS",
-    "appeared": "1968",
-    "id": "spss",
-    "url": "/languages/spss.html"
   },
   {
     "label": "Rexx",
@@ -834,6 +834,12 @@
     "url": "/languages/applescript.html"
   },
   {
+    "label": "LabVIEW G",
+    "appeared": "1986",
+    "id": "labview",
+    "url": "/languages/labview.html"
+  },
+  {
     "label": "MediaWiki",
     "appeared": "2002",
     "id": "mediawiki",
@@ -844,12 +850,6 @@
     "appeared": "1965",
     "id": "simula",
     "url": "/languages/simula.html"
-  },
-  {
-    "label": "LabVIEW G",
-    "appeared": "1986",
-    "id": "labview",
-    "url": "/languages/labview.html"
   },
   {
     "label": "REST",
@@ -900,16 +900,16 @@
     "url": "/languages/visual-studio-code-editor.html"
   },
   {
-    "label": "FreeBSD",
-    "appeared": "1993",
-    "id": "freebsd",
-    "url": "/languages/freebsd.html"
-  },
-  {
     "label": "Git",
     "appeared": "2005",
     "id": "git",
     "url": "/languages/git.html"
+  },
+  {
+    "label": "FreeBSD",
+    "appeared": "1993",
+    "id": "freebsd",
+    "url": "/languages/freebsd.html"
   },
   {
     "label": "Nginx",
@@ -2004,16 +2004,16 @@
     "url": "/languages/e.html"
   },
   {
-    "label": "Alloy",
-    "appeared": "1997",
-    "id": "alloy",
-    "url": "/languages/alloy.html"
-  },
-  {
     "label": "CSP",
     "appeared": "1978",
     "id": "csp",
     "url": "/languages/csp.html"
+  },
+  {
+    "label": "Alloy",
+    "appeared": "1997",
+    "id": "alloy",
+    "url": "/languages/alloy.html"
   },
   {
     "label": "Ioke",
