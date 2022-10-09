@@ -1,6 +1,6 @@
 importOnly
 replace EXTENSION_COUNT
- 1,539
+ 1,540
 replace TABLE
  pipeTable
   name|nameLink|extensions|numberOfExtensions
@@ -286,11 +286,11 @@ replace TABLE
   Stylus|../languages/stylus.html|styl|1
   K|../languages/k.html|k|1
   Latte|../languages/latte.html|latte|1
-  CIL|../languages/cilk.html|cil|1
   JFlex|../languages/jflex.html|flex jflex|2
+  CIL|../languages/cilk.html|cil|1
   Vim script|../languages/vim-script.html|vim vba vimrc vmb .vimrc .exrc .gvimrc _vimrc _exrc _gvimrc gvimrc|11
-  RMarkdown|../languages/rmarkdown.html|rmd qmd|2
   DTD|../languages/dtd.html|dtd|1
+  RMarkdown|../languages/rmarkdown.html|rmd qmd|2
   FreeBASIC|../languages/freebasic.html|bi bas|2
   TXL|../languages/txl.html|txl|1
   AspectJ|../languages/aspectj.html|aj|1
@@ -377,6 +377,7 @@ replace TABLE
   Textile|../languages/textile.html|textile|1
   BBC BASIC|../languages/bbc-basic.html|bbc|1
   Shapefile|../languages/shapefile.html|shp shx dbf|3
+  Z shell|../languages/z-shell.html|.ZSH|1
   LookML|../languages/lookml.html|lookml modellkml viewlkml|3
   MQL5|../languages/mql.html|mq5 mqh mq4|3
   chaiscript|../languages/chaiscript.html|chai|1
@@ -528,9 +529,9 @@ replace TABLE
   Earl Grey|../languages/earl-grey.html|eg|1
   NestedText|../languages/nestedtext.html|nt|1
   Simple Actor Language System and Architecture|../languages/salsa.html|salsa|1
+  basic calculator|../languages/bc.html|bc|1
   BitBake|../languages/bitbake.html|bb|1
   Grammatical Framework|../languages/grammatical-framework.html|gf|1
-  basic calculator|../languages/bc.html|bc|1
   Mako|../languages/mako.html|mako mao|2
   Semantic Patch Language|../languages/smpl.html|cocci|1
   ApacheConf|../languages/apacheconf.html|apacheconf vhost .htaccess apache.conf apache2.conf|5
@@ -743,4 +744,4 @@ replace TABLE
   proverif-lang|../languages/proverif-lang.html|pv|1
   rdata-format|../languages/rdata-format.html|Rdata rdata rda RData|4
 replace LANG_WITH_DATA_COUNT
- 738
+ 739
