@@ -10329,16 +10329,16 @@
     "url": "/languages/notation3.html"
   },
   {
-    "label": "Atlas Autocode",
-    "appeared": "1965",
-    "id": "atlas-autocode",
-    "url": "/languages/atlas-autocode.html"
-  },
-  {
     "label": "KUKA Robot Language",
     "appeared": "2010",
     "id": "kuka",
     "url": "/languages/kuka.html"
+  },
+  {
+    "label": "Atlas Autocode",
+    "appeared": "1965",
+    "id": "atlas-autocode",
+    "url": "/languages/atlas-autocode.html"
   },
   {
     "label": "GorillaScript",
@@ -10958,6 +10958,12 @@
     "url": "/languages/kuin.html"
   },
   {
+    "label": "Pharen",
+    "appeared": "2009",
+    "id": "pharen",
+    "url": "/languages/pharen.html"
+  },
+  {
     "label": "Binary Alignment Map",
     "appeared": "2009",
     "id": "bam-format",
@@ -10974,12 +10980,6 @@
     "appeared": "1993",
     "id": "obliq",
     "url": "/languages/obliq.html"
-  },
-  {
-    "label": "Pharen",
-    "appeared": "2009",
-    "id": "pharen",
-    "url": "/languages/pharen.html"
   },
   {
     "label": "Gist",
@@ -13099,6 +13099,12 @@
     "url": "/languages/jisp.html"
   },
   {
+    "label": "mys",
+    "appeared": "2020",
+    "id": "mys",
+    "url": "/languages/mys.html"
+  },
+  {
     "label": "PACT I",
     "appeared": "1955",
     "id": "pact-i",
@@ -13109,12 +13115,6 @@
     "appeared": "1976",
     "id": "basic-11",
     "url": "/languages/basic-11.html"
-  },
-  {
-    "label": "mys",
-    "appeared": "2020",
-    "id": "mys",
-    "url": "/languages/mys.html"
   },
   {
     "label": "Vilnius BASIC",
