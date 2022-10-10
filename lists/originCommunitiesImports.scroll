@@ -8,7 +8,7 @@ replace TABLE
   <a name='Apple' />Apple|<a href='../languages/swift.html'>Swift</a> - <a href='../languages/powerpc.html'>PowerPC</a> - <a href='../languages/applescript.html'>Applescript</a> - <a href='../languages/dylan.html'>Dylan</a> - <a href='../languages/hypertalk.html'>HyperTalk</a> - <a href='../languages/swift-il.html'>SIL</a> - <a href='../languages/apple-basic.html'>Apple BASIC</a> - <a href='../languages/b3-ir.html'>B3 IR</a> - <a href='../languages/air.html'>AIR</a> - <a href='../languages/3d-logo.html'>3D Logo</a> - <a href='../languages/automator.html'>Automator</a> - <a href='../languages/clascal.html'>Clascal</a>|12
   <a name='Bell_Labs' />Bell Labs|<a href='../languages/c.html'>C</a> - <a href='../languages/cpp.html'>C++</a> - <a href='../languages/awk.html'>awk</a> - <a href='../languages/b.html'>B</a> - <a href='../languages/alef.html'>ALEF</a> - <a href='../languages/bc.html'>basic calculator</a> - <a href='../languages/beflix.html'>BEFLIX</a> - <a href='../languages/bon-programming-language.html'>Bon</a>|8
   <a name='Google' />Google|<a href='../languages/go.html'>Go</a> - <a href='../languages/dart.html'>Dart</a> - <a href='../languages/protobuf.html'>Protocol Buffers</a> - <a href='../languages/flatbuffers.html'>FlatBuffers</a> - <a href='../languages/closure-templates.html'>Closure Templates</a> - <a href='../languages/soy.html'>Soy</a> - <a href='../languages/yedalog.html'>Yedalog</a> - <a href='../languages/lanai.html'>Lanai</a>|8
-  <a name='University_of_California,_Berkeley' />University of California, Berkeley|<a href='../languages/chisel.html'>chisel</a> - <a href='../languages/bloom.html'>bloom</a> - <a href='../languages/c-shell.html'>C shell</a> - <a href='../languages/cgol.html'>CGOL</a> - <a href='../languages/cal.html'>CAL Actor Language</a> - <a href='../languages/cupid.html'>CUPID</a> - <a href='../languages/borneo.html'>Borneo</a> - <a href='../languages/bistro.html'>BISTRO</a>|8
+  <a name='University_of_California,_Berkeley' />University of California, Berkeley|<a href='../languages/chisel.html'>chisel</a> - <a href='../languages/bloom.html'>bloom</a> - <a href='../languages/c-shell.html'>C shell</a> - <a href='../languages/cgol.html'>CGOL</a> - <a href='../languages/cal.html'>CAL Actor Language</a> - <a href='../languages/bistro.html'>BISTRO</a> - <a href='../languages/cupid.html'>CUPID</a> - <a href='../languages/borneo.html'>Borneo</a>|8
   <a name='Facebook' />Facebook|<a href='../languages/reason.html'>Reason</a> - <a href='../languages/graphql.html'>GraphQL</a> - <a href='../languages/hack.html'>Hack</a> - <a href='../languages/tornado.html'>tornado</a> - <a href='../languages/sweetjs.html'>Sweet.js</a> - <a href='../languages/skip.html'>skip</a> - <a href='../languages/linearml.html'>LinearML</a>|7
   <a name='Carnegie_Mellon_University' />Carnegie Mellon University|<a href='../languages/aadl.html'>Avionics Architecture Design Language</a> - <a href='../languages/ct.html'>cT</a> - <a href='../languages/arctic.html'>Arctic</a> - <a href='../languages/adagio.html'>Adagio</a> - <a href='../languages/cvl.html'>CVL</a> - <a href='../languages/amulet.html'>Amulet</a> - <a href='../languages/avalon-common-lisp.html'>Avalon/Common LISP</a>|7
   <a name='Microsoft_Research' />Microsoft Research|<a href='../languages/f-sharp.html'>F#</a> - <a href='../languages/lean.html'>Lean</a> - <a href='../languages/fstar.html'>F*</a> - <a href='../languages/koka.html'>Koka</a> - <a href='../languages/bosque.html'>bosque</a> - <a href='../languages/checked-c.html'>checked-c</a>|6
@@ -499,6 +499,7 @@ replace TABLE
   <a name='Westinghouse_Electric_Corporation' />Westinghouse Electric Corporation|<a href='../languages/beef-lang.html'>BEEF</a>|1
   <a name='USSR_Academy_of_Information_Sciences' />USSR Academy of Information Sciences|<a href='../languages/beta-project.html'>BETA Project</a>|1
   <a name='University_of_Colorado' />University of Colorado|<a href='../languages/bigmac.html'>BIGMAC</a>|1
+  <a name='Danish_National_Research_Foundation_or_Aarhus_University' />Danish National Research Foundation or Aarhus University|<a href='../languages/bigwig.html'>BIGWIG</a>|1
   <a name='Purdue_University_and_NASA' />Purdue University and NASA|<a href='../languages/blaze-2.html'>BLAZE 2</a>|1
   <a name='University_of_London,QueenMary_College' />University of London,QueenMary College|<a href='../languages/brouhaha.html'>BrouHaHa</a>|1
   <a name='Japan_Advanced_Institute_of_Science_and_Technology' />Japan Advanced Institute of Science and Technology|<a href='../languages/cafeobj.html'>CafeObj</a>|1
@@ -520,7 +521,6 @@ replace TABLE
   <a name='KTH_Royal_Institute_of_Technology' />KTH Royal Institute of Technology|<a href='../languages/3rip.html'>3RIP</a>|1
   <a name='Institute_of_Sonology' />Institute of Sonology|<a href='../languages/ac-toolbox.html'>AC Toolbox</a>|1
   <a name='University_of_Pennsylvania_and_Radio_Corporation_of_America' />University of Pennsylvania and Radio Corporation of America|<a href='../languages/acsi-matic.html'>ACSI-Matic</a>|1
-  <a name='Alambik_Limited' />Alambik Limited|<a href='../languages/alambik.html'>Alambik</a>|1
   <a name='Poltava_National_Technical_University' />Poltava National Technical University|<a href='../languages/almir.html'>ALMIR</a>|1
   <a name='Péter_Gömöri' />Péter Gömöri|<a href='../languages/beam-bytecode.html'>BEAM Bytecode</a>|1
   <a name='Department_of_Computer_Science,_University_of_Oxford' />Department of Computer Science, University of Oxford|<a href='../languages/2obj.html'>2OBJ</a>|1
@@ -547,6 +547,7 @@ replace TABLE
   <a name='IP_Sharp_AG' />IP Sharp AG|<a href='../languages/aida.html'>AIDA</a>|1
   <a name='Swedish_Institute_of_Computer_Science' />Swedish Institute of Computer Science|<a href='../languages/akl.html'>AKL</a>|1
   <a name='University_of_Grenoble' />University of Grenoble|<a href='../languages/aladin.html'>ALADIN</a>|1
+  <a name='Alambik_Limited' />Alambik Limited|<a href='../languages/alambik.html'>Alambik</a>|1
   <a name='Universidad_Politécnica_de_Madrid_and_Campus_de_Montegancedo' />Universidad Politécnica de Madrid and Campus de Montegancedo|<a href='../languages/alba.html'>ALBA</a>|1
   <a name='McGill_University' />McGill University|<a href='../languages/aldat.html'>Aldat</a>|1
   <a name='Queen_Mary_and_Westfield_College' />Queen Mary and Westfield College|<a href='../languages/aldwych.html'>Aldwych</a>|1
@@ -608,7 +609,6 @@ replace TABLE
   <a name='Ben-Gurion_University_of_the_Negev_and_Hebrew_University' />Ben-Gurion University of the Negev and Hebrew University|<a href='../languages/bgraf2.html'>BGRAF2</a>|1
   <a name='Electronic_Associates_Inc' />Electronic Associates Inc|<a href='../languages/bhsl.html'>BHSL</a>|1
   <a name='National_Institute_for_Research_in_Digital_Science_and_Technology_or_Inria' />National Institute for Research in Digital Science and Technology or Inria|<a href='../languages/bigloo.html'>Bigloo</a>|1
-  <a name='Danish_National_Research_Foundation_or_Aarhus_University' />Danish National Research Foundation or Aarhus University|<a href='../languages/bigwig.html'>BIGWIG</a>|1
   <a name='The_Rand_Corporation' />The Rand Corporation|<a href='../languages/biomod.html'>BIOMOD</a>|1
   <a name='University_of_Pennsylvania' />University of Pennsylvania|<a href='../languages/biossim.html'>BIOSSIM</a>|1
   <a name='Institute_for_Computer_Applications_in_Science_and_Engineering_and_Purdue_University' />Institute for Computer Applications in Science and Engineering and Purdue University|<a href='../languages/blaze.html'>BLAZE</a>|1
