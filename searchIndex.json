@@ -114,12 +114,6 @@
     "url": "/languages/r.html"
   },
   {
-    "label": "PowerShell",
-    "appeared": "2006",
-    "id": "powershell",
-    "url": "/languages/powershell.html"
-  },
-  {
     "label": "iOS",
     "appeared": "2007",
     "id": "ios",
@@ -138,22 +132,16 @@
     "url": "/languages/json.html"
   },
   {
-    "label": "Kotlin",
-    "appeared": "2011",
-    "id": "kotlin",
-    "url": "/languages/kotlin.html"
+    "label": "Swift",
+    "appeared": "2014",
+    "id": "swift",
+    "url": "/languages/swift.html"
   },
   {
     "label": "Ada",
     "appeared": "1980",
     "id": "ada",
     "url": "/languages/ada.html"
-  },
-  {
-    "label": "Swift",
-    "appeared": "2014",
-    "id": "swift",
-    "url": "/languages/swift.html"
   },
   {
     "label": "COBOL",
@@ -166,6 +154,12 @@
     "appeared": "2004",
     "id": "scala",
     "url": "/languages/scala.html"
+  },
+  {
+    "label": "PowerShell",
+    "appeared": "2006",
+    "id": "powershell",
+    "url": "/languages/powershell.html"
   },
   {
     "label": "Pascal",
@@ -192,22 +186,28 @@
     "url": "/languages/haskell.html"
   },
   {
+    "label": "Kotlin",
+    "appeared": "2011",
+    "id": "kotlin",
+    "url": "/languages/kotlin.html"
+  },
+  {
     "label": "SAS",
     "appeared": "1976",
     "id": "sas",
     "url": "/languages/sas.html"
   },
   {
-    "label": "Lisp",
-    "appeared": "1958",
-    "id": "lisp",
-    "url": "/languages/lisp.html"
-  },
-  {
     "label": "ARM",
     "appeared": "1985",
     "id": "arm",
     "url": "/languages/arm.html"
+  },
+  {
+    "label": "Lisp",
+    "appeared": "1958",
+    "id": "lisp",
+    "url": "/languages/lisp.html"
   },
   {
     "label": "TypeScript",
@@ -378,16 +378,16 @@
     "url": "/languages/bash.html"
   },
   {
-    "label": "F#",
-    "appeared": "2005",
-    "id": "f-sharp",
-    "url": "/languages/f-sharp.html"
-  },
-  {
     "label": "Ruby on Rails",
     "appeared": "2005",
     "id": "rails",
     "url": "/languages/rails.html"
+  },
+  {
+    "label": "F#",
+    "appeared": "2005",
+    "id": "f-sharp",
+    "url": "/languages/f-sharp.html"
   },
   {
     "label": "HTTP",
@@ -396,16 +396,16 @@
     "url": "/languages/http.html"
   },
   {
-    "label": "Crystal",
-    "appeared": "2014",
-    "id": "crystal",
-    "url": "/languages/crystal.html"
-  },
-  {
     "label": "WordPress",
     "appeared": "2003",
     "id": "wordpress",
     "url": "/languages/wordpress.html"
+  },
+  {
+    "label": "Crystal",
+    "appeared": "2014",
+    "id": "crystal",
+    "url": "/languages/crystal.html"
   },
   {
     "label": "Delphi",
@@ -894,16 +894,16 @@
     "url": "/languages/idris.html"
   },
   {
-    "label": "Visual Studio Code",
-    "appeared": "2015",
-    "id": "visual-studio-code-editor",
-    "url": "/languages/visual-studio-code-editor.html"
-  },
-  {
     "label": "Git",
     "appeared": "2005",
     "id": "git",
     "url": "/languages/git.html"
+  },
+  {
+    "label": "Visual Studio Code",
+    "appeared": "2015",
+    "id": "visual-studio-code-editor",
+    "url": "/languages/visual-studio-code-editor.html"
   },
   {
     "label": "FreeBSD",

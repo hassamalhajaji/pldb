@@ -4,8 +4,8 @@ replace TABLE
   name|languages|count|topRank
   <a name='James_Gosling' href='https://en.wikipedia.org/wiki/James_Gosling'>James Gosling</a>|<a href='../languages/java.html'>Java</a>|1|1
   <a name='Brendan_Eich' href='https://en.wikipedia.org/wiki/Brendan_Eich'>Brendan Eich</a>|<a href='../languages/javascript.html'>JavaScript</a> - <a href='../languages/ecmascript.html'>ECMAScript</a>|2|2
-  <a name='Guido_van_Rossum' href='https://en.wikipedia.org/wiki/Guido_van_Rossum'>Guido van Rossum</a>|<a href='../languages/python.html'>Python</a> - <a href='../languages/python-for-s60.html'>Python for S60</a>|2|3
-  <a name='Dennis_Ritchie' href='https://en.wikipedia.org/wiki/Dennis_Ritchie'>Dennis Ritchie</a>|<a href='../languages/c.html'>C</a> - <a href='../languages/b.html'>B</a> - <a href='../languages/m4.html'>M4</a>|3|4
+  <a name='Dennis_Ritchie' href='https://en.wikipedia.org/wiki/Dennis_Ritchie'>Dennis Ritchie</a>|<a href='../languages/c.html'>C</a> - <a href='../languages/b.html'>B</a> - <a href='../languages/m4.html'>M4</a>|3|3
+  <a name='Guido_van_Rossum' href='https://en.wikipedia.org/wiki/Guido_van_Rossum'>Guido van Rossum</a>|<a href='../languages/python.html'>Python</a> - <a href='../languages/python-for-s60.html'>Python for S60</a>|2|4
   <a name='Bjarne_Stroustrup' />Bjarne Stroustrup|<a href='../languages/cpp.html'>C++</a>|1|5
   <a name='Tim_Berners-Lee' href='https://en.wikipedia.org/wiki/Tim_Berners-Lee'>Tim Berners-Lee</a>|<a href='../languages/html.html'>HTML</a> - <a href='../languages/url.html'>URL</a> - <a href='../languages/notation3.html'>Notation3</a>|3|6
   <a name='Donald_D._Chamberlin' />Donald D. Chamberlin|<a href='../languages/sql.html'>SQL</a>|1|7
@@ -20,9 +20,11 @@ replace TABLE
   <a name='Michael_Widenius' />Michael Widenius|<a href='../languages/mysql.html'>MySQL</a>|1|15
   <a name='Ross_Ihaka' />Ross Ihaka|<a href='../languages/r.html'>R</a>|1|16
   <a name='Robert_Gentleman' />Robert Gentleman|<a href='../languages/r.html'>R</a>|1|16
-  <a name='Andrey_Breslav' />Andrey Breslav|<a href='../languages/kotlin.html'>Kotlin</a>|1|17
-  <a name='Douglas_Crockford' href='https://en.wikipedia.org/wiki/Douglas_Crockford'>Douglas Crockford</a>|<a href='../languages/json.html'>JSON</a> - <a href='../languages/tilton.html'>tilton</a>|2|18
-  <a name='Jean_Ichbiah' />Jean Ichbiah|<a href='../languages/ada.html'>Ada</a>|1|19
+  <a name='Douglas_Crockford' href='https://en.wikipedia.org/wiki/Douglas_Crockford'>Douglas Crockford</a>|<a href='../languages/json.html'>JSON</a> - <a href='../languages/tilton.html'>tilton</a>|2|17
+  <a name='Jean_Ichbiah' />Jean Ichbiah|<a href='../languages/ada.html'>Ada</a>|1|18
+  <a name='Rob_Pike' href='https://en.wikipedia.org/wiki/Rob_Pike'>Rob Pike</a>|<a href='../languages/go.html'>Go</a> - <a href='../languages/limbo.html'>Limbo</a> - <a href='../languages/newsqueak.html'>Newsqueak</a>|3|19
+  <a name='Ken_Thompson' href='https://en.wikipedia.org/wiki/Ken_Thompson'>Ken Thompson</a>|<a href='../languages/go.html'>Go</a> - <a href='../languages/b.html'>B</a>|2|19
+  <a name='Robert_Griesemer' />Robert Griesemer|<a href='../languages/go.html'>Go</a>|1|19
   <a name='Howard_Bromberg' />Howard Bromberg|<a href='../languages/cobol.html'>COBOL</a>|1|20
   <a name='Norman_Discount' />Norman Discount|<a href='../languages/cobol.html'>COBOL</a>|1|20
   <a name='Vernon_Reeves' />Vernon Reeves|<a href='../languages/cobol.html'>COBOL</a>|1|20
@@ -30,16 +32,14 @@ replace TABLE
   <a name='William_Selden' />William Selden|<a href='../languages/cobol.html'>COBOL</a>|1|20
   <a name='Gertrude_Tierney' />Gertrude Tierney|<a href='../languages/cobol.html'>COBOL</a>|1|20
   <a name='Grace_Hopper' />Grace Hopper|<a href='../languages/cobol.html'>COBOL</a> - <a href='../languages/flow-matic.html'>FLOW-MATIC</a>|2|20
-  <a name='Jeffrey_Snover' href='https://en.wikipedia.org/wiki/Jeffrey_Snover'>Jeffrey Snover</a>|<a href='../languages/powershell.html'>PowerShell</a>|1|21
-  <a name='Rob_Pike' href='https://en.wikipedia.org/wiki/Rob_Pike'>Rob Pike</a>|<a href='../languages/go.html'>Go</a> - <a href='../languages/limbo.html'>Limbo</a> - <a href='../languages/newsqueak.html'>Newsqueak</a>|3|22
-  <a name='Ken_Thompson' href='https://en.wikipedia.org/wiki/Ken_Thompson'>Ken Thompson</a>|<a href='../languages/go.html'>Go</a> - <a href='../languages/b.html'>B</a>|2|22
-  <a name='Robert_Griesemer' />Robert Griesemer|<a href='../languages/go.html'>Go</a>|1|22
-  <a name='Håkon_Wium_Lie' />Håkon Wium Lie|<a href='../languages/css.html'>CSS</a>|1|23
-  <a name='Chris_Lattner' />Chris Lattner|<a href='../languages/swift.html'>Swift</a>|1|24
-  <a name='Martin_Odersky' href='https://en.wikipedia.org/wiki/Martin_Odersky'>Martin Odersky</a>|<a href='../languages/scala.html'>Scala</a> - <a href='../languages/scala-js.html'>Scala.js</a>|2|25
-  <a name='Marc_G._Fournier' />Marc G. Fournier|<a href='../languages/postgresql.html'>PostgreSQL</a>|1|26
-  <a name='Niklaus_Wirth' href='https://en.wikipedia.org/wiki/Niklaus_Wirth'>Niklaus Wirth</a>|<a href='../languages/pascal.html'>Pascal</a> - <a href='../languages/modula-2.html'>Modula-2</a> - <a href='../languages/oberon.html'>Oberon</a> - <a href='../languages/oberon-2.html'>Oberon-2</a> - <a href='../languages/ebnf.html'>EBNF</a> - <a href='../languages/modula.html'>Modula</a> - <a href='../languages/pl360.html'>PL360</a> - <a href='../languages/lola-2.html'>Lola-2</a>|8|27
-  <a name='Graydon_Hoare' />Graydon Hoare|<a href='../languages/rust.html'>Rust</a>|1|28
+  <a name='Håkon_Wium_Lie' />Håkon Wium Lie|<a href='../languages/css.html'>CSS</a>|1|21
+  <a name='Chris_Lattner' />Chris Lattner|<a href='../languages/swift.html'>Swift</a>|1|22
+  <a name='Martin_Odersky' href='https://en.wikipedia.org/wiki/Martin_Odersky'>Martin Odersky</a>|<a href='../languages/scala.html'>Scala</a> - <a href='../languages/scala-js.html'>Scala.js</a>|2|23
+  <a name='Marc_G._Fournier' />Marc G. Fournier|<a href='../languages/postgresql.html'>PostgreSQL</a>|1|24
+  <a name='Jeffrey_Snover' href='https://en.wikipedia.org/wiki/Jeffrey_Snover'>Jeffrey Snover</a>|<a href='../languages/powershell.html'>PowerShell</a>|1|25
+  <a name='Niklaus_Wirth' href='https://en.wikipedia.org/wiki/Niklaus_Wirth'>Niklaus Wirth</a>|<a href='../languages/pascal.html'>Pascal</a> - <a href='../languages/modula-2.html'>Modula-2</a> - <a href='../languages/oberon.html'>Oberon</a> - <a href='../languages/oberon-2.html'>Oberon-2</a> - <a href='../languages/ebnf.html'>EBNF</a> - <a href='../languages/modula.html'>Modula</a> - <a href='../languages/pl360.html'>PL360</a> - <a href='../languages/lola-2.html'>Lola-2</a>|8|26
+  <a name='Graydon_Hoare' />Graydon Hoare|<a href='../languages/rust.html'>Rust</a>|1|27
+  <a name='Andrey_Breslav' />Andrey Breslav|<a href='../languages/kotlin.html'>Kotlin</a>|1|28
   <a name='Paul_Hudak' />Paul Hudak|<a href='../languages/haskell.html'>Haskell</a>|1|29
   <a name='John_Hughes' />John Hughes|<a href='../languages/haskell.html'>Haskell</a>|1|29
   <a name='John_McCarthy' href='https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)'>John McCarthy</a>|<a href='../languages/lisp.html'>Lisp</a> - <a href='../languages/algol-60.html'>ALGOL 60</a> - <a href='../languages/advice-taker.html'>Advice Taker</a>|3|30

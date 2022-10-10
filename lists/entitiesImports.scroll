@@ -23,22 +23,22 @@ replace TABLE
   MySQL|../languages/mysql.html|queryLanguage|1995|17
   CSS|../languages/css.html|stylesheetLanguage|1996|18
   R|../languages/r.html|pl|1993|19
-  PowerShell|../languages/powershell.html|pl|2006|20
-  iOS|../languages/ios.html|os|2007|21
-  Go|../languages/go.html|pl|2009|22
-  JSON|../languages/json.html|dataNotation|2001|23
-  Kotlin|../languages/kotlin.html|pl|2011|24
-  Ada|../languages/ada.html|pl|1980|25
-  Swift|../languages/swift.html|pl|2014|26
-  COBOL|../languages/cobol.html|pl|1959|27
-  Scala|../languages/scala.html|pl|2004|28
-  Pascal|../languages/pascal.html|pl|1970|29
-  PostgreSQL|../languages/postgresql.html|queryLanguage|1986|30
-  Rust|../languages/rust.html|pl|2010|31
-  Haskell|../languages/haskell.html|pl|1990|32
+  iOS|../languages/ios.html|os|2007|20
+  Go|../languages/go.html|pl|2009|21
+  JSON|../languages/json.html|dataNotation|2001|22
+  Swift|../languages/swift.html|pl|2014|23
+  Ada|../languages/ada.html|pl|1980|24
+  COBOL|../languages/cobol.html|pl|1959|25
+  Scala|../languages/scala.html|pl|2004|26
+  PowerShell|../languages/powershell.html|pl|2006|27
+  Pascal|../languages/pascal.html|pl|1970|28
+  PostgreSQL|../languages/postgresql.html|queryLanguage|1986|29
+  Rust|../languages/rust.html|pl|2010|30
+  Haskell|../languages/haskell.html|pl|1990|31
+  Kotlin|../languages/kotlin.html|pl|2011|32
   SAS|../languages/sas.html|pl|1976|33
-  Lisp|../languages/lisp.html|pl|1958|34
-  ARM|../languages/arm.html|assembly|1985|35
+  ARM|../languages/arm.html|assembly|1985|34
+  Lisp|../languages/lisp.html|pl|1958|35
   TypeScript|../languages/typescript.html|pl|2012|36
   Lua|../languages/lua.html|pl|1993|37
   Prolog|../languages/prolog.html|pl|1972|38
@@ -67,11 +67,11 @@ replace TABLE
   Regular Expressions|../languages/regex.html|queryLanguage|1951|61
   awk|../languages/awk.html|pl|1977|62
   Bash|../languages/bash.html|pl|1989|63
-  F#|../languages/f-sharp.html|pl|2005|64
-  Ruby on Rails|../languages/rails.html|framework|2005|65
+  Ruby on Rails|../languages/rails.html|framework|2005|64
+  F#|../languages/f-sharp.html|pl|2005|65
   HTTP|../languages/http.html|protocol|1989|66
-  Crystal|../languages/crystal.html|pl|2014|67
-  WordPress|../languages/wordpress.html|application|2003|68
+  WordPress|../languages/wordpress.html|application|2003|67
+  Crystal|../languages/crystal.html|pl|2014|68
   Delphi|../languages/delphi.html|pl|1995|69
   VBA|../languages/vba.html|pl|1993|70
   Verilog|../languages/verilog.html|hardwareDescriptionLanguage|1984|71
@@ -153,8 +153,8 @@ replace TABLE
   VBScript|../languages/vbscript.html|pl|1996|147
   SOAP|../languages/soap.html|xmlFormat|1998|148
   Idris|../languages/idris.html|pl|2014|149
-  Visual Studio Code|../languages/visual-studio-code-editor.html|editor|2015|150
-  Git|../languages/git.html|application|2005|151
+  Git|../languages/git.html|application|2005|150
+  Visual Studio Code|../languages/visual-studio-code-editor.html|editor|2015|151
   FreeBSD|../languages/freebsd.html|os|1993|152
   Nginx|../languages/nginx-config.html|configFormat|2004|153
   JVM|../languages/jvm.html|vm|1994|154
