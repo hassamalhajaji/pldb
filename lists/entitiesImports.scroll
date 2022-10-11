@@ -23,9 +23,9 @@ replace TABLE
   MySQL|../languages/mysql.html|queryLanguage|1995|17
   CSS|../languages/css.html|stylesheetLanguage|1996|18
   R|../languages/r.html|pl|1993|19
-  iOS|../languages/ios.html|os|2007|20
-  JSON|../languages/json.html|dataNotation|2001|21
-  Go|../languages/go.html|pl|2009|22
+  Go|../languages/go.html|pl|2009|20
+  iOS|../languages/ios.html|os|2007|21
+  JSON|../languages/json.html|dataNotation|2001|22
   Ada|../languages/ada.html|pl|1980|23
   Swift|../languages/swift.html|pl|2014|24
   COBOL|../languages/cobol.html|pl|1959|25
@@ -145,8 +145,8 @@ replace TABLE
   Applescript|../languages/applescript.html|pl|1993|139
   LabVIEW G|../languages/labview.html|pl|1986|140
   MediaWiki|../languages/mediawiki.html|wikiMarkup|2002|141
-  Simula|../languages/simula.html|pl|1965|142
-  REST|../languages/rest.html|protocol|1996|143
+  REST|../languages/rest.html|protocol|1996|142
+  Simula|../languages/simula.html|pl|1965|143
   fish|../languages/fish.html|pl|2005|144
   OpenGL|../languages/opengl.html|library|1992|145
   Logo|../languages/logo.html|pl|1967|146
@@ -177,10 +177,10 @@ replace TABLE
   SVG|../languages/svg.html|textMarkup|2001|171
   URL|../languages/url.html|schema|1994|172
   Drupal|../languages/drupal.html|application|2000|173
-  OWL|../languages/owl.html|xmlFormat|2004|174
-  MIPS architecture|../languages/mips.html|isa|1985|175
-  Processing|../languages/processing.html|pl|2001|176
-  FAT|../languages/fat.html|filesystem|1977|177
+  MIPS architecture|../languages/mips.html|isa|1985|174
+  Processing|../languages/processing.html|pl|2001|175
+  FAT|../languages/fat.html|filesystem|1977|176
+  OWL|../languages/owl.html|xmlFormat|2004|177
   Algol|../languages/algol.html|pl|1958|178
   Org|../languages/org.html|textMarkup|2003|179
   Monaco Editor|../languages/monaco.html|editor|2016|180
@@ -242,8 +242,8 @@ replace TABLE
   IDL|../languages/idl.html|pl|1977|236
   QML|../languages/qml.html|pl|2009|237
   Boo|../languages/boo.html|pl|2003|238
-  Mercury|../languages/mercury.html|pl|1995|239
-  GNU Octave|../languages/octave.html|pl|1988|240
+  GNU Octave|../languages/octave.html|pl|1988|239
+  Mercury|../languages/mercury.html|pl|1995|240
   Hy|../languages/hy.html|pl|2013|241
   Zephir|../languages/zephir.html|pl|2013|242
   SPARC|../languages/sparc.html|isa|1987|243
@@ -564,10 +564,10 @@ replace TABLE
   QB64|../languages/qb64.html|pl|2007|558
   Java Properties|../languages/java-properties.html|dataNotation|1995|559
   gravity|../languages/gravity.html|pl|2017|560
-  Argdown|../languages/argdown.html|textMarkup|2014|561
-  Eagle|../languages/eagle.html|application|1988|562
-  IGOR Pro|../languages/igor-pro.html|pl|1993|563
-  PhyloXML|../languages/phyloxml-format.html|xmlFormat|2009|564
+  Eagle|../languages/eagle.html|application|1988|561
+  IGOR Pro|../languages/igor-pro.html|pl|1993|562
+  PhyloXML|../languages/phyloxml-format.html|xmlFormat|2009|563
+  Argdown|../languages/argdown.html|textMarkup|2014|564
   Zip file format|../languages/zip-format.html|binaryDataFormat|1989|565
   Ron|../languages/ron.html|dataNotation|2015|566
   Microsoft Small Basic|../languages/microsoft-small-basic.html|pl|2008|567
@@ -581,9 +581,9 @@ replace TABLE
   GeoJSON|../languages/geojson.html|jsonFormat|2008|575
   dynamo-visual-language|../languages/dynamo-visual-language.html|visual|2011|576
   CFML|../languages/cfml.html|pl|1995|577
-  RUNOFF|../languages/runoff.html|textMarkup|1965|578
-  Aith|../languages/aith.html|pl|2020|579
-  PIR|../languages/parrot-internal-representation.html|pl|2006|580
+  PIR|../languages/parrot-internal-representation.html|pl|2006|578
+  RUNOFF|../languages/runoff.html|textMarkup|1965|579
+  Aith|../languages/aith.html|pl|2020|580
   PIC microcontroller|../languages/pic-microcontroller.html|pl|1975|581
   Velocity|../languages/apache-velocity.html|template|2003|582
   GAMS|../languages/gams.html|pl|1988|583

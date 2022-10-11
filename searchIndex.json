@@ -114,6 +114,12 @@
     "url": "/languages/r.html"
   },
   {
+    "label": "Go",
+    "appeared": "2009",
+    "id": "go",
+    "url": "/languages/go.html"
+  },
+  {
     "label": "iOS",
     "appeared": "2007",
     "id": "ios",
@@ -124,12 +130,6 @@
     "appeared": "2001",
     "id": "json",
     "url": "/languages/json.html"
-  },
-  {
-    "label": "Go",
-    "appeared": "2009",
-    "id": "go",
-    "url": "/languages/go.html"
   },
   {
     "label": "Ada",
@@ -846,16 +846,16 @@
     "url": "/languages/mediawiki.html"
   },
   {
-    "label": "Simula",
-    "appeared": "1965",
-    "id": "simula",
-    "url": "/languages/simula.html"
-  },
-  {
     "label": "REST",
     "appeared": "1996",
     "id": "rest",
     "url": "/languages/rest.html"
+  },
+  {
+    "label": "Simula",
+    "appeared": "1965",
+    "id": "simula",
+    "url": "/languages/simula.html"
   },
   {
     "label": "fish",
@@ -1038,12 +1038,6 @@
     "url": "/languages/drupal.html"
   },
   {
-    "label": "OWL",
-    "appeared": "2004",
-    "id": "owl",
-    "url": "/languages/owl.html"
-  },
-  {
     "label": "MIPS architecture",
     "appeared": "1985",
     "id": "mips",
@@ -1060,6 +1054,12 @@
     "appeared": "1977",
     "id": "fat",
     "url": "/languages/fat.html"
+  },
+  {
+    "label": "OWL",
+    "appeared": "2004",
+    "id": "owl",
+    "url": "/languages/owl.html"
   },
   {
     "label": "Algol",
@@ -1428,16 +1428,16 @@
     "url": "/languages/boo.html"
   },
   {
-    "label": "Mercury",
-    "appeared": "1995",
-    "id": "mercury",
-    "url": "/languages/mercury.html"
-  },
-  {
     "label": "GNU Octave",
     "appeared": "1988",
     "id": "octave",
     "url": "/languages/octave.html"
+  },
+  {
+    "label": "Mercury",
+    "appeared": "1995",
+    "id": "mercury",
+    "url": "/languages/mercury.html"
   },
   {
     "label": "Hy",
@@ -3360,12 +3360,6 @@
     "url": "/languages/gravity.html"
   },
   {
-    "label": "Argdown",
-    "appeared": "2014",
-    "id": "argdown",
-    "url": "/languages/argdown.html"
-  },
-  {
     "label": "Eagle",
     "appeared": "1988",
     "id": "eagle",
@@ -3382,6 +3376,12 @@
     "appeared": "2009",
     "id": "phyloxml-format",
     "url": "/languages/phyloxml-format.html"
+  },
+  {
+    "label": "Argdown",
+    "appeared": "2014",
+    "id": "argdown",
+    "url": "/languages/argdown.html"
   },
   {
     "label": "Zip file format",
@@ -3462,6 +3462,12 @@
     "url": "/languages/cfml.html"
   },
   {
+    "label": "PIR",
+    "appeared": "2006",
+    "id": "parrot-internal-representation",
+    "url": "/languages/parrot-internal-representation.html"
+  },
+  {
     "label": "RUNOFF",
     "appeared": "1965",
     "id": "runoff",
@@ -3472,12 +3478,6 @@
     "appeared": "2020",
     "id": "aith",
     "url": "/languages/aith.html"
-  },
-  {
-    "label": "PIR",
-    "appeared": "2006",
-    "id": "parrot-internal-representation",
-    "url": "/languages/parrot-internal-representation.html"
   },
   {
     "label": "PIC microcontroller",
