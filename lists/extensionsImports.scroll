@@ -182,8 +182,8 @@ replace TABLE
   SNOBOL|../languages/snobol.html|snobol|1
   J|../languages/j.html|ijs|1
   QBasic|../languages/qbasic.html|BAS bas|2
-  Bison|../languages/bison.html|bison|1
   Cython|../languages/cython.html|pyx pxd pxi|3
+  Bison|../languages/bison.html|bison|1
   Inform|../languages/inform.html|ni i7x|2
   CLIPS|../languages/clips.html|clp|1
   RobotFramework|../languages/robotframework.html|robot resource|2
@@ -511,8 +511,8 @@ replace TABLE
   EEX|../languages/eex.html|eex htmlheex htmlleex|3
   JSX|../languages/jsx.html|jsx|1
   KRL|../languages/krl.html|krl|1
-  Object Rexx|../languages/object-rexx.html|rxs rex|2
   TAP|../languages/tap.html|tap|1
+  Object Rexx|../languages/object-rexx.html|rxs rex|2
   1C Enterprise Script|../languages/1c-enterprise.html|bsl os|2
   Q#|../languages/q-sharp.html|qs|1
   Module Management System|../languages/module-management-system.html|mms mmk|2
@@ -539,8 +539,8 @@ replace TABLE
   Gherkin|../languages/gherkin.html|feature story|2
   ROFF|../languages/roff.html|roff 1 1in 1m 1x 2 3 3in 3m 3p 3pm 3qt 3x 4 5 6 7 8 9 l man mdoc me ms n nr rno tmac|28
   tcsh|../languages/tcsh.html|tcsh csh|2
-  FAUST|../languages/faust.html|dsp|1
   Dale|../languages/dale.html|dt|1
+  FAUST|../languages/faust.html|dsp|1
   Subleq|../languages/subleq.html|sq|1
   mpl|../languages/mpl.html|mpl|1
   Handlebars|../languages/handlebars.html|handlebars hbs|2
@@ -553,11 +553,11 @@ replace TABLE
   Qore|../languages/qore.html|q qm qtest|3
   Zimpl|../languages/zimpl.html|zimpl zmpl zpl|3
   Snap!|../languages/snap.html|ypr ysp xml|3
-  TextMate Language|../languages/tmlanguage.html|tmLanguage|1
   Cirru|../languages/cirru.html|cirru|1
   Boron|../languages/boron.html|b sb|2
   Ren|../languages/ren-notation.html|ren|1
   holyc|../languages/holyc.html|hc|1
+  TextMate Language|../languages/tmlanguage.html|tmLanguage|1
   Redcode|../languages/redcode.html|cw|1
   Egison|../languages/egison.html|egi|1
   Adobe Font Metrics|../languages/adobe-font-metrics.html|afm|1
@@ -665,6 +665,7 @@ replace TABLE
   SubX|../languages/subx.html|subx|1
   Jisp|../languages/jisp.html|jisp|1
   CheetahTemplate|../languages/cheetah.html|tmpl spt|2
+  Darcs Advanced Revision Control System|../languages/darcs-patch.html|darcspatch dpatch|2
   Myghty|../languages/myghty.html|myt autodelegate|2
   Sun Raster|../languages/sun-raster-format.html|sun ras|2
   Todotxt|../languages/todotxt.html|todo.txt todotxt|2
@@ -676,7 +677,6 @@ replace TABLE
   ASP.NET|../languages/asp.net.html|asax ascx ashx asmx aspx axd|6
   Kami|../languages/kami.html|km|1
   plantuml|../languages/plantuml.html|puml iuml plantuml|3
-  Darcs Advanced Revision Control System|../languages/darcs-patch.html|darcspatch dpatch|2
   Marine Trading Markup Language|../languages/mtml.html|mtml|1
   TASM|../languages/tasm.html|asm ASM tasm|3
   Ham|../languages/ham.html|ham|1
