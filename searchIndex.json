@@ -192,16 +192,16 @@
     "url": "/languages/kotlin.html"
   },
   {
-    "label": "ARM",
-    "appeared": "1985",
-    "id": "arm",
-    "url": "/languages/arm.html"
-  },
-  {
     "label": "SAS",
     "appeared": "1976",
     "id": "sas",
     "url": "/languages/sas.html"
+  },
+  {
+    "label": "ARM",
+    "appeared": "1985",
+    "id": "arm",
+    "url": "/languages/arm.html"
   },
   {
     "label": "Lisp",
@@ -768,12 +768,6 @@
     "url": "/languages/cil.html"
   },
   {
-    "label": "Red",
-    "appeared": "2011",
-    "id": "red",
-    "url": "/languages/red.html"
-  },
-  {
     "label": "ECMAScript",
     "appeared": "1997",
     "id": "ecmascript",
@@ -790,6 +784,12 @@
     "appeared": "2015",
     "id": "wasm",
     "url": "/languages/wasm.html"
+  },
+  {
+    "label": "Red",
+    "appeared": "2011",
+    "id": "red",
+    "url": "/languages/red.html"
   },
   {
     "label": "LLVM IR",
