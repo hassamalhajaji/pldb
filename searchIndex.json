@@ -5764,16 +5764,16 @@
     "url": "/languages/graph-it.html"
   },
   {
-    "label": "storyscript",
-    "appeared": "2017",
-    "id": "storyscript",
-    "url": "/languages/storyscript.html"
-  },
-  {
     "label": "JOSS",
     "appeared": "1966",
     "id": "joss",
     "url": "/languages/joss.html"
+  },
+  {
+    "label": "storyscript",
+    "appeared": "2017",
+    "id": "storyscript",
+    "url": "/languages/storyscript.html"
   },
   {
     "label": "Strips",
@@ -7342,12 +7342,6 @@
     "url": "/languages/smartsheet-app.html"
   },
   {
-    "label": "Schema.org",
-    "appeared": "2011",
-    "id": "schemaorg",
-    "url": "/languages/schemaorg.html"
-  },
-  {
     "label": "Assembly CLI",
     "appeared": "2005",
     "id": "cli-assembly",
@@ -7364,6 +7358,12 @@
     "appeared": "1973",
     "id": "comal",
     "url": "/languages/comal.html"
+  },
+  {
+    "label": "Schema.org",
+    "appeared": "2011",
+    "id": "schemaorg",
+    "url": "/languages/schemaorg.html"
   },
   {
     "label": "WML",
@@ -8163,6 +8163,18 @@
     "url": "/languages/catala.html"
   },
   {
+    "label": "Template Attribute Language",
+    "appeared": "2007",
+    "id": "template-attribute-language",
+    "url": "/languages/template-attribute-language.html"
+  },
+  {
+    "label": "TextMate Language",
+    "appeared": "2004",
+    "id": "tmlanguage",
+    "url": "/languages/tmlanguage.html"
+  },
+  {
     "label": "Algebraic Data Type",
     "appeared": "1970",
     "id": "algebraic-types-feature",
@@ -8203,18 +8215,6 @@
     "appeared": "2005",
     "id": "holyc",
     "url": "/languages/holyc.html"
-  },
-  {
-    "label": "Template Attribute Language",
-    "appeared": "2007",
-    "id": "template-attribute-language",
-    "url": "/languages/template-attribute-language.html"
-  },
-  {
-    "label": "TextMate Language",
-    "appeared": "2004",
-    "id": "tmlanguage",
-    "url": "/languages/tmlanguage.html"
   },
   {
     "label": "Redcode",
@@ -9506,12 +9506,6 @@
     "url": "/languages/algebraic-modeling-language.html"
   },
   {
-    "label": "psyche-c",
-    "appeared": "2016",
-    "id": "psyche-c",
-    "url": "/languages/psyche-c.html"
-  },
-  {
     "label": "Facelets",
     "appeared": "2005",
     "id": "facelets",
@@ -9540,6 +9534,12 @@
     "appeared": "2011",
     "id": "reduce",
     "url": "/languages/reduce.html"
+  },
+  {
+    "label": "psyche-c",
+    "appeared": "2016",
+    "id": "psyche-c",
+    "url": "/languages/psyche-c.html"
   },
   {
     "label": "Zope",
@@ -11185,12 +11185,6 @@
     "url": "/languages/isetl.html"
   },
   {
-    "label": "Dashrep",
-    "appeared": "2011",
-    "id": "dashrep",
-    "url": "/languages/dashrep.html"
-  },
-  {
     "label": "cuneiform",
     "appeared": "2015",
     "id": "cuneiform",
@@ -11465,6 +11459,12 @@
     "appeared": "2005",
     "id": "g-portugol",
     "url": "/languages/g-portugol.html"
+  },
+  {
+    "label": "Dashrep",
+    "appeared": "2011",
+    "id": "dashrep",
+    "url": "/languages/dashrep.html"
   },
   {
     "label": "Macchiato",
