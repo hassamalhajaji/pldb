@@ -2088,12 +2088,6 @@
     "url": "/languages/clipper.html"
   },
   {
-    "label": "Batchfile",
-    "appeared": "1985",
-    "id": "batch",
-    "url": "/languages/batch.html"
-  },
-  {
     "label": "DNS",
     "appeared": "1985",
     "id": "dns",
@@ -2110,6 +2104,12 @@
     "appeared": "1969",
     "id": "b",
     "url": "/languages/b.html"
+  },
+  {
+    "label": "Batchfile",
+    "appeared": "1985",
+    "id": "batch",
+    "url": "/languages/batch.html"
   },
   {
     "label": "Dafny",
@@ -2154,12 +2154,6 @@
     "url": "/languages/m4.html"
   },
   {
-    "label": "TLA",
-    "appeared": "1999",
-    "id": "tla",
-    "url": "/languages/tla.html"
-  },
-  {
     "label": "C--",
     "appeared": "1997",
     "id": "c--",
@@ -2170,6 +2164,12 @@
     "appeared": "2017",
     "id": "dhall",
     "url": "/languages/dhall.html"
+  },
+  {
+    "label": "TLA",
+    "appeared": "1999",
+    "id": "tla",
+    "url": "/languages/tla.html"
   },
   {
     "label": "Arc",
@@ -2736,16 +2736,16 @@
     "url": "/languages/react-native.html"
   },
   {
-    "label": "starlark",
-    "appeared": "2018",
-    "id": "starlark",
-    "url": "/languages/starlark.html"
-  },
-  {
     "label": "Stylus",
     "appeared": "2010",
     "id": "stylus",
     "url": "/languages/stylus.html"
+  },
+  {
+    "label": "starlark",
+    "appeared": "2018",
+    "id": "starlark",
+    "url": "/languages/starlark.html"
   },
   {
     "label": "chrysaLisp",
@@ -2880,18 +2880,6 @@
     "url": "/languages/parrot-vm.html"
   },
   {
-    "label": "Smarty",
-    "appeared": "2006",
-    "id": "smarty",
-    "url": "/languages/smarty.html"
-  },
-  {
-    "label": "Graph Modeling Language",
-    "appeared": "1997",
-    "id": "graph-modeling-language",
-    "url": "/languages/graph-modeling-language.html"
-  },
-  {
     "label": "tornado",
     "appeared": "2009",
     "id": "tornado",
@@ -2902,6 +2890,18 @@
     "appeared": "1966",
     "id": "algol-w",
     "url": "/languages/algol-w.html"
+  },
+  {
+    "label": "Smarty",
+    "appeared": "2006",
+    "id": "smarty",
+    "url": "/languages/smarty.html"
+  },
+  {
+    "label": "Graph Modeling Language",
+    "appeared": "1997",
+    "id": "graph-modeling-language",
+    "url": "/languages/graph-modeling-language.html"
   },
   {
     "label": "Malbolge",
@@ -3480,18 +3480,6 @@
     "url": "/languages/parrot-internal-representation.html"
   },
   {
-    "label": "RUNOFF",
-    "appeared": "1965",
-    "id": "runoff",
-    "url": "/languages/runoff.html"
-  },
-  {
-    "label": "Aith",
-    "appeared": "2020",
-    "id": "aith",
-    "url": "/languages/aith.html"
-  },
-  {
     "label": "PIC microcontroller",
     "appeared": "1975",
     "id": "pic-microcontroller",
@@ -3508,6 +3496,18 @@
     "appeared": "2006",
     "id": "exfat",
     "url": "/languages/exfat.html"
+  },
+  {
+    "label": "RUNOFF",
+    "appeared": "1965",
+    "id": "runoff",
+    "url": "/languages/runoff.html"
+  },
+  {
+    "label": "Aith",
+    "appeared": "2020",
+    "id": "aith",
+    "url": "/languages/aith.html"
   },
   {
     "label": "Velocity",
@@ -3822,16 +3822,16 @@
     "url": "/languages/thinbasic.html"
   },
   {
-    "label": "Readable",
-    "appeared": "2018",
-    "id": "readable",
-    "url": "/languages/readable.html"
-  },
-  {
     "label": "LotusScript",
     "appeared": "1996",
     "id": "lotusscript",
     "url": "/languages/lotusscript.html"
+  },
+  {
+    "label": "Readable",
+    "appeared": "2018",
+    "id": "readable",
+    "url": "/languages/readable.html"
   },
   {
     "label": "Alice",
@@ -4230,12 +4230,6 @@
     "url": "/languages/assemblyscript.html"
   },
   {
-    "label": "JSFuck",
-    "appeared": "2012",
-    "id": "jsf",
-    "url": "/languages/jsf.html"
-  },
-  {
     "label": "Aldor",
     "appeared": "1990",
     "id": "aldor",
@@ -4246,6 +4240,12 @@
     "appeared": "2015",
     "id": "mavo",
     "url": "/languages/mavo.html"
+  },
+  {
+    "label": "JSFuck",
+    "appeared": "2012",
+    "id": "jsf",
+    "url": "/languages/jsf.html"
   },
   {
     "label": "chaiscript",

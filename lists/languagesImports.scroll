@@ -31,14 +31,14 @@ replace TABLE
   PowerShell|../languages/powershell.html|pl|2006|25
   Rust|../languages/rust.html|pl|2010|26
   Kotlin|../languages/kotlin.html|pl|2011|27
-  ARM|../languages/arm.html|assembly|1985|28
-  Pascal|../languages/pascal.html|pl|1970|29
+  Pascal|../languages/pascal.html|pl|1970|28
+  ARM|../languages/arm.html|assembly|1985|29
   Haskell|../languages/haskell.html|pl|1990|30
   Lisp|../languages/lisp.html|pl|1958|31
   Lua|../languages/lua.html|pl|1993|32
   HTTP|../languages/http.html|protocol|1989|33
-  SAS|../languages/sas.html|pl|1976|34
-  TypeScript|../languages/typescript.html|pl|2012|35
+  TypeScript|../languages/typescript.html|pl|2012|34
+  SAS|../languages/sas.html|pl|1976|35
   Assembly language|../languages/assembly-language.html|assembly|1960|36
   Prolog|../languages/prolog.html|pl|1972|37
   Clojure|../languages/clojure.html|pl|2007|38
@@ -76,15 +76,15 @@ replace TABLE
   ASP|../languages/asp.html|template|1996|70
   DOI|../languages/doi.html|schema|2000|71
   Eiffel|../languages/eiffel.html|pl|1986|72
-  Modula-3|../languages/modula-3.html|pl|1986|73
-  OCaml|../languages/ocaml.html|pl|1996|74
+  OCaml|../languages/ocaml.html|pl|1996|73
+  Modula-3|../languages/modula-3.html|pl|1986|74
   X86|../languages/x86-isa.html|isa|1978|75
   Yacc|../languages/yacc.html|grammarLanguage|1975|76
   REST|../languages/rest.html|protocol|1996|77
   FTP|../languages/ftp.html|protocol|1971|78
   Smalltalk|../languages/smalltalk.html|pl|1972|79
-  UML|../languages/uml.html|xmlFormat|1996|80
-  SOAP|../languages/soap.html|xmlFormat|1998|81
+  SOAP|../languages/soap.html|xmlFormat|1998|80
+  UML|../languages/uml.html|xmlFormat|1996|81
   Sage|../languages/sagemath.html|pl|2005|82
   D|../languages/d.html|pl|2001|83
   Racket|../languages/racket.html|pl|1994|84
@@ -292,8 +292,8 @@ replace TABLE
   GW-BASIC|../languages/gw-basic.html|pl|1983|286
   Factor|../languages/factor.html|pl|2003|287
   SGML|../languages/sgml.html|textMarkup|1986|288
-  Xojo|../languages/xojo.html|pl|1996|289
-  Puppet|../languages/puppet.html|pl|2005|290
+  Puppet|../languages/puppet.html|pl|2005|289
+  Xojo|../languages/xojo.html|pl|1996|290
   Ninja|../languages/ninja.html|template|2012|291
   Visual FoxPro|../languages/visual-foxpro.html|pl|1995|292
   Perl 6|../languages/perl-6.html|pl|2015|293
@@ -372,8 +372,8 @@ replace TABLE
   Classroom Object Oriented Language|../languages/cool.html|pl|1996|366
   FASTQ|../languages/fastq-format.html|textDataFormat|2000|367
   Thrift|../languages/thrift.html|idl|2007|368
-  starlark|../languages/starlark.html|pl|2018|369
-  chrysaLisp|../languages/chrysalisp.html|pl|2015|370
+  chrysaLisp|../languages/chrysalisp.html|pl|2015|369
+  starlark|../languages/starlark.html|pl|2018|370
   Transact-SQL|../languages/transact-sql.html|queryLanguage|1984|371
   Atmel AVR|../languages/atmel-avr.html|pl|1996|372
   unison|../languages/unison.html|pl|2015|373
@@ -439,8 +439,8 @@ replace TABLE
   CIL|../languages/cilk.html|pl|1994|433
   LiveCode|../languages/livecode.html|pl|2001|434
   Oberon-2|../languages/oberon-2.html|pl|1991|435
-  Smarty|../languages/smarty.html|template|2006|436
-  PIC microcontroller|../languages/pic-microcontroller.html|pl|1975|437
+  PIC microcontroller|../languages/pic-microcontroller.html|pl|1975|436
+  Smarty|../languages/smarty.html|template|2006|437
   EBNF|../languages/ebnf.html|grammarLanguage|1977|438
   Microsoft Macro Assembler|../languages/microsoft-macro-assembler.html|assembly|1981|439
   ALGOL W|../languages/algol-w.html|pl|1966|440
@@ -557,9 +557,9 @@ replace TABLE
   Creole|../languages/creole.html|textMarkup|2007|551
   JOVIAL|../languages/jovial.html|pl|1960|552
   CSV|../languages/csv.html|dataNotation|1972|553
-  Dockerfile|../languages/dockerfile.html|pl|2013|554
-  ACT-III|../languages/act-iii.html|pl|1956|555
-  RoboMind|../languages/robomind.html|pl|2005|556
+  ACT-III|../languages/act-iii.html|pl|1956|554
+  RoboMind|../languages/robomind.html|pl|2005|555
+  Dockerfile|../languages/dockerfile.html|pl|2013|556
   kaitai|../languages/kaitai.html|idl|2016|557
   NetLinx|../languages/netlinx.html|pl|2007|558
   Information Presentation Facility|../languages/ipf.html|pl|1997|559
@@ -570,8 +570,8 @@ replace TABLE
   Pizza|../languages/pizza.html|pl|2001|564
   NewtonScript|../languages/newtonscript.html|pl|1993|565
   mgmt|../languages/mgmt.html|pl|2015|566
-  Readable|../languages/readable.html|textMarkup|2018|567
-  SysML|../languages/sysml.html|pl|2000|568
+  SysML|../languages/sysml.html|pl|2000|567
+  Readable|../languages/readable.html|textMarkup|2018|568
   CPL|../languages/cpl.html|pl|1963|569
   UTC|../languages/utc-format.html|timeFormat|1960|570
   Up-arrow notation|../languages/up-arrow-notation.html|notation|1976|571
@@ -860,8 +860,8 @@ replace TABLE
   Epigram|../languages/epigram.html|pl|2004|854
   Wasp|../languages/wasp-lang.html|pl|2019|855
   MVEL|../languages/mvel.html|pl|2003|856
-  SMT|../languages/smt.html|pl|2003|857
-  crush|../languages/crush.html|pl|2020|858
+  crush|../languages/crush.html|pl|2020|857
+  SMT|../languages/smt.html|pl|2003|858
   comby|../languages/comby.html|grammarLanguage|2019|859
   network embedded systems C|../languages/nesc.html|pl|2002|860
   Hyperscript|../languages/hyperscript-lang.html|pl|2020|861

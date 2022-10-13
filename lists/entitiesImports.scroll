@@ -352,10 +352,10 @@ replace TABLE
   Gradle|../languages/gradle.html|application|2008|346
   Ini|../languages/ini.html|dataNotation|1987|347
   Clipper|../languages/clipper.html|pl|1985|348
-  Batchfile|../languages/batch.html|pl|1985|349
-  DNS|../languages/dns.html|protocol|1985|350
-  chevrotain|../languages/chevrotain.html|library|2015|351
-  B|../languages/b.html|pl|1969|352
+  DNS|../languages/dns.html|protocol|1985|349
+  chevrotain|../languages/chevrotain.html|library|2015|350
+  B|../languages/b.html|pl|1969|351
+  Batchfile|../languages/batch.html|pl|1985|352
   Dafny|../languages/dafny.html|pl|2009|353
   BPMN|../languages/bpmn.html|visual|2004|354
   AsciiDoc|../languages/asciidoc.html|textMarkup|2002|355
@@ -363,9 +363,9 @@ replace TABLE
   GAMS|../languages/general-algebraic-modeling-system.html|pl|1963|357
   Marko|../languages/marko.html|textMarkup|2014|358
   M4|../languages/m4.html|pl|1977|359
-  TLA|../languages/tla.html|pl|1999|360
-  C--|../languages/c--.html|pl|1997|361
-  Dhall|../languages/dhall.html|dataNotation|2017|362
+  C--|../languages/c--.html|pl|1997|360
+  Dhall|../languages/dhall.html|dataNotation|2017|361
+  TLA|../languages/tla.html|pl|1999|362
   Arc|../languages/arc.html|pl|2001|363
   Datalog|../languages/datalog.html|pl|1977|364
   Pod|../languages/pod.html|textMarkup|1997|365
@@ -460,8 +460,8 @@ replace TABLE
   Punched tape|../languages/punched-tape.html|notation|1943|454
   Wolfram Mathematica|../languages/mathematica-editor.html|editor|1988|455
   React Native|../languages/react-native.html|library|2015|456
-  starlark|../languages/starlark.html|pl|2018|457
-  Stylus|../languages/stylus.html|stylesheetLanguage|2010|458
+  Stylus|../languages/stylus.html|stylesheetLanguage|2010|457
+  starlark|../languages/starlark.html|pl|2018|458
   chrysaLisp|../languages/chrysalisp.html|pl|2015|459
   K|../languages/k.html|pl|1993|460
   Multics|../languages/multics.html|pl|1967|461
@@ -484,10 +484,10 @@ replace TABLE
   Tiny BASIC|../languages/tiny-basic.html|pl|1975|478
   Numba|../languages/numba.html|compiler|2012|479
   Parrot|../languages/parrot-vm.html|vm|2002|480
-  Smarty|../languages/smarty.html|template|2006|481
-  Graph Modeling Language|../languages/graph-modeling-language.html|application|1997|482
-  tornado|../languages/tornado.html|template|2009|483
-  ALGOL W|../languages/algol-w.html|pl|1966|484
+  tornado|../languages/tornado.html|template|2009|481
+  ALGOL W|../languages/algol-w.html|pl|1966|482
+  Smarty|../languages/smarty.html|template|2006|483
+  Graph Modeling Language|../languages/graph-modeling-language.html|application|1997|484
   Malbolge|../languages/malbolge.html|pl|1998|485
   TRS-80 Color Computer|../languages/trs-80-color-computer.html|computingMachine|1980|486
   Max|../languages/max.html|jsonFormat|1990|487
@@ -584,11 +584,11 @@ replace TABLE
   dynamo-visual-language|../languages/dynamo-visual-language.html|visual|2011|578
   CFML|../languages/cfml.html|pl|1995|579
   PIR|../languages/parrot-internal-representation.html|pl|2006|580
-  RUNOFF|../languages/runoff.html|textMarkup|1965|581
-  Aith|../languages/aith.html|pl|2020|582
-  PIC microcontroller|../languages/pic-microcontroller.html|pl|1975|583
-  Qualcomm Hexagon|../languages/hexagon.html|assembly|2006|584
-  ExFAT|../languages/exfat.html|filesystem|2006|585
+  PIC microcontroller|../languages/pic-microcontroller.html|pl|1975|581
+  Qualcomm Hexagon|../languages/hexagon.html|assembly|2006|582
+  ExFAT|../languages/exfat.html|filesystem|2006|583
+  RUNOFF|../languages/runoff.html|textMarkup|1965|584
+  Aith|../languages/aith.html|pl|2020|585
   Velocity|../languages/apache-velocity.html|template|2003|586
   GAMS|../languages/gams.html|pl|1988|587
   CWEB|../languages/cweb.html|textMarkup|1987|588
@@ -641,8 +641,8 @@ replace TABLE
   XeTeX|../languages/xetex.html|textMarkup|2004|635
   SQLPL|../languages/sqlpl.html|pl|2009|636
   ThinBasic|../languages/thinbasic.html|pl|2004|637
-  Readable|../languages/readable.html|textMarkup|2018|638
-  LotusScript|../languages/lotusscript.html|pl|1996|639
+  LotusScript|../languages/lotusscript.html|pl|1996|638
+  Readable|../languages/readable.html|textMarkup|2018|639
   Alice|../languages/alice.html|pl|2000|640
   Modula|../languages/modula.html|pl|1975|641
   emberjs-framework|../languages/emberjs-framework.html|framework|2011|642
@@ -709,9 +709,9 @@ replace TABLE
   LookML|../languages/lookml.html|pl|2012|703
   MQL5|../languages/mql.html|pl|2005|704
   assemblyscript|../languages/assemblyscript.html|compiler|2017|705
-  JSFuck|../languages/jsf.html|esolang|2012|706
-  Aldor|../languages/aldor.html|pl|1990|707
-  mavo|../languages/mavo.html|template|2015|708
+  Aldor|../languages/aldor.html|pl|1990|706
+  mavo|../languages/mavo.html|template|2015|707
+  JSFuck|../languages/jsf.html|esolang|2012|708
   chaiscript|../languages/chaiscript.html|pl|2009|709
   MPS|../languages/mps.html|grammarLanguage|2010|710
   Literate CoffeeScript|../languages/literate-coffeescript.html|pl|2013|711
