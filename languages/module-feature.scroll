@@ -28,7 +28,7 @@ html
  <br>
 
 paragraph
- Languages <b>with</b> Module Pattern include <a href="java.html">Java</a>, <a href="fortran.html">Fortran</a>, <a href="csharp.html">C#</a>, <a href="julia.html">Julia</a>, <a href="ocaml.html">OCaml</a>, <a href="racket.html">Racket</a>
+ Languages <b>with</b> Module Pattern include <a href="java.html">Java</a>, <a href="csharp.html">C#</a>, <a href="fortran.html">Fortran</a>, <a href="julia.html">Julia</a>, <a href="ocaml.html">OCaml</a>, <a href="racket.html">Racket</a>
 
 exampleCodeHeader Example from <a href="java.html">Java</a>:
 
@@ -41,6 +41,15 @@ code
  import java.awt.*;
  public class Drawing {
   // ...
+ }
+
+exampleCodeHeader Example from <a href="csharp.html">C#</a>:
+
+code
+ // In C#, namespaces are the semi-equivalent of Java&#39;s packages.
+ namespace com.test
+ {
+    class Test {}
  }
 
 exampleCodeHeader Example from <a href="fortran.html">Fortran</a>:
@@ -77,15 +86,6 @@ code
     print*, &quot;Area of a circle with radius 7.0 = &quot;, area  
     
  end program module_exampl
-
-exampleCodeHeader Example from <a href="csharp.html">C#</a>:
-
-code
- // In C#, namespaces are the semi-equivalent of Java&#39;s packages.
- namespace com.test
- {
-    class Test {}
- }
 
 exampleCodeHeader Example from <a href="julia.html">Julia</a>:
 

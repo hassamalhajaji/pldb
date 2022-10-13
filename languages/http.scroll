@@ -9,7 +9,7 @@ paragraph
  HTTP is a <a href="../lists/languages.html?filter=protocol">protocol</a> created in <a href="../lists/languages.html?filter=1989">1989</a>.
 
 kpiTable
- #33 <span title="TotalRank: 118 Jobs: 5 Users: 52 Facts: 301 Links: 61">on PLDB</span>
+ #33 <span title="TotalRank: 113 Jobs: 0 Users: 52 Facts: 303 Links: 61">on PLDB</span>
  33 Years Old
  33.8k <span title="Crude user estimate from a linear model.">Users</span>
  12 <span title="Books about or leveraging HTTP">Books</span>
@@ -57,7 +57,6 @@ code
  
  httpd = socketserver.TCPServer((&#39;&#39;, 8000), Handler)
  httpd.serve_forever()
- 
 
 exampleCodeHeader Example from <a href='https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol'>Wikipedia</a>:
 code
