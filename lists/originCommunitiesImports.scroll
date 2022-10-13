@@ -13,7 +13,7 @@ replace TABLE
   <a name='Carnegie_Mellon_University' />Carnegie Mellon University|<a href='../languages/aadl.html'>Avionics Architecture Design Language</a> - <a href='../languages/ct.html'>cT</a> - <a href='../languages/arctic.html'>Arctic</a> - <a href='../languages/adagio.html'>Adagio</a> - <a href='../languages/cvl.html'>CVL</a> - <a href='../languages/amulet.html'>Amulet</a> - <a href='../languages/avalon-common-lisp.html'>Avalon/Common LISP</a>|7
   <a name='Microsoft_Research' />Microsoft Research|<a href='../languages/f-sharp.html'>F#</a> - <a href='../languages/lean.html'>Lean</a> - <a href='../languages/fstar.html'>F*</a> - <a href='../languages/koka.html'>Koka</a> - <a href='../languages/bosque.html'>bosque</a> - <a href='../languages/checked-c.html'>checked-c</a>|6
   <a name='Digital_Equipment_Corporation' />Digital Equipment Corporation|<a href='../languages/digital-command-language.html'>DIGITAL Command Language</a> - <a href='../languages/basic-plus.html'>BASIC-PLUS</a> - <a href='../languages/basic-11.html'>BASIC-11</a> - <a href='../languages/baby-modula-3.html'>Baby modula-3</a> - <a href='../languages/c-flat.html'>C flat</a> - <a href='../languages/basic-pdp-1-lisp.html'>Basic PDP-1 Lisp</a>|6
-  <a name='W3C' />W3C|<a href='../languages/wasm.html'>WebAssembly</a> - <a href='../languages/xquery.html'>XQuery</a> - <a href='../languages/svg.html'>SVG</a> - <a href='../languages/xpath.html'>XPath</a> - <a href='../languages/sparql.html'>SPARQL</a>|5
+  <a name='W3C' />W3C|<a href='../languages/xquery.html'>XQuery</a> - <a href='../languages/wasm.html'>WebAssembly</a> - <a href='../languages/svg.html'>SVG</a> - <a href='../languages/xpath.html'>XPath</a> - <a href='../languages/sparql.html'>SPARQL</a>|5
   <a name='University_of_Cambridge' />University of Cambridge|<a href='../languages/bcpl.html'>BCPL</a> - <a href='../languages/chained-arrow-notation.html'>Conway chained arrow notation</a> - <a href='../languages/cheri.html'>Cheri</a> - <a href='../languages/clanger.html'>CLANGER</a> - <a href='../languages/cogmap.html'>CogMap</a>|5
   <a name='Stanford_University' />Stanford University|<a href='../languages/cool.html'>Classroom Object Oriented Language</a> - <a href='../languages/algol-w.html'>ALGOL W</a> - <a href='../languages/cweb.html'>CWEB</a> - <a href='../languages/advice-taker.html'>Advice Taker</a> - <a href='../languages/atomos.html'>Atomos</a>|5
   <a name='Centrum_Wiskunde_&_Informatica' />Centrum Wiskunde & Informatica|<a href='../languages/python.html'>Python</a> - <a href='../languages/abc.html'>ABC</a> - <a href='../languages/blc.html'>Binary Lambda Calculus</a> - <a href='../languages/alma-0.html'>Alma-0</a>|4
@@ -26,8 +26,8 @@ replace TABLE
   <a name='AT&T_Bell_Laboratories' />AT&T Bell Laboratories|<a href='../languages/cql.html'>cql</a> - <a href='../languages/amber.html'>Amber</a> - <a href='../languages/cqlpp.html'>CQL++</a> - <a href='../languages/dag.html'>DAG</a>|4
   <a name='The_MITRE_Corporation' />The MITRE Corporation|<a href='../languages/adam.html'>ADAM</a> - <a href='../languages/aesop.html'>AESOP</a> - <a href='../languages/alonzo.html'>Alonzo</a> - <a href='../languages/charybdis.html'>CHARYBDIS</a>|4
   <a name='Sun_Microsystems' />Sun Microsystems|<a href='../languages/java.html'>Java</a> - <a href='../languages/sparc.html'>SPARC</a> - <a href='../languages/dasl.html'>Distributed Application Specification Language</a>|3
-  <a name='University_of_California' />University of California|<a href='../languages/postgresql.html'>PostgreSQL</a> - <a href='../languages/active-language-i.html'>Active Language I</a> - <a href='../languages/b4tran.html'>B4Tran</a>|3
   <a name='Mozilla' />Mozilla|<a href='../languages/rust.html'>Rust</a> - <a href='../languages/asmjs.html'>Asm.js</a> - <a href='../languages/heap.coffee.html'>heap.coffee</a>|3
+  <a name='University_of_California' />University of California|<a href='../languages/postgresql.html'>PostgreSQL</a> - <a href='../languages/active-language-i.html'>Active Language I</a> - <a href='../languages/b4tran.html'>B4Tran</a>|3
   <a name='JetBrains' />JetBrains|<a href='../languages/kotlin.html'>Kotlin</a> - <a href='../languages/nemerle.html'>Nemerle</a> - <a href='../languages/arend.html'>arend</a>|3
   <a name='Nvidia' />Nvidia|<a href='../languages/cuda.html'>CUDA</a> - <a href='../languages/cg.html'>Cg</a> - <a href='../languages/ptx.html'>PTX</a>|3
   <a name='Adobe' />Adobe|<a href='../languages/postscript.html'>PostScript</a> - <a href='../languages/coldfusion.html'>ColdFusion</a> - <a href='../languages/coldfusion-components.html'>ColdFusion Components</a>|3
@@ -96,30 +96,30 @@ replace TABLE
   <a name='Unisys' />Unisys|<a href='../languages/perl.html'>Perl</a>|1
   <a name='University_of_New_Mexico' />University of New Mexico|<a href='../languages/matlab.html'>MATLAB</a>|1
   <a name='University_of_Auckland' />University of Auckland|<a href='../languages/r.html'>R</a>|1
-  <a name='CII_Honeywell_Bull' />CII Honeywell Bull|<a href='../languages/ada.html'>Ada</a>|1
   <a name='Conference/Committee_on_Data_Systems_Languages' />Conference/Committee on Data Systems Languages|<a href='../languages/cobol.html'>COBOL</a>|1
   <a name='École_Polytechnique_Fédérale_de_Lausanne' />École Polytechnique Fédérale de Lausanne|<a href='../languages/scala.html'>Scala</a>|1
+  <a name='CII_Honeywell_Bull' />CII Honeywell Bull|<a href='../languages/ada.html'>Ada</a>|1
   <a name='ETH_Zürich' />ETH Zürich|<a href='../languages/pascal.html'>Pascal</a>|1
   <a name='Tecgraf' />Tecgraf|<a href='../languages/lua.html'>Lua</a>|1
-  <a name='Ericsson' />Ericsson|<a href='../languages/erlang.html'>Erlang</a>|1
   <a name='GNU' />GNU|<a href='../languages/bash.html'>Bash</a>|1
+  <a name='Ericsson' />Ericsson|<a href='../languages/erlang.html'>Erlang</a>|1
   <a name='Arduino' />Arduino|<a href='../languages/arduino.html'>Arduino</a>|1
-  <a name='https://forum.crystal-lang.org/' />https://forum.crystal-lang.org/|<a href='../languages/crystal.html'>Crystal</a>|1
   <a name='Macromedia' />Macromedia|<a href='../languages/actionscript.html'>ActionScript</a>|1
+  <a name='https://forum.crystal-lang.org/' />https://forum.crystal-lang.org/|<a href='../languages/crystal.html'>Crystal</a>|1
   <a name='https://github.com/jashkenas' />https://github.com/jashkenas|<a href='../languages/coffeescript.html'>CoffeeScript</a>|1
   <a name='Advanced_Micro_Devices' />Advanced Micro Devices|<a href='../languages/x86-isa.html'>X86</a>|1
   <a name='Digital_Mars' />Digital Mars|<a href='../languages/d.html'>D</a>|1
+  <a name='Imagination_Technologies' />Imagination Technologies|<a href='../languages/mips.html'>MIPS architecture</a>|1
+  <a name='MIPS_Technologies' />MIPS Technologies|<a href='../languages/mips.html'>MIPS architecture</a>|1
   <a name='PLT_Inc.' />PLT Inc.|<a href='../languages/racket.html'>Racket</a>|1
   <a name='American_National_Standards_Institute' />American National Standards Institute|<a href='../languages/common-lisp.html'>Common Lisp</a>|1
   <a name='Harvard_University' />Harvard University|<a href='../languages/apl.html'>APL</a>|1
   <a name='Khronos_Group' />Khronos Group|<a href='../languages/opencl.html'>OpenCL</a>|1
   <a name='Cray' />Cray|<a href='../languages/chapel.html'>Chapel</a>|1
-  <a name='Imagination_Technologies' />Imagination Technologies|<a href='../languages/mips.html'>MIPS architecture</a>|1
-  <a name='MIPS_Technologies' />MIPS Technologies|<a href='../languages/mips.html'>MIPS architecture</a>|1
   <a name='University_of_San_Francisco' />University of San Francisco|<a href='../languages/antlr.html'>ANTLR</a>|1
+  <a name='SAP' />SAP|<a href='../languages/abap.html'>ABAP</a>|1
   <a name='AMPL_Optimization_LLC' />AMPL Optimization LLC|<a href='../languages/ampl.html'>AMPL</a>|1
   <a name='Sentience_Politics' />Sentience Politics|<a href='../languages/brainfuck.html'>Brainfuck</a>|1
-  <a name='SAP' />SAP|<a href='../languages/abap.html'>ABAP</a>|1
   <a name='REBOL_Technologies' />REBOL Technologies|<a href='../languages/rebol.html'>REBOL</a>|1
   <a name='Swiss_Federal_Institute_of_Technology' />Swiss Federal Institute of Technology|<a href='../languages/algol.html'>Algol</a>|1
   <a name='WSO2' />WSO2|<a href='../languages/ballerina.html'>Ballerina</a>|1
@@ -155,8 +155,8 @@ replace TABLE
   <a name='https://github.com/cue-lang' />https://github.com/cue-lang|<a href='../languages/cuelang.html'>Cue</a>|1
   <a name='beefytech' />beefytech|<a href='../languages/beef.html'>beef-lang</a>|1
   <a name='Coalson_LLC' />Coalson LLC|<a href='../languages/bbcode.html'>BBCode</a>|1
-  <a name='INRIA' />INRIA|<a href='../languages/caml.html'>Caml</a>|1
   <a name='Qualcomm' />Qualcomm|<a href='../languages/hexagon.html'>Qualcomm Hexagon</a>|1
+  <a name='INRIA' />INRIA|<a href='../languages/caml.html'>Caml</a>|1
   <a name='Association_for_Computing_Machinery_and_Gesellschaft_für_Angewandte_Mathematik_und_Mechanik' />Association for Computing Machinery and Gesellschaft für Angewandte Mathematik und Mechanik|<a href='../languages/algol-58.html'>ALGOL 58</a>|1
   <a name='https://github.com/carp-lang' />https://github.com/carp-lang|<a href='../languages/carp.html'>carp</a>|1
   <a name='University_of_Kiel' />University of Kiel|<a href='../languages/curry.html'>Curry</a>|1
@@ -184,8 +184,8 @@ replace TABLE
   <a name='Jensen_&_Partners_International_and_Clarion_International_and_SoftVelocity' />Jensen & Partners International and Clarion International and SoftVelocity|<a href='../languages/clarion.html'>Clarion</a>|1
   <a name='Curl,_Inc_and__Sumisho_Computer_Systems_Corp_and_SCSK_Corporation' />Curl, Inc and  Sumisho Computer Systems Corp and SCSK Corporation|<a href='../languages/curl.html'>Curl</a>|1
   <a name='https://github.com/carbon-language' />https://github.com/carbon-language|<a href='../languages/carbon.html'>Carbon</a>|1
-  <a name='Looker' />Looker|<a href='../languages/lookml.html'>LookML</a>|1
   <a name='_Microsoft' /> Microsoft|<a href='../languages/applesoft-basic.html'>Applesoft BASIC</a>|1
+  <a name='Looker' />Looker|<a href='../languages/lookml.html'>LookML</a>|1
   <a name='Shepardson_Microsystems' />Shepardson Microsystems|<a href='../languages/atari-basic.html'>Atari BASIC</a>|1
   <a name='AT&T_Labs' />AT&T Labs|<a href='../languages/cyclone.html'>Cyclone</a>|1
   <a name='ReScript_Association' />ReScript Association|<a href='../languages/bucklescript.html'>Bucklescript</a>|1
