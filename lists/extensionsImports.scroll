@@ -238,10 +238,10 @@ replace TABLE
   Dafny|../languages/dafny.html|dfy|1
   AsciiDoc|../languages/asciidoc.html|asciidoc adoc asc|3
   ERB|../languages/erb.html|erb erbdeface rhtml|3
+  Dhall|../languages/dhall.html|dhall|1
   GAMS|../languages/general-algebraic-modeling-system.html|gms|1
   Marko|../languages/marko.html|marko|1
   M4|../languages/m4.html|m4 mc|2
-  Dhall|../languages/dhall.html|dhall|1
   TLA|../languages/tla.html|tla|1
   Arc|../languages/arc.html|arc|1
   Pod|../languages/pod.html|pod|1
@@ -253,8 +253,8 @@ replace TABLE
   PEG.js|../languages/pegjs.html|pegjs|1
   Puppet|../languages/puppet.html|pp|1
   Bicep|../languages/bicep.html|bicep|1
-  Befunge|../languages/befunge.html|befunge|1
   Oxygene|../languages/oxygene.html|oxygene|1
+  Befunge|../languages/befunge.html|befunge|1
   Seed7|../languages/seed7.html|sd7 s7i|2
   GDB|../languages/gdb.html|gdb gdbinit|2
   BibTeX|../languages/bibtex.html|bib bibtex|2
@@ -362,8 +362,8 @@ replace TABLE
   Euphoria|../languages/euphoria.html|e ex exw edb|4
   Spin|../languages/spin.html|spin|1
   SQLPL|../languages/sqlpl.html|sql db2|2
-  Felix|../languages/felix.html|flx flxh|2
   Uno|../languages/uno.html|uno|1
+  Felix|../languages/felix.html|flx flxh|2
   Papyrus|../languages/papyrus.html|psc|1
   Varnish Configuration Language|../languages/vcl.html|vcl|1
   Clarion|../languages/clarion.html|clw|1
@@ -484,8 +484,8 @@ replace TABLE
   LoomScript|../languages/loomscript.html|ls|1
   Pep8|../languages/pep8.html|pep|1
   Type Language|../languages/type-language.html|tl|1
-  Windows Registry Entries|../languages/windows-registry-entries.html|reg|1
   desktop|../languages/desktop.html|desktop desktopin service|3
+  Windows Registry Entries|../languages/windows-registry-entries.html|reg|1
   MOO|../languages/moo.html|moo|1
   ColdFusion Components|../languages/coldfusion-components.html|cfc|1
   Jolie|../languages/jolie.html|ol iol|2
@@ -557,8 +557,8 @@ replace TABLE
   Boron|../languages/boron.html|b sb|2
   Ren|../languages/ren-notation.html|ren|1
   holyc|../languages/holyc.html|hc|1
-  TextMate Language|../languages/tmlanguage.html|tmLanguage|1
   Redcode|../languages/redcode.html|cw|1
+  TextMate Language|../languages/tmlanguage.html|tmLanguage|1
   Egison|../languages/egison.html|egi|1
   Adobe Font Metrics|../languages/adobe-font-metrics.html|afm|1
   NWScript|../languages/nwscript.html|nss|1
@@ -655,10 +655,10 @@ replace TABLE
   Gren|../languages/gren.html|gren|1
   Miva|../languages/miva.html|mv mvc mvt|3
   AmbientTalk|../languages/ambienttalk.html|at|1
+  Devicetree|../languages/devicetree.html|dts dtsi|2
   X PixMap|../languages/xpm-format.html|xpm pm|2
   OMG IDL|../languages/omg-idl.html|idl pidl|2
   CBOR data definition language|../languages/cddl.html|cddl|1
-  Devicetree|../languages/devicetree.html|dts dtsi|2
   USD|../languages/usd.html|usd usda|2
   Savi|../languages/savi.html|savi|1
   git-config|../languages/git-config.html|gitconfig|1
@@ -695,13 +695,13 @@ replace TABLE
   Public Key File|../languages/public-key-file.html|asc pub|2
   REALBasic (now Xojo)|../languages/realbasic.html|rbbas rbfrm rbmnu rbres rbtbar rbuistate|6
   WebAssembly Text Format|../languages/wast.html|wast|1
+  Autoconf|../languages/autoconf.html|ac|1
   Bizubee|../languages/bizubee.html|jsl|1
   RigC|../languages/rigc.html|rigc|1
   Freefem|../languages/freefem.html|edp|1
   Pickle|../languages/pickle-format.html|pkl|1
   Nasal|../languages/nasal.html|nas|1
   ObjectScript|../languages/objectscript.html|cls|1
-  Autoconf|../languages/autoconf.html|ac|1
   Hot Cocoa Lisp|../languages/hotcocoalisp.html|hcl|1
   arrow|../languages/arrow.html|arw|1
   Parasolid|../languages/parasolid.html|x_t x_b|2
