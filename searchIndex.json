@@ -984,16 +984,16 @@
     "url": "/languages/drupal.html"
   },
   {
-    "label": "BCPL",
-    "appeared": "1966",
-    "id": "bcpl",
-    "url": "/languages/bcpl.html"
-  },
-  {
     "label": "Standard ML",
     "appeared": "1990",
     "id": "standard-ml",
     "url": "/languages/standard-ml.html"
+  },
+  {
+    "label": "BCPL",
+    "appeared": "1966",
+    "id": "bcpl",
+    "url": "/languages/bcpl.html"
   },
   {
     "label": "Unity",
@@ -1908,16 +1908,16 @@
     "url": "/languages/s-expressions.html"
   },
   {
-    "label": "Lex",
-    "appeared": "1975",
-    "id": "lex",
-    "url": "/languages/lex.html"
-  },
-  {
     "label": "Factor",
     "appeared": "2003",
     "id": "factor",
     "url": "/languages/factor.html"
+  },
+  {
+    "label": "Lex",
+    "appeared": "1975",
+    "id": "lex",
+    "url": "/languages/lex.html"
   },
   {
     "label": "npm",
@@ -2562,16 +2562,16 @@
     "url": "/languages/mercurial.html"
   },
   {
-    "label": "Cap'n Proto",
-    "appeared": "2013",
-    "id": "capn-proto",
-    "url": "/languages/capn-proto.html"
-  },
-  {
     "label": "Scala.js",
     "appeared": "2013",
     "id": "scala-js",
     "url": "/languages/scala-js.html"
+  },
+  {
+    "label": "Cap'n Proto",
+    "appeared": "2013",
+    "id": "capn-proto",
+    "url": "/languages/capn-proto.html"
   },
   {
     "label": "Ext4",
@@ -2850,28 +2850,28 @@
     "url": "/languages/aspectj.html"
   },
   {
-    "label": "Oberon-2",
-    "appeared": "1991",
-    "id": "oberon-2",
-    "url": "/languages/oberon-2.html"
-  },
-  {
     "label": "IBM System z",
     "appeared": "2000",
     "id": "systemz",
     "url": "/languages/systemz.html"
   },
   {
-    "label": "Tiny BASIC",
-    "appeared": "1975",
-    "id": "tiny-basic",
-    "url": "/languages/tiny-basic.html"
+    "label": "Oberon-2",
+    "appeared": "1991",
+    "id": "oberon-2",
+    "url": "/languages/oberon-2.html"
   },
   {
     "label": "Numba",
     "appeared": "2012",
     "id": "numba",
     "url": "/languages/numba.html"
+  },
+  {
+    "label": "Tiny BASIC",
+    "appeared": "1975",
+    "id": "tiny-basic",
+    "url": "/languages/tiny-basic.html"
   },
   {
     "label": "tornado",
@@ -2958,6 +2958,12 @@
     "url": "/languages/nu.html"
   },
   {
+    "label": "Diff",
+    "appeared": "1974",
+    "id": "diff",
+    "url": "/languages/diff.html"
+  },
+  {
     "label": "Fortress",
     "appeared": "2004",
     "id": "fortress",
@@ -2968,12 +2974,6 @@
     "appeared": "2012",
     "id": "slash",
     "url": "/languages/slash.html"
-  },
-  {
-    "label": "Diff",
-    "appeared": "1974",
-    "id": "diff",
-    "url": "/languages/diff.html"
   },
   {
     "label": "NSIS",
@@ -2988,6 +2988,12 @@
     "url": "/languages/ragel.html"
   },
   {
+    "label": "Cue",
+    "appeared": "2018",
+    "id": "cuelang",
+    "url": "/languages/cuelang.html"
+  },
+  {
     "label": "RPL",
     "appeared": "1984",
     "id": "rpl",
@@ -2998,12 +3004,6 @@
     "appeared": "1978",
     "id": "hope",
     "url": "/languages/hope.html"
-  },
-  {
-    "label": "Cue",
-    "appeared": "2018",
-    "id": "cuelang",
-    "url": "/languages/cuelang.html"
   },
   {
     "label": "RDFa",
@@ -4332,6 +4332,12 @@
     "url": "/languages/apex.html"
   },
   {
+    "label": "Advanced Message Queuing Protocol",
+    "appeared": "2003",
+    "id": "amqp",
+    "url": "/languages/amqp.html"
+  },
+  {
     "label": "QMake",
     "appeared": "2002",
     "id": "qmake",
@@ -4342,12 +4348,6 @@
     "appeared": "1992",
     "id": "providex",
     "url": "/languages/providex.html"
-  },
-  {
-    "label": "Advanced Message Queuing Protocol",
-    "appeared": "2003",
-    "id": "amqp",
-    "url": "/languages/amqp.html"
   },
   {
     "label": "wasmer",
@@ -4452,16 +4452,16 @@
     "url": "/languages/lsl.html"
   },
   {
-    "label": "DIGITAL Command Language",
-    "appeared": "1997",
-    "id": "digital-command-language",
-    "url": "/languages/digital-command-language.html"
-  },
-  {
     "label": "Joy",
     "appeared": "2001",
     "id": "joy",
     "url": "/languages/joy.html"
+  },
+  {
+    "label": "DIGITAL Command Language",
+    "appeared": "1997",
+    "id": "digital-command-language",
+    "url": "/languages/digital-command-language.html"
   },
   {
     "label": "GNU Assembler",
@@ -4644,12 +4644,6 @@
     "url": "/languages/4g-standard.html"
   },
   {
-    "label": "Cryptol",
-    "appeared": "2014",
-    "id": "cryptol",
-    "url": "/languages/cryptol.html"
-  },
-  {
     "label": "edgedb",
     "appeared": "2017",
     "id": "edgedb",
@@ -4660,6 +4654,12 @@
     "appeared": "2004",
     "id": "collada",
     "url": "/languages/collada.html"
+  },
+  {
+    "label": "Cryptol",
+    "appeared": "2014",
+    "id": "cryptol",
+    "url": "/languages/cryptol.html"
   },
   {
     "label": "Nix",
@@ -4774,16 +4774,16 @@
     "url": "/languages/dvi-standard.html"
   },
   {
-    "label": "pyret",
-    "appeared": "2011",
-    "id": "pyret",
-    "url": "/languages/pyret.html"
-  },
-  {
     "label": "Network Time Protocol",
     "appeared": "1981",
     "id": "ntp",
     "url": "/languages/ntp.html"
+  },
+  {
+    "label": "pyret",
+    "appeared": "2011",
+    "id": "pyret",
+    "url": "/languages/pyret.html"
   },
   {
     "label": "Easybuild",
@@ -5194,12 +5194,6 @@
     "url": "/languages/yoptascript.html"
   },
   {
-    "label": "clay",
-    "appeared": "2010",
-    "id": "clay",
-    "url": "/languages/clay.html"
-  },
-  {
     "label": "UNITY",
     "appeared": "1988",
     "id": "unity",
@@ -5216,6 +5210,12 @@
     "appeared": "1993",
     "id": "objective-cpp",
     "url": "/languages/objective-cpp.html"
+  },
+  {
+    "label": "clay",
+    "appeared": "2010",
+    "id": "clay",
+    "url": "/languages/clay.html"
   },
   {
     "label": "Nit",
@@ -5476,12 +5476,6 @@
     "url": "/languages/fm-standard.html"
   },
   {
-    "label": "SugarSS",
-    "appeared": "2016",
-    "id": "sugarss",
-    "url": "/languages/sugarss.html"
-  },
-  {
     "label": "ECL",
     "appeared": "2000",
     "id": "ecl",
@@ -5510,6 +5504,12 @@
     "appeared": "1980",
     "id": "t",
     "url": "/languages/t.html"
+  },
+  {
+    "label": "SugarSS",
+    "appeared": "2016",
+    "id": "sugarss",
+    "url": "/languages/sugarss.html"
   },
   {
     "label": "UCL",
@@ -6010,16 +6010,16 @@
     "url": "/languages/lucene-query-syntax.html"
   },
   {
-    "label": "OpenEdge ABL",
-    "appeared": "2006",
-    "id": "openedge-advanced-business-language",
-    "url": "/languages/openedge-advanced-business-language.html"
-  },
-  {
     "label": "mun-lang",
     "appeared": "2019",
     "id": "mun-lang",
     "url": "/languages/mun-lang.html"
+  },
+  {
+    "label": "OpenEdge ABL",
+    "appeared": "2006",
+    "id": "openedge-advanced-business-language",
+    "url": "/languages/openedge-advanced-business-language.html"
   },
   {
     "label": "SQL/PSM",
@@ -7900,6 +7900,12 @@
     "url": "/languages/basic-programming.html"
   },
   {
+    "label": "Babylonian numerals",
+    "appeared": "-2000",
+    "id": "babylonian-numerals",
+    "url": "/languages/babylonian-numerals.html"
+  },
+  {
     "label": "Subleq",
     "appeared": "2009",
     "id": "subleq",
@@ -7922,12 +7928,6 @@
     "appeared": "2015",
     "id": "power-query-m",
     "url": "/languages/power-query-m.html"
-  },
-  {
-    "label": "Babylonian numerals",
-    "appeared": "-2000",
-    "id": "babylonian-numerals",
-    "url": "/languages/babylonian-numerals.html"
   },
   {
     "label": "hashlink",
@@ -10351,24 +10351,6 @@
     "url": "/languages/notation3.html"
   },
   {
-    "label": "Executive Systems Problem Oriented Language",
-    "appeared": "1967",
-    "id": "espol",
-    "url": "/languages/espol.html"
-  },
-  {
-    "label": "Euclid",
-    "appeared": "1970",
-    "id": "euclid",
-    "url": "/languages/euclid.html"
-  },
-  {
-    "label": "Sublime Syntax",
-    "appeared": "2008",
-    "id": "sublime-syntax",
-    "url": "/languages/sublime-syntax.html"
-  },
-  {
     "label": "MAGMA",
     "appeared": "1993",
     "id": "magma",
@@ -10385,6 +10367,24 @@
     "appeared": "1996",
     "id": "coordinate-format",
     "url": "/languages/coordinate-format.html"
+  },
+  {
+    "label": "Executive Systems Problem Oriented Language",
+    "appeared": "1967",
+    "id": "espol",
+    "url": "/languages/espol.html"
+  },
+  {
+    "label": "Euclid",
+    "appeared": "1970",
+    "id": "euclid",
+    "url": "/languages/euclid.html"
+  },
+  {
+    "label": "Sublime Syntax",
+    "appeared": "2008",
+    "id": "sublime-syntax",
+    "url": "/languages/sublime-syntax.html"
   },
   {
     "label": "GorillaScript",
@@ -12367,6 +12367,12 @@
     "url": "/languages/metacomco.html"
   },
   {
+    "label": "LINC 4GL",
+    "appeared": "1980",
+    "id": "linc-4gl",
+    "url": "/languages/linc-4gl.html"
+  },
+  {
     "label": "ZBasic",
     "appeared": "1980",
     "id": "zbasic",
@@ -12383,12 +12389,6 @@
     "appeared": "1986",
     "id": "b32-business-basic",
     "url": "/languages/b32-business-basic.html"
-  },
-  {
-    "label": "LINC 4GL",
-    "appeared": "1980",
-    "id": "linc-4gl",
-    "url": "/languages/linc-4gl.html"
   },
   {
     "label": "DarkBASIC",
@@ -13189,18 +13189,6 @@
     "url": "/languages/dynamo.html"
   },
   {
-    "label": "PACT I",
-    "appeared": "1955",
-    "id": "pact-i",
-    "url": "/languages/pact-i.html"
-  },
-  {
-    "label": "BASIC-11",
-    "appeared": "1976",
-    "id": "basic-11",
-    "url": "/languages/basic-11.html"
-  },
-  {
     "label": "Aztec C",
     "appeared": "1980",
     "id": "aztec-c",
@@ -13211,6 +13199,18 @@
     "appeared": "1986",
     "id": "lambda-prolog",
     "url": "/languages/lambda-prolog.html"
+  },
+  {
+    "label": "PACT I",
+    "appeared": "1955",
+    "id": "pact-i",
+    "url": "/languages/pact-i.html"
+  },
+  {
+    "label": "BASIC-11",
+    "appeared": "1976",
+    "id": "basic-11",
+    "url": "/languages/basic-11.html"
   },
   {
     "label": "RamdaScript",
@@ -13603,6 +13603,12 @@
     "url": "/languages/lava.html"
   },
   {
+    "label": "Digital Interactive Business Oriented Language",
+    "appeared": "1970",
+    "id": "dibol",
+    "url": "/languages/dibol.html"
+  },
+  {
     "label": "Algebraic Logic Functional",
     "appeared": "1990",
     "id": "alf",
@@ -13955,12 +13961,6 @@
     "url": "/languages/aplx.html"
   },
   {
-    "label": "Digital Interactive Business Oriented Language",
-    "appeared": "1970",
-    "id": "dibol",
-    "url": "/languages/dibol.html"
-  },
-  {
     "label": "Common Lisp with Arc Macros and Procedures",
     "appeared": "2014",
     "id": "clamp",
@@ -14031,12 +14031,6 @@
     "appeared": "1968",
     "id": "brown-university-interactive-language",
     "url": "/languages/brown-university-interactive-language.html"
-  },
-  {
-    "label": "Datapoint's Advanced Systems Language",
-    "appeared": "1982",
-    "id": "datapoint-dasl",
-    "url": "/languages/datapoint-dasl.html"
   },
   {
     "label": "DIANA",
@@ -14481,6 +14475,12 @@
     "appeared": "1980",
     "id": "cybil",
     "url": "/languages/cybil.html"
+  },
+  {
+    "label": "Datapoint's Advanced Systems Language",
+    "appeared": "1982",
+    "id": "datapoint-dasl",
+    "url": "/languages/datapoint-dasl.html"
   },
   {
     "label": "Ham",
@@ -16599,12 +16599,6 @@
     "url": "/languages/xmtc.html"
   },
   {
-    "label": "Soulver",
-    "appeared": "2005",
-    "id": "soulver",
-    "url": "/languages/soulver.html"
-  },
-  {
     "label": "Hbasic",
     "appeared": "2007",
     "id": "hbasic",
@@ -16645,6 +16639,12 @@
     "appeared": "1987",
     "id": "x-basic",
     "url": "/languages/x-basic.html"
+  },
+  {
+    "label": "Soulver",
+    "appeared": "2005",
+    "id": "soulver",
+    "url": "/languages/soulver.html"
   },
   {
     "label": "GHC",
@@ -17855,6 +17855,12 @@
     "url": "/languages/descartes.html"
   },
   {
+    "label": "DINO",
+    "appeared": "1990",
+    "id": "dino",
+    "url": "/languages/dino.html"
+  },
+  {
     "label": "Edison",
     "appeared": "1992",
     "id": "edison",
@@ -18847,12 +18853,6 @@
     "appeared": "1995",
     "id": "demeter",
     "url": "/languages/demeter.html"
-  },
-  {
-    "label": "DINO",
-    "appeared": "1990",
-    "id": "dino",
-    "url": "/languages/dino.html"
   },
   {
     "label": "DLP",
@@ -21241,6 +21241,42 @@
     "url": "/languages/delta-prolog.html"
   },
   {
+    "label": "DIALOG",
+    "appeared": "1966",
+    "id": "dialog",
+    "url": "/languages/dialog.html"
+  },
+  {
+    "label": "DICE",
+    "appeared": "1991",
+    "id": "dice",
+    "url": "/languages/dice.html"
+  },
+  {
+    "label": "DIET",
+    "appeared": "1975",
+    "id": "diet",
+    "url": "/languages/diet.html"
+  },
+  {
+    "label": "Dipe-R",
+    "appeared": "2002",
+    "id": "dipe-r",
+    "url": "/languages/dipe-r.html"
+  },
+  {
+    "label": "DISC",
+    "appeared": "1989",
+    "id": "disc",
+    "url": "/languages/disc.html"
+  },
+  {
+    "label": "DISPEL",
+    "appeared": "1981",
+    "id": "dispel",
+    "url": "/languages/dispel.html"
+  },
+  {
     "label": "Dribble",
     "appeared": "2003",
     "id": "dribble",
@@ -22337,6 +22373,48 @@
     "url": "/languages/dfl.html"
   },
   {
+    "label": "DIAMAG",
+    "appeared": "1966",
+    "id": "diamag",
+    "url": "/languages/diamag.html"
+  },
+  {
+    "label": "DIGRAF",
+    "appeared": "1977",
+    "id": "digraf",
+    "url": "/languages/digraf.html"
+  },
+  {
+    "label": "Diplans",
+    "appeared": "1988",
+    "id": "diplans",
+    "url": "/languages/diplans.html"
+  },
+  {
+    "label": "Distributed Processes",
+    "appeared": "1978",
+    "id": "distributed-processes",
+    "url": "/languages/distributed-processes.html"
+  },
+  {
+    "label": "DITRAN",
+    "appeared": "1967",
+    "id": "ditran",
+    "url": "/languages/ditran.html"
+  },
+  {
+    "label": "DITROFF/FFORTID",
+    "appeared": "1985",
+    "id": "ditroff-ffortid",
+    "url": "/languages/ditroff-ffortid.html"
+  },
+  {
+    "label": "DITROFF",
+    "appeared": "1982",
+    "id": "ditroff",
+    "url": "/languages/ditroff.html"
+  },
+  {
     "label": "TypeScript Type Declarations",
     "appeared": "2012",
     "id": "dts",
@@ -23431,52 +23509,10 @@
     "url": "/languages/decision-model-notation.html"
   },
   {
-    "label": "DIAMAG",
-    "appeared": "1966",
-    "id": "diamag",
-    "url": "/languages/diamag.html"
-  },
-  {
-    "label": "DIGRAF",
-    "appeared": "1977",
-    "id": "digraf",
-    "url": "/languages/digraf.html"
-  },
-  {
     "label": "DinnerBell",
     "appeared": "1990",
     "id": "dinnerbell",
     "url": "/languages/dinnerbell.html"
-  },
-  {
-    "label": "Diplans",
-    "appeared": "1988",
-    "id": "diplans",
-    "url": "/languages/diplans.html"
-  },
-  {
-    "label": "Distributed Processes",
-    "appeared": "1978",
-    "id": "distributed-processes",
-    "url": "/languages/distributed-processes.html"
-  },
-  {
-    "label": "DITRAN",
-    "appeared": "1967",
-    "id": "ditran",
-    "url": "/languages/ditran.html"
-  },
-  {
-    "label": "DITROFF/FFORTID",
-    "appeared": "1985",
-    "id": "ditroff-ffortid",
-    "url": "/languages/ditroff-ffortid.html"
-  },
-  {
-    "label": "DITROFF",
-    "appeared": "1982",
-    "id": "ditroff",
-    "url": "/languages/ditroff.html"
   },
   {
     "label": "DMAP",
@@ -27572,42 +27608,6 @@
     "appeared": "2007",
     "id": "datapackage",
     "url": "/languages/datapackage.html"
-  },
-  {
-    "label": "DIALOG",
-    "appeared": "1966",
-    "id": "dialog",
-    "url": "/languages/dialog.html"
-  },
-  {
-    "label": "DICE",
-    "appeared": "1991",
-    "id": "dice",
-    "url": "/languages/dice.html"
-  },
-  {
-    "label": "DIET",
-    "appeared": "1975",
-    "id": "diet",
-    "url": "/languages/diet.html"
-  },
-  {
-    "label": "Dipe-R",
-    "appeared": "2002",
-    "id": "dipe-r",
-    "url": "/languages/dipe-r.html"
-  },
-  {
-    "label": "DISC",
-    "appeared": "1989",
-    "id": "disc",
-    "url": "/languages/disc.html"
-  },
-  {
-    "label": "DISPEL",
-    "appeared": "1981",
-    "id": "dispel",
-    "url": "/languages/dispel.html"
   },
   {
     "label": "Distributed Smalltalk",
