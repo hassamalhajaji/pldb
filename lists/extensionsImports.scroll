@@ -122,9 +122,9 @@ replace TABLE
   Hack|../languages/hack.html|hack hh hhi php|4
   PL/SQL|../languages/pl-sql.html|pls bdy ddl fnc pck pkb pks plb plsql prc spc sql tpb tps trg vw|16
   Org|../languages/org.html|org|1
+  DOT|../languages/dot.html|dot gv|2
   Dylan|../languages/dylan.html|dylan dyl intr lid|4
   Brainfuck|../languages/brainfuck.html|b bf|2
-  DOT|../languages/dot.html|dot gv|2
   FLUX|../languages/flux.html|fx flux|2
   Fantom|../languages/fantom.html|fan|1
   Squirrel|../languages/squirrel.html|nut|1
@@ -140,8 +140,8 @@ replace TABLE
   Monkey|../languages/monkey.html|monkey monkey2|2
   Emacs Lisp|../languages/emacs-lisp.html|el emacs emacsdesktop elc|4
   AutoIt|../languages/autoit.html|au3|1
-  x86 Assembly|../languages/x86-assembly.html|s ms|2
   Nearley|../languages/nearley.html|ne nearley|2
+  x86 Assembly|../languages/x86-assembly.html|s ms|2
   Vala|../languages/vala.html|vala vapi|2
   Jison|../languages/jison.html|jison|1
   MoonScript|../languages/moonscript.html|moon|1
@@ -234,9 +234,9 @@ replace TABLE
   Gradle|../languages/gradle.html|gradle|1
   Ini|../languages/ini.html|ini cfg dof lektorproject prefs pro properties url inf .editorconfig service socket device mount automount swap target path timer slice scope|21
   B|../languages/b.html|b|1
-  AsciiDoc|../languages/asciidoc.html|asciidoc adoc asc|3
   Batchfile|../languages/batch.html|bat cmd|2
   Dafny|../languages/dafny.html|dfy|1
+  AsciiDoc|../languages/asciidoc.html|asciidoc adoc asc|3
   ERB|../languages/erb.html|erb erbdeface rhtml|3
   Dhall|../languages/dhall.html|dhall|1
   GAMS|../languages/general-algebraic-modeling-system.html|gms|1
@@ -323,8 +323,8 @@ replace TABLE
   NL|../languages/nl.html|nl|1
   PEG|../languages/peg.html|peg|1
   Dogescript|../languages/dogescript.html|djs|1
-  Closure Templates|../languages/closure-templates.html|soy|1
   Curry|../languages/curry.html|curry|1
+  Closure Templates|../languages/closure-templates.html|soy|1
   Gosu|../languages/gosu.html|gs gsp gst gsx vark|5
   OpenVera|../languages/openvera.html|vr|1
   Hierarchical Data Format|../languages/hdf.html|hdf h4 hdf4 he2 h5 hdf5 he5|7
@@ -359,9 +359,9 @@ replace TABLE
   CSON|../languages/cson.html|cson|1
   PAWN|../languages/pawn.html|pwn inc|2
   Pony|../languages/pony.html|pony|1
-  Euphoria|../languages/euphoria.html|e ex exw edb|4
   Spin|../languages/spin.html|spin|1
   SQLPL|../languages/sqlpl.html|sql db2|2
+  Euphoria|../languages/euphoria.html|e ex exw edb|4
   Uno|../languages/uno.html|uno|1
   Felix|../languages/felix.html|flx flxh|2
   Papyrus|../languages/papyrus.html|psc|1
@@ -717,13 +717,13 @@ replace TABLE
   SNBT|../languages/snbt.html|snbt|1
   SmartGameFormat|../languages/smartgameformat.html|sgf|1
   teal|../languages/teal.html|teal|1
-  D++|../languages/dpp.html|dpp dpl|2
   GSQL|../languages/gsql.html|gsql|1
   JSGF|../languages/jsgf.html|jsgf|1
   Wolfram Data Framework|../languages/wdf.html|wdf wdf.nb wdf.json|3
   Elpi|../languages/elpi.html|elpi|1
   plink-bim-format|../languages/plink-bim-format.html|bim|1
   plink-fam-format|../languages/plink-fam-format.html|fam|1
+  D++|../languages/dpp.html|dpp dpl|2
   plink-map-format|../languages/plink-map-format.html|map|1
   RQL|../languages/rql.html|rql|1
   Smithy|../languages/smithy.html|smithy|1
