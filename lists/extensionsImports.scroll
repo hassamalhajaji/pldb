@@ -24,8 +24,8 @@ replace TABLE
   Go|../languages/go.html|go|1
   Swift|../languages/swift.html|swift|1
   Ada|../languages/ada.html|adb ads ada|3
-  Scala|../languages/scala.html|scala sc kojo sbt|4
   COBOL|../languages/cobol.html|cbl cob cpy ccp cobol COB CPY|7
+  Scala|../languages/scala.html|scala sc kojo sbt|4
   PowerShell|../languages/powershell.html|ps1 psd1 psm1|3
   Rust|../languages/rust.html|rs rlib rsin rs.in|4
   Kotlin|../languages/kotlin.html|kt kts ktm|3
@@ -353,8 +353,8 @@ replace TABLE
   Glyph Bitmap Distribution Format|../languages/glyph-bitmap-distribution-format.html|bdf|1
   Dockerfile|../languages/dockerfile.html|dockerfile|1
   SubRip Text|../languages/subrip-text.html|srt|1
-  CSV|../languages/csv.html|csv|1
   beads-lang|../languages/beads-lang.html|beads|1
+  CSV|../languages/csv.html|csv|1
   CodeQL|../languages/codeql.html|ql qll|2
   CSON|../languages/cson.html|cson|1
   PAWN|../languages/pawn.html|pwn inc|2
@@ -381,8 +381,8 @@ replace TABLE
   Z shell|../languages/z-shell.html|.ZSH|1
   LookML|../languages/lookml.html|lookml modellkml viewlkml|3
   Literate CoffeeScript|../languages/literate-coffeescript.html|litcoffee coffeemd|2
-  chaiscript|../languages/chaiscript.html|chai|1
   Angelscript|../languages/angelscript.html|as angelscript|2
+  chaiscript|../languages/chaiscript.html|chai|1
   XProc|../languages/xproc.html|xpl xproc|2
   Cobra|../languages/cobra.html|cobra|1
   MQL5|../languages/mql.html|mq5 mqh mq4|3
@@ -507,10 +507,10 @@ replace TABLE
   Spline Font Database|../languages/spline-font-database.html|sfd|1
   MXML|../languages/mxml.html|mxml|1
   Lux|../languages/lux.html|lux|1
-  Sweave|../languages/sweave.html|rnw|1
   EEX|../languages/eex.html|eex htmlheex htmlleex|3
   JSX|../languages/jsx.html|jsx|1
   KRL|../languages/krl.html|krl|1
+  Sweave|../languages/sweave.html|rnw|1
   Object Rexx|../languages/object-rexx.html|rxs rex|2
   TAP|../languages/tap.html|tap|1
   1C Enterprise Script|../languages/1c-enterprise.html|bsl os|2
@@ -558,8 +558,8 @@ replace TABLE
   holyc|../languages/holyc.html|hc|1
   Snap!|../languages/snap.html|ypr ysp xml|3
   TextMate Language|../languages/tmlanguage.html|tmLanguage|1
-  Redcode|../languages/redcode.html|cw|1
   Egison|../languages/egison.html|egi|1
+  Redcode|../languages/redcode.html|cw|1
   Adobe Font Metrics|../languages/adobe-font-metrics.html|afm|1
   NWScript|../languages/nwscript.html|nss|1
   Genero Business Development Language|../languages/genero.html|4gl|1
@@ -577,6 +577,7 @@ replace TABLE
   astro|../languages/astro.html|astro|1
   Grace|../languages/grace.html|grace|1
   Kit|../languages/kit.html|kit|1
+  Uniform eXchange Format|../languages/uxf.html|uxf, ux*|2
   Soy|../languages/soy.html|soy|1
   TOM object-oriented|../languages/tom-oopl.html|t|1
   Groovy Server Pages|../languages/groovy-server-pages.html|gsp|1
@@ -604,11 +605,11 @@ replace TABLE
   LinearML|../languages/linearml.html|lml|1
   plam|../languages/plam.html|plam|1
   STON|../languages/ston.html|ston|1
+  Kal|../languages/kal.html|kal|1
   pointless|../languages/pointless.html|ptls|1
   Easytrieve|../languages/easytrieve.html|ezt mac|2
   Promela|../languages/promela.html|pml|1
   Mscgen|../languages/mscgen.html|msc|1
-  Kal|../languages/kal.html|kal|1
   TAL|../languages/tal.html|tal|1
   Zeek|../languages/zeek.html|zeek bro|2
   mint|../languages/mint.html|mint|1
@@ -630,7 +631,6 @@ replace TABLE
   CLAIRE|../languages/claire.html|cl|1
   Sugar|../languages/sugar.html|sjs|1
   ten|../languages/ten.html|ten|1
-  Uniform eXchange Format|../languages/uxf.html|uxf, ux*|2
   Urbiscript|../languages/urbiscript.html|u|1
   ca65 Assembly|../languages/ca65-assembly.html|s|1
   Linker Script|../languages/linker-script.html|ld lds x|3
