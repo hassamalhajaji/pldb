@@ -7696,16 +7696,16 @@
     "url": "/languages/nios.html"
   },
   {
-    "label": "SATySFi",
-    "appeared": "2015",
-    "id": "satysfi",
-    "url": "/languages/satysfi.html"
-  },
-  {
     "label": "HP BASIC for OpenVMS",
     "appeared": "1982",
     "id": "hp-basic-for-openvms",
     "url": "/languages/hp-basic-for-openvms.html"
+  },
+  {
+    "label": "SATySFi",
+    "appeared": "2015",
+    "id": "satysfi",
+    "url": "/languages/satysfi.html"
   },
   {
     "label": "basic calculator",
@@ -8474,12 +8474,6 @@
     "url": "/languages/xmi.html"
   },
   {
-    "label": "humanhash-hash-function",
-    "appeared": "2011",
-    "id": "humanhash-hash-function",
-    "url": "/languages/humanhash-hash-function.html"
-  },
-  {
     "label": "Lustre",
     "appeared": "1993",
     "id": "lustre",
@@ -8496,6 +8490,12 @@
     "appeared": "1993",
     "id": "nesl",
     "url": "/languages/nesl.html"
+  },
+  {
+    "label": "humanhash-hash-function",
+    "appeared": "2011",
+    "id": "humanhash-hash-function",
+    "url": "/languages/humanhash-hash-function.html"
   },
   {
     "label": "Bioconductor",
@@ -9794,6 +9794,24 @@
     "url": "/languages/topshell.html"
   },
   {
+    "label": "COMIT",
+    "appeared": "1957",
+    "id": "comit",
+    "url": "/languages/comit.html"
+  },
+  {
+    "label": "Basic4ppc",
+    "appeared": "2005",
+    "id": "basic4ppc",
+    "url": "/languages/basic4ppc.html"
+  },
+  {
+    "label": "JSL",
+    "appeared": "1989",
+    "id": "jsl",
+    "url": "/languages/jsl.html"
+  },
+  {
     "label": "Rouge",
     "appeared": "2012",
     "id": "rouge",
@@ -9900,24 +9918,6 @@
     "appeared": "1991",
     "id": "lola",
     "url": "/languages/lola.html"
-  },
-  {
-    "label": "COMIT",
-    "appeared": "1957",
-    "id": "comit",
-    "url": "/languages/comit.html"
-  },
-  {
-    "label": "Basic4ppc",
-    "appeared": "2005",
-    "id": "basic4ppc",
-    "url": "/languages/basic4ppc.html"
-  },
-  {
-    "label": "JSL",
-    "appeared": "1989",
-    "id": "jsl",
-    "url": "/languages/jsl.html"
   },
   {
     "label": "PTX",
@@ -11509,12 +11509,6 @@
     "url": "/languages/tacl.html"
   },
   {
-    "label": "Dolittle",
-    "appeared": "1952",
-    "id": "dolittle",
-    "url": "/languages/dolittle.html"
-  },
-  {
     "label": "Stockholm format",
     "appeared": "1997",
     "id": "stockholm-format",
@@ -11797,12 +11791,6 @@
     "url": "/languages/hotdog.html"
   },
   {
-    "label": "SequenceL",
-    "appeared": "1989",
-    "id": "sequencel",
-    "url": "/languages/sequencel.html"
-  },
-  {
     "label": "inko",
     "appeared": "2015",
     "id": "inko",
@@ -11843,6 +11831,12 @@
     "appeared": "2010",
     "id": "wart",
     "url": "/languages/wart.html"
+  },
+  {
+    "label": "Dolittle",
+    "appeared": "1952",
+    "id": "dolittle",
+    "url": "/languages/dolittle.html"
   },
   {
     "label": "Linotte",
@@ -11927,6 +11921,12 @@
     "appeared": "1981",
     "id": "y",
     "url": "/languages/y.html"
+  },
+  {
+    "label": "SequenceL",
+    "appeared": "1989",
+    "id": "sequencel",
+    "url": "/languages/sequencel.html"
   },
   {
     "label": "Apple ProDOS",
