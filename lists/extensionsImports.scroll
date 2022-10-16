@@ -148,8 +148,8 @@ replace TABLE
   Terra|../languages/terra.html|t|1
   TOML|../languages/toml.html|toml Pipfile poetry.lock|3
   Ballerina|../languages/ballerina.html|bal|1
-  Icon|../languages/icon.html|icon ICON|2
   Zig|../languages/zig.html|zig|1
+  Icon|../languages/icon.html|icon ICON|2
   X10|../languages/x10.html|x10|1
   Makefile|../languages/makefile.html|mak d make makefile mk mkfile Makefile Makefile.* GNUmakefile|9
   Scilab|../languages/scilab.html|sci sce tst|3
@@ -164,8 +164,8 @@ replace TABLE
   IDL|../languages/idl.html|pro dlm|2
   QML|../languages/qml.html|qml qbs|2
   Boo|../languages/boo.html|boo|1
-  Mercury|../languages/mercury.html|m moo|2
   GNU Octave|../languages/octave.html|m|1
+  Mercury|../languages/mercury.html|m moo|2
   Hy|../languages/hy.html|hy|1
   Zephir|../languages/zephir.html|zep|1
   PostCSS|../languages/postcss.html|pcss postcss|2
@@ -231,8 +231,8 @@ replace TABLE
   Modelica|../languages/modelica.html|mo|1
   RDoc|../languages/rdoc.html|rdoc|1
   LiveScript|../languages/livescript.html|ls _ls|2
-  Gradle|../languages/gradle.html|gradle|1
   Ini|../languages/ini.html|ini cfg dof lektorproject prefs pro properties url inf .editorconfig service socket device mount automount swap target path timer slice scope|21
+  Gradle|../languages/gradle.html|gradle|1
   B|../languages/b.html|b|1
   Batchfile|../languages/batch.html|bat cmd|2
   Dafny|../languages/dafny.html|dfy|1
@@ -296,16 +296,16 @@ replace TABLE
   TXL|../languages/txl.html|txl|1
   RMarkdown|../languages/rmarkdown.html|rmd qmd|2
   AspectJ|../languages/aspectj.html|aj|1
-  Parrot|../languages/parrot-vm.html|parrot|1
   Smarty|../languages/smarty.html|tpl|1
   Graph Modeling Language|../languages/graph-modeling-language.html|gml|1
-  Max|../languages/max.html|maxpat maxhelp maxproj mxt pat|5
+  Parrot|../languages/parrot-vm.html|parrot|1
   DTrace|../languages/dtrace.html|d|1
+  Max|../languages/max.html|maxpat maxhelp maxproj mxt pat|5
   Xtend|../languages/xtend.html|xtend|1
   Nu|../languages/nu.html|nu|1
   Diff|../languages/diff.html|diff patch|2
-  Ragel|../languages/ragel.html|rl|1
   Slash|../languages/slash.html|sl sla|2
+  Ragel|../languages/ragel.html|rl|1
   NSIS|../languages/nsis.html|nsi nsh|2
   muPad|../languages/mupad.html|mu|1
   Unicon|../languages/unicon.html|icn|1
@@ -397,8 +397,8 @@ replace TABLE
   BNF|../languages/bnf.html|bnf|1
   Linden Scripting Language|../languages/lsl.html|lsl lslp|2
   DIGITAL Command Language|../languages/digital-command-language.html|com|1
-  GNU Assembler|../languages/gas.html|s S|2
   GDScript|../languages/gdscript.html|gd|1
+  GNU Assembler|../languages/gas.html|s S|2
   Tea|../languages/tea.html|tea|1
   Eclipse Command Language|../languages/eclipse-command-language.html|ecl|1
   DNS Zone|../languages/zone.html|zone arpa|2
@@ -517,11 +517,11 @@ replace TABLE
   Q#|../languages/q-sharp.html|qs|1
   Module Management System|../languages/module-management-system.html|mms mmk|2
   Genshi|../languages/genshi.html|kid|1
+  spider|../languages/spider.html|spider|1
   XPages|../languages/xpages.html|xsp-config xspmetadata|2
   JSON with Comments|../languages/json-with-comments.html|jsonc code-snippets sublime-build sublime-commands sublime-completions sublime-keymap sublime-macro sublime-menu sublime-mousemap sublime-project sublime-settings sublime-theme sublime-workspace sublime_metrics sublime_session|15
   monte|../languages/monte.html|mt|1
   Rescript|../languages/rescript.html|res|1
-  spider|../languages/spider.html|spider|1
   Newspeak|../languages/newspeak.html|ns2|1
   Gentoo Ebuild|../languages/gentoo-ebuild.html|ebuild|1
   UnrealScript|../languages/unrealscript.html|uc|1
@@ -571,9 +571,9 @@ replace TABLE
   JS++|../languages/jspp.html|jspp|1
   Ligo|../languages/ligo.html|religo|1
   MXF|../languages/material-exchange-format.html|mxf|1
+  JSLT|../languages/jslt.html|jslt|1
   Pawn|../languages/pawn-scripting-language.html|pwn inc sma p|4
   epsilon|../languages/epsilon.html|eol|1
-  JSLT|../languages/jslt.html|jslt|1
   astro|../languages/astro.html|astro|1
   Grace|../languages/grace.html|grace|1
   Kit|../languages/kit.html|kit|1
@@ -732,13 +732,13 @@ replace TABLE
   PacmanConf|../languages/pacmanconf.html|pacman.conf|1
   PkgConfig|../languages/pkgconfig.html|pc|1
   plink-bed-format|../languages/plink-bed-format.html|bed|1
+  TypeScript Type Declarations|../languages/dts.html|d.ts|1
   Lighttpd configuration file|../languages/lighttpd-configuration-file.html|lighttpd.conf|1
   SquidConf|../languages/squidconf.html|squid.conf|1
   ros-msg|../languages/ros-msg.html|msg|1
   A51 Assembly|../languages/a51.html|a51|1
   C Header Files|../languages/c-headers.html|h|1
   cimfast|../languages/cimfast.html|cel|1
-  TypeScript Type Declarations|../languages/dts.html|d.ts|1
   rds-format|../languages/rds-format.html|rds|1
   dalvik-bytecode|../languages/dalvik-bytecode.html|dex|1
   npy|../languages/npy.html|npy|1
