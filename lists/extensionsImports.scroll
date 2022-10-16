@@ -285,16 +285,16 @@ replace TABLE
   Croc|../languages/croc.html|croc|1
   Stylus|../languages/stylus.html|styl|1
   K|../languages/k.html|k|1
-  EML|../languages/mbox.html|eml mbox|2
   starlark|../languages/starlark.html|bzl star|2
+  EML|../languages/mbox.html|eml mbox|2
   Latte|../languages/latte.html|latte|1
   CIL|../languages/cilk.html|cil|1
   Vim script|../languages/vim-script.html|vim vba vimrc vmb .vimrc .exrc .gvimrc _vimrc _exrc _gvimrc gvimrc|11
   FreeBASIC|../languages/freebasic.html|bi bas|2
-  DTD|../languages/dtd.html|dtd|1
   TXL|../languages/txl.html|txl|1
-  JFlex|../languages/jflex.html|flex jflex|2
+  DTD|../languages/dtd.html|dtd|1
   RMarkdown|../languages/rmarkdown.html|rmd qmd|2
+  JFlex|../languages/jflex.html|flex jflex|2
   AspectJ|../languages/aspectj.html|aj|1
   Smarty|../languages/smarty.html|tpl|1
   Graph Modeling Language|../languages/graph-modeling-language.html|gml|1
@@ -306,9 +306,9 @@ replace TABLE
   Diff|../languages/diff.html|diff patch|2
   Ragel|../languages/ragel.html|rl|1
   Slash|../languages/slash.html|sl sla|2
-  NSIS|../languages/nsis.html|nsi nsh|2
   muPad|../languages/mupad.html|mu|1
   Unicon|../languages/unicon.html|icn|1
+  NSIS|../languages/nsis.html|nsi nsh|2
   JCL|../languages/jcl.html|jcl|1
   HLSL|../languages/hlsl.html|hlsl cginc fx fxh hlsli|5
   jq|../languages/jq.html|jq|1
@@ -337,8 +337,8 @@ replace TABLE
   EBNF|../languages/ebnf.html|ebnf|1
   Inno Setup|../languages/inno-setup.html|iss isl|2
   Eagle|../languages/eagle.html|sch brd|2
-  Ren'Py|../languages/renpy.html|rpy|1
   LilyPond|../languages/lilypond.html|ly ily|2
+  Ren'Py|../languages/renpy.html|rpy|1
   Xtext|../languages/xtext.html|xtext|1
   IGOR Pro|../languages/igor-pro.html|ipf|1
   Java Properties|../languages/java-properties.html|properties|1
@@ -358,15 +358,15 @@ replace TABLE
   CodeQL|../languages/codeql.html|ql qll|2
   CSON|../languages/cson.html|cson|1
   PAWN|../languages/pawn.html|pwn inc|2
-  Pony|../languages/pony.html|pony|1
   Spin|../languages/spin.html|spin|1
   SQLPL|../languages/sqlpl.html|sql db2|2
   Euphoria|../languages/euphoria.html|e ex exw edb|4
+  Pony|../languages/pony.html|pony|1
   Uno|../languages/uno.html|uno|1
-  Felix|../languages/felix.html|flx flxh|2
   Varnish Configuration Language|../languages/vcl.html|vcl|1
   Clarion|../languages/clarion.html|clw|1
   Papyrus|../languages/papyrus.html|psc|1
+  Felix|../languages/felix.html|flx flxh|2
   X PixMap|../languages/x-pixmap.html|xpm pm|2
   X BitMap|../languages/x-bitmap.html|xbm|1
   NetLinx|../languages/netlinx.html|axserb axierb axs axi|4
@@ -386,8 +386,8 @@ replace TABLE
   Cobra|../languages/cobra.html|cobra|1
   chaiscript|../languages/chaiscript.html|chai|1
   Apex|../languages/apex.html|cls|1
-  MQL5|../languages/mql.html|mq5 mqh mq4|3
   QMake|../languages/qmake.html|pro pri|2
+  MQL5|../languages/mql.html|mq5 mqh mq4|3
   Futhark|../languages/futhark.html|fut|1
   Volt|../languages/volt.html|volt|1
   CoNLL-U|../languages/conll-u.html|conllu conll|2
@@ -410,8 +410,8 @@ replace TABLE
   Nix|../languages/nix.html|nix|1
   JSONiq|../languages/jsoniq.html|jq|1
   Cryptol|../languages/cryptol.html|cry|1
-  Easybuild|../languages/easybuild.html|eb|1
   UPC|../languages/unified-parallel-c.html|upc|1
+  Easybuild|../languages/easybuild.html|eb|1
   COLLADA|../languages/collada.html|dae|1
   Harbour|../languages/harbour.html|hb prg ch hbp|4
   Meson|../languages/meson.html|meson.build meson_options.txt|2
@@ -442,12 +442,12 @@ replace TABLE
   Edje Data Collection|../languages/edje-data-collection.html|edc|1
   Objective C++|../languages/objective-cpp.html|mm hh|2
   Blender|../languages/blender-app.html|blend|1
-  clay|../languages/clay.html|clay|1
   Slice|../languages/slice.html|ice|1
+  clay|../languages/clay.html|clay|1
   Nit|../languages/nit.html|nit|1
   Mirah|../languages/mirah.html|druby duby mirah|3
-  EmberScript|../languages/emberscript.html|em emberscript|2
   OX|../languages/ox.html|ox oxh oxo|3
+  EmberScript|../languages/emberscript.html|em emberscript|2
   gleam|../languages/gleam.html|gleam|1
   ECL|../languages/ecl.html|ecl eclxml|2
   GAP|../languages/gap.html|g gap gd gi tst|5
@@ -469,9 +469,9 @@ replace TABLE
   SMT|../languages/smt.html|smt2 smt|2
   GraphIt|../languages/graph-it.html|gt|1
   PogoScript|../languages/pogoscript.html|pogo|1
-  Sieve mail filtering language|../languages/sieve.html|sieve siv|2
   Ezhil|../languages/ezhil.html|n|1
   TI Program|../languages/ti-basic-assembly.html|8xp 8xk 8xktxt 8xptxt|4
+  Sieve mail filtering language|../languages/sieve.html|sieve siv|2
   Logtalk|../languages/logtalk.html|lgt logtalk|2
   SRecode Template|../languages/srecode-template.html|srt|1
   FreeMarker|../languages/freemarker.html|ftl|1
@@ -558,8 +558,8 @@ replace TABLE
   holyc|../languages/holyc.html|hc|1
   Snap!|../languages/snap.html|ypr ysp xml|3
   TextMate Language|../languages/tmlanguage.html|tmLanguage|1
-  Egison|../languages/egison.html|egi|1
   Redcode|../languages/redcode.html|cw|1
+  Egison|../languages/egison.html|egi|1
   Adobe Font Metrics|../languages/adobe-font-metrics.html|afm|1
   NWScript|../languages/nwscript.html|nss|1
   Genero Business Development Language|../languages/genero.html|4gl|1
@@ -574,11 +574,11 @@ replace TABLE
   Pawn|../languages/pawn-scripting-language.html|pwn inc sma p|4
   epsilon|../languages/epsilon.html|eol|1
   JSLT|../languages/jslt.html|jslt|1
-  astro|../languages/astro.html|astro|1
   Grace|../languages/grace.html|grace|1
   Kit|../languages/kit.html|kit|1
   Uniform eXchange Format|../languages/uxf.html|uxf, ux*|2
   Soy|../languages/soy.html|soy|1
+  astro|../languages/astro.html|astro|1
   TOM object-oriented|../languages/tom-oopl.html|t|1
   Groovy Server Pages|../languages/groovy-server-pages.html|gsp|1
   Augeas|../languages/augeas.html|aug|1
