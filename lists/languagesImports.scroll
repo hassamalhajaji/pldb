@@ -500,8 +500,8 @@ replace TABLE
   GLSL|../languages/glsl.html|pl|1992|494
   PL/M|../languages/pl-m.html|pl|1973|495
   Taichi|../languages/taichi.html|pl|2019|496
-  Emojicode|../languages/emojicode.html|pl|2016|497
-  mermaid|../languages/mermaid.html|textMarkup|2014|498
+  mermaid|../languages/mermaid.html|textMarkup|2014|497
+  Emojicode|../languages/emojicode.html|pl|2016|498
   RATFOR|../languages/ratfor.html|pl|1976|499
   Expect|../languages/expect.html|pl|1990|500
   UNLAMBDA|../languages/unlambda.html|pl|1999|501
@@ -673,8 +673,8 @@ replace TABLE
   Logica|../languages/logica.html|queryLanguage|2020|667
   UberScript|../languages/uberscript.html|pl|2011|668
   Mask|../languages/maskjs.html|template|2012|669
-  Caffeine|../languages/caffeine.html|pl|2012|670
-  Pop-11|../languages/pop-11.html|pl|1999|671
+  Pop-11|../languages/pop-11.html|pl|1999|670
+  Caffeine|../languages/caffeine.html|pl|2012|671
   vyper|../languages/vyper.html|pl|2016|672
   BeanShell|../languages/beanshell.html|pl|1999|673
   PIC|../languages/pic.html|textMarkup|1988|674
@@ -765,8 +765,8 @@ replace TABLE
   FreeMarker|../languages/freemarker.html|template|2000|759
   zz|../languages/zz.html|pl|2019|760
   Edje Data Collection|../languages/edje-data-collection.html|jsonFormat|2010|761
-  Real-time Transport Protocol|../languages/rtp-protocol.html|protocol|1996|762
-  ALEF|../languages/alef.html|pl|1992|763
+  ALEF|../languages/alef.html|pl|1992|762
+  Real-time Transport Protocol|../languages/rtp-protocol.html|protocol|1996|763
   Hindu-Arabic numeral system|../languages/arabic-numerals.html|numeralSystem|825|764
   checked-c|../languages/checked-c.html|pl|2015|765
   PogoScript|../languages/pogoscript.html|pl|2011|766
@@ -805,34 +805,34 @@ replace TABLE
   json-graph-format|../languages/json-graph-format.html|jsonFormat|2014|799
   mathics|../languages/mathics.html|pl|2012|800
   Hyperscript|../languages/hyperscript.html|template|2012|801
-  Epigram|../languages/epigram.html|pl|2004|802
-  GAP|../languages/gap.html|pl|1986|803
-  Jupyter Notebook|../languages/jupyter-notebook.html|jsonFormat|2014|804
-  ActiveVFP|../languages/activevfp.html|pl|2001|805
-  Impala|../languages/impala.html|queryLanguage|2012|806
-  PEARL|../languages/pearl.html|pl|1977|807
-  Please Build|../languages/please-build.html|pl|2016|808
-  EXPRESS|../languages/express.html|dataNotation|2004|809
-  mun-lang|../languages/mun-lang.html|pl|2019|810
-  Golo|../languages/golo.html|pl|2012|811
-  GCC Machine Description|../languages/gcc-machine-description.html|pl|2001|812
-  TIScript|../languages/tiscript.html|pl|2007|813
-  XHTML|../languages/xhtml.html|dataNotation|2000|814
-  Gopher|../languages/gopher-protocol.html|protocol|1991|815
-  Apache Cassandra|../languages/apache-cassandra.html|database|2021|816
-  Script.NET|../languages/ssharp.html|pl|2007|817
-  Speedcoding|../languages/speedcoding.html|pl|1953|818
-  kitten|../languages/kitten.html|pl|2012|819
-  Post Office Protocol|../languages/pop-protocol.html|protocol|1957|820
-  SmallBASIC|../languages/smallbasic.html|pl|2001|821
-  chef|../languages/chef.html|esolang|2002|822
-  SSI|../languages/ssi.html|template|2004|823
-  T|../languages/t.html|pl|1980|824
-  Google Apps Script|../languages/google-apps-script.html|pl|2009|825
-  HeLang|../languages/helang.html|pl|2022|826
-  Cesil|../languages/cesil.html|pl|1974|827
-  Shen|../languages/shen.html|pl|2011|828
-  Newick format|../languages/newick-format.html|textDataFormat|1986|829
+  GAP|../languages/gap.html|pl|1986|802
+  Jupyter Notebook|../languages/jupyter-notebook.html|jsonFormat|2014|803
+  ActiveVFP|../languages/activevfp.html|pl|2001|804
+  Impala|../languages/impala.html|queryLanguage|2012|805
+  PEARL|../languages/pearl.html|pl|1977|806
+  Please Build|../languages/please-build.html|pl|2016|807
+  EXPRESS|../languages/express.html|dataNotation|2004|808
+  mun-lang|../languages/mun-lang.html|pl|2019|809
+  Golo|../languages/golo.html|pl|2012|810
+  GCC Machine Description|../languages/gcc-machine-description.html|pl|2001|811
+  TIScript|../languages/tiscript.html|pl|2007|812
+  XHTML|../languages/xhtml.html|dataNotation|2000|813
+  Gopher|../languages/gopher-protocol.html|protocol|1991|814
+  Apache Cassandra|../languages/apache-cassandra.html|database|2021|815
+  Script.NET|../languages/ssharp.html|pl|2007|816
+  Speedcoding|../languages/speedcoding.html|pl|1953|817
+  kitten|../languages/kitten.html|pl|2012|818
+  Post Office Protocol|../languages/pop-protocol.html|protocol|1957|819
+  SmallBASIC|../languages/smallbasic.html|pl|2001|820
+  chef|../languages/chef.html|esolang|2002|821
+  SSI|../languages/ssi.html|template|2004|822
+  T|../languages/t.html|pl|1980|823
+  Google Apps Script|../languages/google-apps-script.html|pl|2009|824
+  HeLang|../languages/helang.html|pl|2022|825
+  Cesil|../languages/cesil.html|pl|1974|826
+  Shen|../languages/shen.html|pl|2011|827
+  Newick format|../languages/newick-format.html|textDataFormat|1986|828
+  Epigram|../languages/epigram.html|pl|2004|829
   IBM 1620|../languages/1620sps.html|assembly|1959|830
   Hackett|../languages/hackett.html|pl|2017|831
   Brightscript|../languages/roku-brightscript.html|pl|2010|832
@@ -926,10 +926,10 @@ replace TABLE
   sile|../languages/sile.html|textMarkup|2012|920
   AsciiMath|../languages/asciimath.html|textMarkup|2014|921
   spider|../languages/spider.html|pl|2014|922
-  MOO|../languages/moo.html|pl|1993|923
-  ColdFusion Components|../languages/coldfusion-components.html|xmlFormat|1995|924
-  GRASS|../languages/grass.html|pl|1977|925
-  MATH-MATIC|../languages/math-matic.html|pl|1957|926
+  GRASS|../languages/grass.html|pl|1977|923
+  MATH-MATIC|../languages/math-matic.html|pl|1957|924
+  MOO|../languages/moo.html|pl|1993|925
+  ColdFusion Components|../languages/coldfusion-components.html|xmlFormat|1995|926
   Earl Grey|../languages/earl-grey.html|pl|2014|927
   Typed Lua|../languages/tl.html|pl|2019|928
   hobbes|../languages/hobbes.html|pl|2017|929
@@ -1139,10 +1139,10 @@ replace TABLE
   Morfik|../languages/morfik.html|pl|2000|1133
   StarLogo|../languages/starlogo.html|pl|2008|1134
   astro|../languages/astro.html|pl|2016|1135
-  GraphML|../languages/graphml.html|xmlFormat|2001|1136
-  F|../languages/f.html|pl|1996|1137
-  Cayenne|../languages/cayenne.html|pl|1998|1138
-  rason|../languages/rason.html|pl|2015|1139
+  F|../languages/f.html|pl|1996|1136
+  Cayenne|../languages/cayenne.html|pl|1998|1137
+  rason|../languages/rason.html|pl|2015|1138
+  GraphML|../languages/graphml.html|xmlFormat|2001|1139
   Mako|../languages/mako.html|template|2006|1140
   Frink|../languages/frink.html|pl|2001|1141
   CHIP-8|../languages/chip-8.html|pl|1970|1142
@@ -1188,8 +1188,8 @@ replace TABLE
   Formatted Table|../languages/formatted-table.html|dataNotation|1990|1182
   Sketchpad|../languages/sketchpad.html|pl|1962|1183
   Scroll|../languages/scroll.html|textMarkup|2020|1184
-  [x]it!|../languages/x-it.html|dataNotation|2022|1185
-  ink-lang|../languages/ink-lang.html|pl|2019|1186
+  ink-lang|../languages/ink-lang.html|pl|2019|1185
+  [x]it!|../languages/x-it.html|dataNotation|2022|1186
   Metalang99|../languages/metalang99.html|pl|2021|1187
   VSXu|../languages/vsxu.html|visual|2004|1188
   SQF|../languages/status-quo-function.html|pl|2002|1189

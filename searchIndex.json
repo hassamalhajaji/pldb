@@ -3246,16 +3246,16 @@
     "url": "/languages/glsl.html"
   },
   {
-    "label": "Koka",
-    "appeared": "2012",
-    "id": "koka",
-    "url": "/languages/koka.html"
-  },
-  {
     "label": "mermaid",
     "appeared": "2014",
     "id": "mermaid",
     "url": "/languages/mermaid.html"
+  },
+  {
+    "label": "Koka",
+    "appeared": "2012",
+    "id": "koka",
+    "url": "/languages/koka.html"
   },
   {
     "label": "RATFOR",
@@ -5109,16 +5109,16 @@
     "url": "/languages/literate-agda.html"
   },
   {
-    "label": "Logica",
-    "appeared": "2020",
-    "id": "logica",
-    "url": "/languages/logica.html"
-  },
-  {
     "label": "ALEF",
     "appeared": "1992",
     "id": "alef",
     "url": "/languages/alef.html"
+  },
+  {
+    "label": "Logica",
+    "appeared": "2020",
+    "id": "logica",
+    "url": "/languages/logica.html"
   },
   {
     "label": "Spyder",
@@ -5433,12 +5433,6 @@
     "url": "/languages/motif-software.html"
   },
   {
-    "label": "Epigram",
-    "appeared": "2004",
-    "id": "epigram",
-    "url": "/languages/epigram.html"
-  },
-  {
     "label": "Polymorphism",
     "appeared": "1960",
     "id": "polymorphism-feature",
@@ -5605,6 +5599,12 @@
     "appeared": "1974",
     "id": "cesil",
     "url": "/languages/cesil.html"
+  },
+  {
+    "label": "Epigram",
+    "appeared": "2004",
+    "id": "epigram",
+    "url": "/languages/epigram.html"
   },
   {
     "label": "Committee on Uniform Security Identification Procedures",
@@ -6339,12 +6339,6 @@
     "url": "/languages/json-graph-format.html"
   },
   {
-    "label": "ISWIM",
-    "appeared": "1966",
-    "id": "iswim",
-    "url": "/languages/iswim.html"
-  },
-  {
     "label": "GRASS",
     "appeared": "1977",
     "id": "grass",
@@ -6355,6 +6349,12 @@
     "appeared": "1957",
     "id": "math-matic",
     "url": "/languages/math-matic.html"
+  },
+  {
+    "label": "ISWIM",
+    "appeared": "1966",
+    "id": "iswim",
+    "url": "/languages/iswim.html"
   },
   {
     "label": "FP",
@@ -7173,16 +7173,16 @@
     "url": "/languages/module-management-system.html"
   },
   {
-    "label": "Asterisk",
-    "appeared": "1999",
-    "id": "asterisk",
-    "url": "/languages/asterisk.html"
-  },
-  {
     "label": "Glicol",
     "appeared": "2020",
     "id": "glicol",
     "url": "/languages/glicol.html"
+  },
+  {
+    "label": "Asterisk",
+    "appeared": "1999",
+    "id": "asterisk",
+    "url": "/languages/asterisk.html"
   },
   {
     "label": "MurmurHash",
@@ -9000,16 +9000,16 @@
     "url": "/languages/union-types-feature.html"
   },
   {
-    "label": "GraphML",
-    "appeared": "2001",
-    "id": "graphml",
-    "url": "/languages/graphml.html"
-  },
-  {
     "label": "ink-lang",
     "appeared": "2019",
     "id": "ink-lang",
     "url": "/languages/ink-lang.html"
+  },
+  {
+    "label": "GraphML",
+    "appeared": "2001",
+    "id": "graphml",
+    "url": "/languages/graphml.html"
   },
   {
     "label": "Groovy Server Pages",

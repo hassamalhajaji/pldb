@@ -545,8 +545,8 @@ replace TABLE
   CWL|../languages/common-workflow-language.html|pl|2014|539
   Cg|../languages/cg.html|pl|2003|540
   GLSL|../languages/glsl.html|pl|1992|541
-  Koka|../languages/koka.html|pl|2012|542
-  mermaid|../languages/mermaid.html|textMarkup|2014|543
+  mermaid|../languages/mermaid.html|textMarkup|2014|542
+  Koka|../languages/koka.html|pl|2012|543
   RATFOR|../languages/ratfor.html|pl|1976|544
   PL/M|../languages/pl-m.html|pl|1973|545
   FASTA|../languages/fasta-format.html|textDataFormat|2004|546
@@ -856,8 +856,8 @@ replace TABLE
   BlitzMax|../languages/blitzmax.html|pl|2014|850
   Jasmin|../languages/jasmin.html|pl|1997|851
   Literate Agda|../languages/literate-agda.html|pl|2009|852
-  Logica|../languages/logica.html|queryLanguage|2020|853
-  ALEF|../languages/alef.html|pl|1992|854
+  ALEF|../languages/alef.html|pl|1992|853
+  Logica|../languages/logica.html|queryLanguage|2020|854
   Spyder|../languages/spyder-editor.html|editor|2009|855
   UberScript|../languages/uberscript.html|pl|2011|856
   Caffeine|../languages/caffeine.html|pl|2012|857
@@ -910,35 +910,35 @@ replace TABLE
   ohm|../languages/ohm.html|grammarLanguage|2014|904
   Ante|../languages/ante.html|pl|2015|905
   Motif|../languages/motif-software.html|pl|1989|906
-  Epigram|../languages/epigram.html|pl|2004|907
-  Polymorphism|../languages/polymorphism-feature.html|feature|1960|908
-  HFS Plus|../languages/hfs-plus.html|filesystem|1998|909
-  JRuby|../languages/jruby.html|pl|2001|910
-  Binary notation|../languages/binary-notation.html|notation|1689|911
-  Stripe company|../languages/stripe.html|webApi|2011|912
-  AsciiDots|../languages/asciidots.html|esolang|2017|913
-  SMIL|../languages/synchronized-multimedia-integration-language.html|pl|1997|914
-  skip|../languages/skip.html|pl|2018|915
-  gleam|../languages/gleam.html|pl|2016|916
-  GAP|../languages/gap.html|pl|1986|917
-  Jupyter Notebook|../languages/jupyter-notebook.html|jsonFormat|2014|918
-  ActiveVFP|../languages/activevfp.html|pl|2001|919
-  FM broadcasting|../languages/fm-standard.html|standard|1950|920
-  ArkScript|../languages/arkscript.html|pl|2019|921
-  Atari BASIC|../languages/atari-basic.html|pl|1983|922
-  UCSD Pascal|../languages/ucsd-pascal.html|pl|1978|923
-  Applesoft BASIC|../languages/applesoft-basic.html|pl|1979|924
-  T|../languages/t.html|pl|1980|925
-  TI-BASIC|../languages/ti-basic.html|pl|1970|926
-  GCC Machine Description|../languages/gcc-machine-description.html|pl|2001|927
-  UCL|../languages/ucl.html|dataNotation|2013|928
-  SugarSS|../languages/sugarss.html|textMarkup|2016|929
-  Whiley|../languages/whiley.html|pl|2009|930
-  Melody|../languages/melody.html|pl|2022|931
-  Stan|../languages/stan.html|pl|2012|932
-  Golo|../languages/golo.html|pl|2012|933
-  chef|../languages/chef.html|esolang|2002|934
-  Cesil|../languages/cesil.html|pl|1974|935
+  Polymorphism|../languages/polymorphism-feature.html|feature|1960|907
+  HFS Plus|../languages/hfs-plus.html|filesystem|1998|908
+  JRuby|../languages/jruby.html|pl|2001|909
+  Binary notation|../languages/binary-notation.html|notation|1689|910
+  Stripe company|../languages/stripe.html|webApi|2011|911
+  AsciiDots|../languages/asciidots.html|esolang|2017|912
+  SMIL|../languages/synchronized-multimedia-integration-language.html|pl|1997|913
+  skip|../languages/skip.html|pl|2018|914
+  gleam|../languages/gleam.html|pl|2016|915
+  GAP|../languages/gap.html|pl|1986|916
+  Jupyter Notebook|../languages/jupyter-notebook.html|jsonFormat|2014|917
+  ActiveVFP|../languages/activevfp.html|pl|2001|918
+  FM broadcasting|../languages/fm-standard.html|standard|1950|919
+  ArkScript|../languages/arkscript.html|pl|2019|920
+  Atari BASIC|../languages/atari-basic.html|pl|1983|921
+  UCSD Pascal|../languages/ucsd-pascal.html|pl|1978|922
+  Applesoft BASIC|../languages/applesoft-basic.html|pl|1979|923
+  T|../languages/t.html|pl|1980|924
+  TI-BASIC|../languages/ti-basic.html|pl|1970|925
+  GCC Machine Description|../languages/gcc-machine-description.html|pl|2001|926
+  UCL|../languages/ucl.html|dataNotation|2013|927
+  SugarSS|../languages/sugarss.html|textMarkup|2016|928
+  Whiley|../languages/whiley.html|pl|2009|929
+  Melody|../languages/melody.html|pl|2022|930
+  Stan|../languages/stan.html|pl|2012|931
+  Golo|../languages/golo.html|pl|2012|932
+  chef|../languages/chef.html|esolang|2002|933
+  Cesil|../languages/cesil.html|pl|1974|934
+  Epigram|../languages/epigram.html|pl|2004|935
   Committee on Uniform Security Identification Procedures|../languages/cusip.html|schema|1968|936
   SHA-3|../languages/sha-3-hash-function.html|hashFunction|2015|937
   chisel|../languages/chisel.html|hardwareDescriptionLanguage|2015|938
@@ -1061,9 +1061,9 @@ replace TABLE
   kitten|../languages/kitten.html|pl|2012|1055
   Post Office Protocol|../languages/pop-protocol.html|protocol|1957|1056
   json-graph-format|../languages/json-graph-format.html|jsonFormat|2014|1057
-  ISWIM|../languages/iswim.html|pl|1966|1058
-  GRASS|../languages/grass.html|pl|1977|1059
-  MATH-MATIC|../languages/math-matic.html|pl|1957|1060
+  GRASS|../languages/grass.html|pl|1977|1058
+  MATH-MATIC|../languages/math-matic.html|pl|1957|1059
+  ISWIM|../languages/iswim.html|pl|1966|1060
   FP|../languages/fp.html|pl|1977|1061
   Script.NET|../languages/ssharp.html|pl|2007|1062
   MOO|../languages/moo.html|pl|1993|1063
@@ -1200,8 +1200,8 @@ replace TABLE
   Xbasic|../languages/xbasic.html|pl|1988|1194
   exkited|../languages/exkited.html|template|2018|1195
   Module Management System|../languages/module-management-system.html|pl|2005|1196
-  Asterisk|../languages/asterisk.html|application|1999|1197
-  Glicol|../languages/glicol.html|musicalNotation|2020|1198
+  Glicol|../languages/glicol.html|musicalNotation|2020|1197
+  Asterisk|../languages/asterisk.html|application|1999|1198
   MurmurHash|../languages/murmur-hash-function.html|hashFunction|2008|1199
   Sinclair BASIC|../languages/sinclair-basic.html|pl|1979|1200
   Earl Grey|../languages/earl-grey.html|pl|2014|1201
@@ -1505,8 +1505,8 @@ replace TABLE
   Oak|../languages/oak.html|pl|1991|1499
   CHIP-8|../languages/chip-8.html|pl|1970|1500
   Union Types|../languages/union-types-feature.html|feature|2004|1501
-  GraphML|../languages/graphml.html|xmlFormat|2001|1502
-  ink-lang|../languages/ink-lang.html|pl|2019|1503
+  ink-lang|../languages/ink-lang.html|pl|2019|1502
+  GraphML|../languages/graphml.html|xmlFormat|2001|1503
   Groovy Server Pages|../languages/groovy-server-pages.html|template|2008|1504
   Thue|../languages/thue-programming-language.html|esolang|2004|1505
   silk|../languages/silk.html|pl|2019|1506

@@ -854,8 +854,8 @@ replace TOP_500
   GLSL|../languages/glsl.html|1992|pl|494
   PL/M|../languages/pl-m.html|1973|pl|495
   Taichi|../languages/taichi.html|2019|pl|496
-  Emojicode|../languages/emojicode.html|2016|pl|497
-  mermaid|../languages/mermaid.html|2014|textMarkup|498
+  mermaid|../languages/mermaid.html|2014|textMarkup|497
+  Emojicode|../languages/emojicode.html|2016|pl|498
   RATFOR|../languages/ratfor.html|1976|pl|499
   Expect|../languages/expect.html|1990|pl|500
 replace TOP_1000
@@ -1357,8 +1357,8 @@ replace TOP_1000
   GLSL|../languages/glsl.html|1992|pl|494
   PL/M|../languages/pl-m.html|1973|pl|495
   Taichi|../languages/taichi.html|2019|pl|496
-  Emojicode|../languages/emojicode.html|2016|pl|497
-  mermaid|../languages/mermaid.html|2014|textMarkup|498
+  mermaid|../languages/mermaid.html|2014|textMarkup|497
+  Emojicode|../languages/emojicode.html|2016|pl|498
   RATFOR|../languages/ratfor.html|1976|pl|499
   Expect|../languages/expect.html|1990|pl|500
   UNLAMBDA|../languages/unlambda.html|1999|pl|501
@@ -1530,8 +1530,8 @@ replace TOP_1000
   Logica|../languages/logica.html|2020|queryLanguage|667
   UberScript|../languages/uberscript.html|2011|pl|668
   Mask|../languages/maskjs.html|2012|template|669
-  Caffeine|../languages/caffeine.html|2012|pl|670
-  Pop-11|../languages/pop-11.html|1999|pl|671
+  Pop-11|../languages/pop-11.html|1999|pl|670
+  Caffeine|../languages/caffeine.html|2012|pl|671
   vyper|../languages/vyper.html|2016|pl|672
   BeanShell|../languages/beanshell.html|1999|pl|673
   PIC|../languages/pic.html|1988|textMarkup|674
@@ -1622,8 +1622,8 @@ replace TOP_1000
   FreeMarker|../languages/freemarker.html|2000|template|759
   zz|../languages/zz.html|2019|pl|760
   Edje Data Collection|../languages/edje-data-collection.html|2010|jsonFormat|761
-  Real-time Transport Protocol|../languages/rtp-protocol.html|1996|protocol|762
-  ALEF|../languages/alef.html|1992|pl|763
+  ALEF|../languages/alef.html|1992|pl|762
+  Real-time Transport Protocol|../languages/rtp-protocol.html|1996|protocol|763
   Hindu-Arabic numeral system|../languages/arabic-numerals.html|825|numeralSystem|764
   checked-c|../languages/checked-c.html|2015|pl|765
   PogoScript|../languages/pogoscript.html|2011|pl|766
@@ -1662,34 +1662,34 @@ replace TOP_1000
   json-graph-format|../languages/json-graph-format.html|2014|jsonFormat|799
   mathics|../languages/mathics.html|2012|pl|800
   Hyperscript|../languages/hyperscript.html|2012|template|801
-  Epigram|../languages/epigram.html|2004|pl|802
-  GAP|../languages/gap.html|1986|pl|803
-  Jupyter Notebook|../languages/jupyter-notebook.html|2014|jsonFormat|804
-  ActiveVFP|../languages/activevfp.html|2001|pl|805
-  Impala|../languages/impala.html|2012|queryLanguage|806
-  PEARL|../languages/pearl.html|1977|pl|807
-  Please Build|../languages/please-build.html|2016|pl|808
-  EXPRESS|../languages/express.html|2004|dataNotation|809
-  mun-lang|../languages/mun-lang.html|2019|pl|810
-  Golo|../languages/golo.html|2012|pl|811
-  GCC Machine Description|../languages/gcc-machine-description.html|2001|pl|812
-  TIScript|../languages/tiscript.html|2007|pl|813
-  XHTML|../languages/xhtml.html|2000|dataNotation|814
-  Gopher|../languages/gopher-protocol.html|1991|protocol|815
-  Apache Cassandra|../languages/apache-cassandra.html|2021|database|816
-  Script.NET|../languages/ssharp.html|2007|pl|817
-  Speedcoding|../languages/speedcoding.html|1953|pl|818
-  kitten|../languages/kitten.html|2012|pl|819
-  Post Office Protocol|../languages/pop-protocol.html|1957|protocol|820
-  SmallBASIC|../languages/smallbasic.html|2001|pl|821
-  chef|../languages/chef.html|2002|esolang|822
-  SSI|../languages/ssi.html|2004|template|823
-  T|../languages/t.html|1980|pl|824
-  Google Apps Script|../languages/google-apps-script.html|2009|pl|825
-  HeLang|../languages/helang.html|2022|pl|826
-  Cesil|../languages/cesil.html|1974|pl|827
-  Shen|../languages/shen.html|2011|pl|828
-  Newick format|../languages/newick-format.html|1986|textDataFormat|829
+  GAP|../languages/gap.html|1986|pl|802
+  Jupyter Notebook|../languages/jupyter-notebook.html|2014|jsonFormat|803
+  ActiveVFP|../languages/activevfp.html|2001|pl|804
+  Impala|../languages/impala.html|2012|queryLanguage|805
+  PEARL|../languages/pearl.html|1977|pl|806
+  Please Build|../languages/please-build.html|2016|pl|807
+  EXPRESS|../languages/express.html|2004|dataNotation|808
+  mun-lang|../languages/mun-lang.html|2019|pl|809
+  Golo|../languages/golo.html|2012|pl|810
+  GCC Machine Description|../languages/gcc-machine-description.html|2001|pl|811
+  TIScript|../languages/tiscript.html|2007|pl|812
+  XHTML|../languages/xhtml.html|2000|dataNotation|813
+  Gopher|../languages/gopher-protocol.html|1991|protocol|814
+  Apache Cassandra|../languages/apache-cassandra.html|2021|database|815
+  Script.NET|../languages/ssharp.html|2007|pl|816
+  Speedcoding|../languages/speedcoding.html|1953|pl|817
+  kitten|../languages/kitten.html|2012|pl|818
+  Post Office Protocol|../languages/pop-protocol.html|1957|protocol|819
+  SmallBASIC|../languages/smallbasic.html|2001|pl|820
+  chef|../languages/chef.html|2002|esolang|821
+  SSI|../languages/ssi.html|2004|template|822
+  T|../languages/t.html|1980|pl|823
+  Google Apps Script|../languages/google-apps-script.html|2009|pl|824
+  HeLang|../languages/helang.html|2022|pl|825
+  Cesil|../languages/cesil.html|1974|pl|826
+  Shen|../languages/shen.html|2011|pl|827
+  Newick format|../languages/newick-format.html|1986|textDataFormat|828
+  Epigram|../languages/epigram.html|2004|pl|829
   IBM 1620|../languages/1620sps.html|1959|assembly|830
   Hackett|../languages/hackett.html|2017|pl|831
   Brightscript|../languages/roku-brightscript.html|2010|pl|832
@@ -1783,10 +1783,10 @@ replace TOP_1000
   sile|../languages/sile.html|2012|textMarkup|920
   AsciiMath|../languages/asciimath.html|2014|textMarkup|921
   spider|../languages/spider.html|2014|pl|922
-  MOO|../languages/moo.html|1993|pl|923
-  ColdFusion Components|../languages/coldfusion-components.html|1995|xmlFormat|924
-  GRASS|../languages/grass.html|1977|pl|925
-  MATH-MATIC|../languages/math-matic.html|1957|pl|926
+  GRASS|../languages/grass.html|1977|pl|923
+  MATH-MATIC|../languages/math-matic.html|1957|pl|924
+  MOO|../languages/moo.html|1993|pl|925
+  ColdFusion Components|../languages/coldfusion-components.html|1995|xmlFormat|926
   Earl Grey|../languages/earl-grey.html|2014|pl|927
   Typed Lua|../languages/tl.html|2019|pl|928
   hobbes|../languages/hobbes.html|2017|pl|929
