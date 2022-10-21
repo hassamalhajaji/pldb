@@ -9270,16 +9270,16 @@
     "url": "/languages/forest-lang.html"
   },
   {
-    "label": "Sketchpad",
-    "appeared": "1962",
-    "id": "sketchpad",
-    "url": "/languages/sketchpad.html"
-  },
-  {
     "label": "POP-2",
     "appeared": "1967",
     "id": "pop-2",
     "url": "/languages/pop-2.html"
+  },
+  {
+    "label": "Sketchpad",
+    "appeared": "1962",
+    "id": "sketchpad",
+    "url": "/languages/sketchpad.html"
   },
   {
     "label": "High Level Assembly",
@@ -10056,12 +10056,6 @@
     "url": "/languages/quicklisp-pm.html"
   },
   {
-    "label": "Interchange File Format",
-    "appeared": "1985",
-    "id": "interchange-file-format",
-    "url": "/languages/interchange-file-format.html"
-  },
-  {
     "label": "Executive Systems Problem Oriented Language",
     "appeared": "1967",
     "id": "espol",
@@ -10072,6 +10066,12 @@
     "appeared": "1970",
     "id": "euclid",
     "url": "/languages/euclid.html"
+  },
+  {
+    "label": "Interchange File Format",
+    "appeared": "1985",
+    "id": "interchange-file-format",
+    "url": "/languages/interchange-file-format.html"
   },
   {
     "label": "Bython",
@@ -10787,16 +10787,16 @@
     "url": "/languages/newp.html"
   },
   {
-    "label": "Functional PHP Preprocessor",
-    "appeared": "2018",
-    "id": "fpp",
-    "url": "/languages/fpp.html"
-  },
-  {
     "label": "EXEC 2",
     "appeared": "1970",
     "id": "exec-2",
     "url": "/languages/exec-2.html"
+  },
+  {
+    "label": "Functional PHP Preprocessor",
+    "appeared": "2018",
+    "id": "fpp",
+    "url": "/languages/fpp.html"
   },
   {
     "label": "SDTM",
@@ -27221,6 +27221,12 @@
     "url": "/languages/zgrass.html"
   },
   {
+    "label": "zish",
+    "appeared": "2017",
+    "id": "zish",
+    "url": "/languages/zish.html"
+  },
+  {
     "label": "1.pak",
     "appeared": "1973",
     "id": "1-pak",
@@ -28828,11 +28834,5 @@
     "appeared": "1978",
     "id": "zed",
     "url": "/languages/zed.html"
-  },
-  {
-    "label": "zish",
-    "appeared": "2017",
-    "id": "zish",
-    "url": "/languages/zish.html"
   }
 ]
