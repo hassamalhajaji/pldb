@@ -984,16 +984,16 @@
     "url": "/languages/drupal.html"
   },
   {
-    "label": "JVM",
-    "appeared": "1994",
-    "id": "jvm",
-    "url": "/languages/jvm.html"
-  },
-  {
     "label": "Standard ML",
     "appeared": "1990",
     "id": "standard-ml",
     "url": "/languages/standard-ml.html"
+  },
+  {
+    "label": "JVM",
+    "appeared": "1994",
+    "id": "jvm",
+    "url": "/languages/jvm.html"
   },
   {
     "label": "PL/SQL",
@@ -11823,6 +11823,12 @@
     "url": "/languages/hotdog.html"
   },
   {
+    "label": "SequenceL",
+    "appeared": "1989",
+    "id": "sequencel",
+    "url": "/languages/sequencel.html"
+  },
+  {
     "label": "Beta BASIC",
     "appeared": "1983",
     "id": "beta-basic",
@@ -11833,12 +11839,6 @@
     "appeared": "1980",
     "id": "spice-lisp",
     "url": "/languages/spice-lisp.html"
-  },
-  {
-    "label": "SequenceL",
-    "appeared": "1989",
-    "id": "sequencel",
-    "url": "/languages/sequencel.html"
   },
   {
     "label": "inko",
@@ -14538,6 +14538,12 @@
     "url": "/languages/post-canonical-system.html"
   },
   {
+    "label": "Agilent VEE",
+    "appeared": "1991",
+    "id": "keysight-vee",
+    "url": "/languages/keysight-vee.html"
+  },
+  {
     "label": "AlphaBasic",
     "appeared": "1976",
     "id": "alphabasic",
@@ -14554,12 +14560,6 @@
     "appeared": "1968",
     "id": "tymshare-superbasic",
     "url": "/languages/tymshare-superbasic.html"
-  },
-  {
-    "label": "Agilent VEE",
-    "appeared": "1991",
-    "id": "keysight-vee",
-    "url": "/languages/keysight-vee.html"
   },
   {
     "label": "Structured Product Labeling",
@@ -14758,6 +14758,12 @@
     "appeared": "2019",
     "id": "eskew",
     "url": "/languages/eskew.html"
+  },
+  {
+    "label": "aretext",
+    "appeared": "2020",
+    "id": "aretext",
+    "url": "/languages/aretext.html"
   },
   {
     "label": "Serious",
