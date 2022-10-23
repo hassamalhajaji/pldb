@@ -1,6 +1,6 @@
 importOnly
 replace EXTENSION_COUNT
- 1,542
+ 1,543
 replace TABLE
  pipeTable
   name|nameLink|extensions|numberOfExtensions
@@ -212,21 +212,21 @@ replace TABLE
   Csound|../languages/csound.html|csd sco orc udo|4
   Factor|../languages/factor.html|factor|1
   Perl 6|../languages/perl-6.html|6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t|11
-  ClojureScript|../languages/clojurescript.html|cljs|1
   Xojo|../languages/xojo.html|xojo_code xojo_menu xojo_report xojo_script xojo_toolbar xojo_window|6
+  ClojureScript|../languages/clojurescript.html|cljs|1
   Turtle|../languages/turtle.html|ttl|1
   Sass|../languages/sass.html|sass scss|2
   NetLogo|../languages/netlogo.html|nlogo nlogo3d nls|3
   Lex|../languages/lex.html|l lex|2
   AGC|../languages/apollo-guidance-computer.html|agc|1
-  Gnuplot|../languages/gnuplot.html|gp gnu gnuplot p plot plt|6
   FoxPRO|../languages/foxpro.html|PRG prg|2
+  Gnuplot|../languages/gnuplot.html|gp gnu gnuplot p plot plt|6
   Wren|../languages/wren.html|wren|1
   E|../languages/e.html|e|1
   odin|../languages/odin.html|odin|1
   Wavefront Object|../languages/wavefront-object.html|obj|1
-  YARA|../languages/yara.html|yar yara|2
   Alloy|../languages/alloy.html|als|1
+  YARA|../languages/yara.html|yar yara|2
   Ioke|../languages/ioke.html|ik|1
   Modelica|../languages/modelica.html|mo|1
   RDoc|../languages/rdoc.html|rdoc|1
@@ -309,6 +309,7 @@ replace TABLE
   muPad|../languages/mupad.html|mu|1
   Slash|../languages/slash.html|sl sla|2
   JCL|../languages/jcl.html|jcl|1
+  Fennel|../languages/fennel.html|fnl|1
   NSIS|../languages/nsis.html|nsi nsh|2
   HLSL|../languages/hlsl.html|hlsl cginc fx fxh hlsli|5
   jq|../languages/jq.html|jq|1
@@ -317,7 +318,6 @@ replace TABLE
   XSLT|../languages/xslt.html|xslt xsl xpl|3
   mlir|../languages/mlir.html|mlir|1
   SIL|../languages/swift-il.html|sil|1
-  Fennel|../languages/fennel.html|fnl|1
   NL|../languages/nl.html|nl|1
   beef-lang|../languages/beef.html|bf|1
   Gerber Image|../languages/gerber-image.html|gbr cmp gbl gbo gbp gbs gko gml gpb gpt gtl gto gtp gts ncl sol|16
@@ -363,11 +363,11 @@ replace TABLE
   PAWN|../languages/pawn.html|pwn inc|2
   Pony|../languages/pony.html|pony|1
   Uno|../languages/uno.html|uno|1
+  Felix|../languages/felix.html|flx flxh|2
   Clarion|../languages/clarion.html|clw|1
   Varnish Configuration Language|../languages/vcl.html|vcl|1
   X PixMap|../languages/x-pixmap.html|xpm pm|2
   Papyrus|../languages/papyrus.html|psc|1
-  Felix|../languages/felix.html|flx flxh|2
   X BitMap|../languages/x-bitmap.html|xbm|1
   NetLinx|../languages/netlinx.html|axserb axierb axs axi|4
   P4|../languages/p4.html|p4|1
@@ -459,8 +459,8 @@ replace TABLE
   Stan|../languages/stan.html|stan|1
   Shen|../languages/shen.html|shen|1
   Brightscript|../languages/roku-brightscript.html|brs|1
-  Ch|../languages/chuck.html|ck|1
   SCSS|../languages/scss.html|sass scss|2
+  Ch|../languages/chuck.html|ck|1
   Cycript|../languages/cycript.html|cy|1
   Fancy|../languages/fancy.html|fy fancypack|2
   winxed|../languages/winxed.html|winxed|1
@@ -494,9 +494,9 @@ replace TABLE
   Parrot Assembly|../languages/parrot-assembly.html|pasm|1
   Smiles|../languages/smiles-format.html|smi|1
   M4Sugar|../languages/m4sugar.html|m4|1
-  Opal|../languages/opal.html|opal|1
   Cypher Query Language|../languages/cypher.html|cyp cypher|2
   Programming Language for Business|../languages/plb.html|rl ps cb|3
+  Opal|../languages/opal.html|opal|1
   HiveQL|../languages/hiveql.html|q hql|2
   XC|../languages/xc.html|xc|1
   Jison Lex|../languages/jison-lex.html|jisonlex|1
@@ -699,6 +699,7 @@ replace TABLE
   Autoconf|../languages/autoconf.html|ac|1
   Bizubee|../languages/bizubee.html|jsl|1
   RigC|../languages/rigc.html|rigc|1
+  Fern|../languages/fern.html|https://github.com/Spencer-Comin/Fern/issues|1
   Freefem|../languages/freefem.html|edp|1
   Pickle|../languages/pickle-format.html|pkl|1
   Nasal|../languages/nasal.html|nas|1
@@ -745,4 +746,4 @@ replace TABLE
   proverif-lang|../languages/proverif-lang.html|pv|1
   rdata-format|../languages/rdata-format.html|Rdata rdata rda RData|4
 replace LANG_WITH_DATA_COUNT
- 740
+ 741
