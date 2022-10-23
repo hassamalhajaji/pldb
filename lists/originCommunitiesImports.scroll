@@ -157,8 +157,8 @@ replace TABLE
   <a name='https://github.com/edn-format' />https://github.com/edn-format|<a href='../languages/edn.html'>EDN</a>|1
   <a name='Red_Hat' />Red Hat|<a href='../languages/ceylon.html'>Ceylon</a>|1
   <a name='Radboud_University_Nijmegen' />Radboud University Nijmegen|<a href='../languages/clean.html'>Clean</a>|1
-  <a name='StataCorp' />StataCorp|<a href='../languages/stata.html'>Stata</a>|1
   <a name='Synopsys' />Synopsys|<a href='../languages/systemverilog.html'>SystemVerilog</a>|1
+  <a name='StataCorp' />StataCorp|<a href='../languages/stata.html'>Stata</a>|1
   <a name='_International_Federation_for_Information_Processing' /> International Federation for Information Processing|<a href='../languages/algol-60.html'>ALGOL 60</a>|1
   <a name='https://github.com/sagemath' />https://github.com/sagemath|<a href='../languages/cython.html'>Cython</a>|1
   <a name='HashiCorp' />HashiCorp|<a href='../languages/hcl.html'>HCL</a>|1
@@ -167,12 +167,14 @@ replace TABLE
   <a name='API_Blueprint' />API Blueprint|<a href='../languages/api-blueprint.html'>API Blueprint</a>|1
   <a name='Deno_Land_Inc' />Deno Land Inc|<a href='../languages/deno.html'>Deno</a>|1
   <a name='Business_Process_Management_Initiative_and_Object_Management_Group' />Business Process Management Initiative and Object Management Group|<a href='../languages/bpmn.html'>BPMN</a>|1
+  <a name='Ecere_Corporation' />Ecere Corporation|<a href='../languages/ec.html'>eC</a>|1
   <a name='https://github.com/clojure' />https://github.com/clojure|<a href='../languages/clojurescript.html'>ClojureScript</a>|1
   <a name='Tufts_University' />Tufts University|<a href='../languages/c--.html'>C--</a>|1
-  <a name='Stanford_Research_Institute' />Stanford Research Institute|<a href='../languages/dns.html'>DNS</a>|1
   <a name='Autodesk_and_Basis_Software' />Autodesk and Basis Software|<a href='../languages/autolisp.html'>AutoLISP</a>|1
+  <a name='Stanford_Research_Institute' />Stanford Research Institute|<a href='../languages/dns.html'>DNS</a>|1
   <a name='https://github.com/factor' />https://github.com/factor|<a href='../languages/factor.html'>Factor</a>|1
   <a name='MathWorks' />MathWorks|<a href='../languages/simulink.html'>Simulink</a>|1
+  <a name='Manas_Technology_Solutions' />Manas Technology Solutions|<a href='../languages/ecr.html'>Embedded Crystal</a>|1
   <a name='https://github.com/dhall-lang' />https://github.com/dhall-lang|<a href='../languages/dhall.html'>Dhall</a>|1
   <a name='RSA_Laboratories' />RSA Laboratories|<a href='../languages/base64.html'>Base64</a>|1
   <a name='Combex,_Inc.' />Combex, Inc.|<a href='../languages/e.html'>E</a>|1
@@ -195,21 +197,20 @@ replace TABLE
   <a name='National_Center_for_Biotechnology_Information_and_University_of_Virginia' />National Center for Biotechnology Information and University of Virginia|<a href='../languages/fasta-format.html'>FASTA</a>|1
   <a name='https://github.com/dogescript' />https://github.com/dogescript|<a href='../languages/dogescript.html'>Dogescript</a>|1
   <a name='https://github.com/enso-org' />https://github.com/enso-org|<a href='../languages/enso.html'>Enso</a>|1
-  <a name='https://github.com/cue-lang' />https://github.com/cue-lang|<a href='../languages/cuelang.html'>Cue</a>|1
   <a name='https://github.com/witheve' />https://github.com/witheve|<a href='../languages/eve.html'>Eve</a>|1
+  <a name='https://github.com/cue-lang' />https://github.com/cue-lang|<a href='../languages/cuelang.html'>Cue</a>|1
   <a name='beefytech' />beefytech|<a href='../languages/beef.html'>beef-lang</a>|1
   <a name='https://www.patreon.com/tonsky' />https://www.patreon.com/tonsky|<a href='../languages/datascript.html'>datascript</a>|1
   <a name='Coalson_LLC' />Coalson LLC|<a href='../languages/bbcode.html'>BBCode</a>|1
   <a name='Qualcomm' />Qualcomm|<a href='../languages/hexagon.html'>Qualcomm Hexagon</a>|1
   <a name='INRIA' />INRIA|<a href='../languages/caml.html'>Caml</a>|1
   <a name='Soviet_space_program' />Soviet space program|<a href='../languages/drakon.html'>DRAKON</a>|1
-  <a name='Ecere_Corporation' />Ecere Corporation|<a href='../languages/ec.html'>eC</a>|1
   <a name='Association_for_Computing_Machinery_and_Gesellschaft_für_Angewandte_Mathematik_und_Mechanik' />Association for Computing Machinery and Gesellschaft für Angewandte Mathematik und Mechanik|<a href='../languages/algol-58.html'>ALGOL 58</a>|1
   <a name='https://github.com/DynamoDS' />https://github.com/DynamoDS|<a href='../languages/dynamo-visual-language.html'>dynamo-visual-language</a>|1
   <a name='https://github.com/carp-lang' />https://github.com/carp-lang|<a href='../languages/carp.html'>carp</a>|1
-  <a name='University_of_Kiel' />University of Kiel|<a href='../languages/curry.html'>Curry</a>|1
   <a name='www.tcl.tk/community/coreteam' />www.tcl.tk/community/coreteam|<a href='../languages/expect.html'>Expect</a>|1
   <a name='Scandinavian_School_of_object-_orientation' />Scandinavian School of object- orientation|<a href='../languages/beta.html'>BETA</a>|1
+  <a name='University_of_Kiel' />University of Kiel|<a href='../languages/curry.html'>Curry</a>|1
   <a name='https://github.com/emojicode' />https://github.com/emojicode|<a href='../languages/emojicode.html'>Emojicode</a>|1
   <a name='felix-language@googlegroups.com' />felix-language@googlegroups.com|<a href='../languages/felix.html'>Felix</a>|1
   <a name='https://bevry.me/' />https://bevry.me/|<a href='../languages/cson.html'>CSON</a>|1
@@ -219,6 +220,7 @@ replace TABLE
   <a name='http://www.xml.org/xml-dev/' />http://www.xml.org/xml-dev/|<a href='../languages/ddml.html'>DDML</a>|1
   <a name='OASIS' />OASIS|<a href='../languages/bpel.html'>BPEL</a>|1
   <a name='GitHub' />GitHub|<a href='../languages/codeql.html'>CodeQL</a>|1
+  <a name='Rapid_Deployment_Software' />Rapid Deployment Software|<a href='../languages/euphoria.html'>Euphoria</a>|1
   <a name='JPMorgan_Chase' />JPMorgan Chase|<a href='../languages/amqp.html'>Advanced Message Queuing Protocol</a>|1
   <a name='Curl,_Inc_and__Sumisho_Computer_Systems_Corp_and_SCSK_Corporation' />Curl, Inc and  Sumisho Computer Systems Corp and SCSK Corporation|<a href='../languages/curl.html'>Curl</a>|1
   <a name='Edward_de_Jong' />Edward de Jong|<a href='../languages/beads-lang.html'>beads-lang</a>|1
@@ -227,7 +229,6 @@ replace TABLE
   <a name='International_Symposium_on_Wikis' />International Symposium on Wikis|<a href='../languages/creole.html'>Creole</a>|1
   <a name='Librascope_company' />Librascope company|<a href='../languages/act-iii.html'>ACT-III</a>|1
   <a name='System_Development_Corporation' />System Development Corporation|<a href='../languages/jovial.html'>JOVIAL</a>|1
-  <a name='Rapid_Deployment_Software' />Rapid Deployment Software|<a href='../languages/euphoria.html'>Euphoria</a>|1
   <a name='University_of_Cambridge_and_University_of_London' />University of Cambridge and University of London|<a href='../languages/cpl.html'>CPL</a>|1
   <a name='OpenAI' />OpenAI|<a href='../languages/triton.html'>Triton</a>|1
   <a name='https://github.com/ChaiScript' />https://github.com/ChaiScript|<a href='../languages/chaiscript.html'>chaiscript</a>|1
@@ -250,11 +251,11 @@ replace TABLE
   <a name='ReScript_Association' />ReScript Association|<a href='../languages/bucklescript.html'>Bucklescript</a>|1
   <a name='Western_University' />Western University|<a href='../languages/aldor.html'>Aldor</a>|1
   <a name='BYOND_Software' />BYOND Software|<a href='../languages/dm.html'>DM</a>|1
-  <a name='https://github.com/ghempton/ember-script/issues' />https://github.com/ghempton/ember-script/issues|<a href='../languages/emberscript.html'>EmberScript</a>|1
   <a name='Cobra_Language_LLC' />Cobra Language LLC|<a href='../languages/cobra.html'>Cobra</a>|1
+  <a name='https://github.com/ghempton/ember-script/issues' />https://github.com/ghempton/ember-script/issues|<a href='../languages/emberscript.html'>EmberScript</a>|1
   <a name='https://claylabs.com/' />https://claylabs.com/|<a href='../languages/clay.html'>clay</a>|1
-  <a name='UPC_Consortium' />UPC Consortium|<a href='../languages/unified-parallel-c.html'>UPC</a>|1
   <a name='codinghorror.com_and_github_and_University_of_California,Berkeley' />codinghorror.com and github and University of California,Berkeley|<a href='../languages/commonmark.html'>commonmark</a>|1
+  <a name='UPC_Consortium' />UPC Consortium|<a href='../languages/unified-parallel-c.html'>UPC</a>|1
   <a name='https://www.disnetdev.com/' />https://www.disnetdev.com/|<a href='../languages/contracts.coffee.html'>contracts.coffee</a>|1
   <a name='Paiq_BV' />Paiq BV|<a href='../languages/blackcoffee.html'>BlackCoffee</a>|1
   <a name='https://github.com/ich' />https://github.com/ich|<a href='../languages/caffeine.html'>Caffeine</a>|1
@@ -306,16 +307,16 @@ replace TABLE
   <a name='https://github.com/olofson' />https://github.com/olofson|<a href='../languages/extensible-embeddable-language.html'>Extensible Embeddable Language</a>|1
   <a name='https://github.com/fable-compiler' />https://github.com/fable-compiler|<a href='../languages/fable-lang.html'>Fable</a>|1
   <a name='Altera' />Altera|<a href='../languages/nios.html'>Nios II</a>|1
-  <a name='Sage-Code' />Sage-Code|<a href='../languages/bee.html'>bee</a>|1
   <a name='The_C3_Language_Project' />The C3 Language Project|<a href='../languages/c3.html'>c3</a>|1
+  <a name='Sage-Code' />Sage-Code|<a href='../languages/bee.html'>bee</a>|1
   <a name='Parallax,_Inc.' />Parallax, Inc.|<a href='../languages/basic-stamp.html'>BASIC Stamp</a>|1
   <a name='Neo4j' />Neo4j|<a href='../languages/cypher.html'>Cypher Query Language</a>|1
   <a name='https://github.com/curv3d' />https://github.com/curv3d|<a href='../languages/curv.html'>curv</a>|1
   <a name='The_University_of_Texas_at_Austin' />The University of Texas at Austin|<a href='../languages/acl2.html'>ACL2</a>|1
   <a name='Fluid_Analogies_Research_Group' />Fluid Analogies Research Group|<a href='../languages/bloop.html'>BlooP</a>|1
   <a name='https://github.com/violent-es/violent-es' />https://github.com/violent-es/violent-es|<a href='../languages/violent-es.html'>Violent ES</a>|1
-  <a name='Disney' />Disney|<a href='../languages/etoys.html'>Etoys</a>|1
   <a name='Royal_Signals_and_Radar_Establishment' />Royal Signals and Radar Establishment|<a href='../languages/ella-programming-language.html'>ELLA</a>|1
+  <a name='Disney' />Disney|<a href='../languages/etoys.html'>Etoys</a>|1
   <a name='Elixir_Team' />Elixir Team|<a href='../languages/eex.html'>EEX</a>|1
   <a name='https://abstractmachines.dev' />https://abstractmachines.dev|<a href='../languages/caramel.html'>Caramel</a>|1
   <a name='https://github.com/Rohansi/Mond' />https://github.com/Rohansi/Mond|<a href='../languages/mond.html'>Mond</a>|1
@@ -337,12 +338,11 @@ replace TABLE
   <a name='Engineering_at_Meta' />Engineering at Meta|<a href='../languages/cir.html'>CIR</a>|1
   <a name='Computer_Sciences_Corporation' />Computer Sciences Corporation|<a href='../languages/fact.html'>Fully Automated Compiling Technique</a>|1
   <a name='Internet_Engineering_Task_Force' />Internet Engineering Task Force|<a href='../languages/bare.html'>BARE</a>|1
-  <a name='Nintendo_Co.,_Ltd_and_Sharp_Corporation_and_Hudson_Soft_Co.,_Ltd' />Nintendo Co., Ltd and Sharp Corporation and Hudson Soft Co., Ltd|<a href='../languages/family-basic.html'>Family BASIC</a>|1
   <a name='A_school_in_Denmark' />A school in Denmark|<a href='../languages/comal.html'>COMAL</a>|1
+  <a name='Nintendo_Co.,_Ltd_and_Sharp_Corporation_and_Hudson_Soft_Co.,_Ltd' />Nintendo Co., Ltd and Sharp Corporation and Hudson Soft Co., Ltd|<a href='../languages/family-basic.html'>Family BASIC</a>|1
   <a name='Cadence_Design_Systems,_Inc' />Cadence Design Systems, Inc|<a href='../languages/cadence-skill.html'>Cadence SKILL</a>|1
   <a name='https://github.com/AdeptLanguage/' />https://github.com/AdeptLanguage/|<a href='../languages/adept.html'>Adept</a>|1
   <a name='CSV_on_the_Web_Working_Group_and_CSV_on_the_Web_Community_Group' />CSV on the Web Working Group and CSV on the Web Community Group|<a href='../languages/csvw.html'>CSVw</a>|1
-  <a name='Manas_Technology_Solutions' />Manas Technology Solutions|<a href='../languages/ecr.html'>Embedded Crystal</a>|1
   <a name='RCA_Corporation' />RCA Corporation|<a href='../languages/chip-8.html'>CHIP-8</a>|1
   <a name='https://github.com/open-numbers/' />https://github.com/open-numbers/|<a href='../languages/ddfql.html'>ddfql</a>|1
   <a name='The_Avail_Foundation,_LLC' />The Avail Foundation, LLC|<a href='../languages/avail.html'>Avail</a>|1
@@ -431,12 +431,12 @@ replace TABLE
   <a name='quuxLogic_Solutions_GmbH' />quuxLogic Solutions GmbH|<a href='../languages/elymas.html'>elymas</a>|1
   <a name='_Dataindustrier_AB' /> Dataindustrier AB|<a href='../languages/abc-80.html'>ABC 80</a>|1
   <a name='Bull's_Software-Haus' />Bull's Software-Haus|<a href='../languages/aplusplus.html'>A++</a>|1
-  <a name='https://github.com/somebody1234' />https://github.com/somebody1234|<a href='../languages/charcoal.html'>Charcoal</a>|1
   <a name='https://github.com/candy-lang/' />https://github.com/candy-lang/|<a href='../languages/candy.html'>Candy</a>|1
   <a name='Pontifical_Catholic_University_of_Rio_de_Janeiro' />Pontifical Catholic University of Rio de Janeiro|<a href='../languages/ceu.html'>Céu</a>|1
   <a name='University_of_Amsterdam' />University of Amsterdam|<a href='../languages/bla.html'>Bla</a>|1
   <a name='Terrastruct,_Inc' />Terrastruct, Inc|<a href='../languages/d2.html'>D2</a>|1
   <a name='http://strlen.com' />http://strlen.com|<a href='../languages/false.html'>False</a>|1
+  <a name='https://github.com/somebody1234' />https://github.com/somebody1234|<a href='../languages/charcoal.html'>Charcoal</a>|1
   <a name='Daisy_Systems_Corporation' />Daisy Systems Corporation|<a href='../languages/daisy-systems.html'>Daisy Systems</a>|1
   <a name='MetaComCo' />MetaComCo|<a href='../languages/atari-st-basic.html'>Atari ST BASIC</a>|1
   <a name='University_of_Wisconsin_-_Madison_and_The_Boeing_Company' />University of Wisconsin - Madison and The Boeing Company|<a href='../languages/augment.html'>Augment</a>|1
@@ -444,8 +444,8 @@ replace TABLE
   <a name='MU_software_development' />MU software development|<a href='../languages/ca65-assembly.html'>ca65 Assembly</a>|1
   <a name='École_des_Mines_de_Saint-Étienne' />École des Mines de Saint-Étienne|<a href='../languages/ctalk-lang.html'>ctalk-lang</a>|1
   <a name='BetaSoft' />BetaSoft|<a href='../languages/beta-basic.html'>Beta BASIC</a>|1
-  <a name='https://github.com/combinatorylogic/' />https://github.com/combinatorylogic/|<a href='../languages/clike.html'>clike</a>|1
   <a name='Borland_Software_Corporation_and_Embarcadero_Technologies' />Borland Software Corporation and Embarcadero Technologies|<a href='../languages/codegear-delphi.html'>CodeGear Delphi</a>|1
+  <a name='https://github.com/combinatorylogic/' />https://github.com/combinatorylogic/|<a href='../languages/clike.html'>clike</a>|1
   <a name='https://github.com/dllu' />https://github.com/dllu|<a href='../languages/dllup.html'>dllup</a>|1
   <a name='www.solutionscreative.com' />www.solutionscreative.com|<a href='../languages/dashrep.html'>Dashrep</a>|1
   <a name='Carnegie_Mellon_University_and_University_of_Southern_California' />Carnegie Mellon University and University of Southern California|<a href='../languages/acme.html'>Acme</a>|1
@@ -470,8 +470,8 @@ replace TABLE
   <a name='JackBe_Corporation' />JackBe Corporation|<a href='../languages/enterprise-mashup-markup-language.html'>Enterprise Mashup Markup Language</a>|1
   <a name='Linaro_Limited' />Linaro Limited|<a href='../languages/devicetree.html'>Devicetree</a>|1
   <a name='Massachusetts_Institute_of_Technology_and_IBM' />Massachusetts Institute of Technology and IBM|<a href='../languages/dynamo.html'>DYNAMO</a>|1
-  <a name='FastTrack_Software' />FastTrack Software|<a href='../languages/fasttrack-scripting-host.html'>FastTrack Scripting Host</a>|1
   <a name='Corman_Technologies' />Corman Technologies|<a href='../languages/corman-common-lisp.html'>Corman Common Lisp</a>|1
+  <a name='FastTrack_Software' />FastTrack Software|<a href='../languages/fasttrack-scripting-host.html'>FastTrack Scripting Host</a>|1
   <a name='Manx_Software_Systems' />Manx Software Systems|<a href='../languages/aztec-c.html'>Aztec C</a>|1
   <a name='Data_General_Corporation' />Data General Corporation|<a href='../languages/data-general-business-basic.html'>Data General Business Basic</a>|1
   <a name='https://github.com/manuel' />https://github.com/manuel|<a href='../languages/edgelisp.html'>edgelisp</a>|1
@@ -545,6 +545,7 @@ replace TABLE
   <a name='Control_Data_Corporation' />Control Data Corporation|<a href='../languages/cybil.html'>CYBIL</a>|1
   <a name='https://github.com/emeraldlang' />https://github.com/emeraldlang|<a href='../languages/emerald-lang.html'>emerald-lang</a>|1
   <a name='Textuality_Services,_Inc.' />Textuality Services, Inc.|<a href='../languages/json-url.html'>json->url</a>|1
+  <a name='https://cerus.dev' />https://cerus.dev|<a href='../languages/edina.html'>Edina</a>|1
   <a name='https://github.com/proprowataya' />https://github.com/proprowataya|<a href='../languages/calc4.html'>Calc4</a>|1
   <a name='https://willbanders.dev' />https://willbanders.dev|<a href='../languages/eskew.html'>eskew</a>|1
   <a name='https://6gu.nz/' />https://6gu.nz/|<a href='../languages/6gunz.html'>6gunz</a>|1
@@ -625,7 +626,6 @@ replace TABLE
   <a name='Corel_Corporation' />Corel Corporation|<a href='../languages/corelscript.html'>CorelScript</a>|1
   <a name='https://github.com/ctalk' />https://github.com/ctalk|<a href='../languages/ctalk.html'>ctalk</a>|1
   <a name='https://github.com/douglascrockford' />https://github.com/douglascrockford|<a href='../languages/dec64.html'>dec64</a>|1
-  <a name='https://cerus.dev' />https://cerus.dev|<a href='../languages/edina.html'>Edina</a>|1
   <a name='Epic_Games' />Epic Games|<a href='../languages/blueprints.html'>Blueprints</a>|1
   <a name='terra_informatica_and_deeptown' />terra informatica and deeptown|<a href='../languages/c-smile.html'>c-smile</a>|1
   <a name='https://github.com/chaos-lang' />https://github.com/chaos-lang|<a href='../languages/chaos-lang.html'>chaos-lang</a>|1
