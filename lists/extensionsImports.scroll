@@ -346,8 +346,8 @@ replace TABLE
   Java Properties|../languages/java-properties.html|properties|1
   Zip file format|../languages/zip-format.html|zip|1
   PIR|../languages/parrot-internal-representation.html|pir|1
-  RUNOFF|../languages/runoff.html|rnh rno|2
   CFML|../languages/cfml.html|cfm cfc|2
+  RUNOFF|../languages/runoff.html|rnh rno|2
   CWEB|../languages/cweb.html|w|1
   Velocity|../languages/apache-velocity.html|vm fhtml|2
   Euphoria|../languages/euphoria.html|e ex exw edb|4
@@ -358,12 +358,12 @@ replace TABLE
   Glyph Bitmap Distribution Format|../languages/glyph-bitmap-distribution-format.html|bdf|1
   CSV|../languages/csv.html|csv|1
   CodeQL|../languages/codeql.html|ql qll|2
-  Spin|../languages/spin.html|spin|1
   CSON|../languages/cson.html|cson|1
+  Spin|../languages/spin.html|spin|1
   SQLPL|../languages/sqlpl.html|sql db2|2
   PAWN|../languages/pawn.html|pwn inc|2
-  Uno|../languages/uno.html|uno|1
   Pony|../languages/pony.html|pony|1
+  Uno|../languages/uno.html|uno|1
   Clarion|../languages/clarion.html|clw|1
   Felix|../languages/felix.html|flx flxh|2
   Varnish Configuration Language|../languages/vcl.html|vcl|1
@@ -382,15 +382,15 @@ replace TABLE
   BBC BASIC|../languages/bbc-basic.html|bbc|1
   Z shell|../languages/z-shell.html|.ZSH|1
   Literate CoffeeScript|../languages/literate-coffeescript.html|litcoffee coffeemd|2
-  Angelscript|../languages/angelscript.html|as angelscript|2
   XProc|../languages/xproc.html|xpl xproc|2
   Cobra|../languages/cobra.html|cobra|1
+  Angelscript|../languages/angelscript.html|as angelscript|2
   Apex|../languages/apex.html|cls|1
   QMake|../languages/qmake.html|pro pri|2
   chaiscript|../languages/chaiscript.html|chai|1
+  Futhark|../languages/futhark.html|fut|1
   Volt|../languages/volt.html|volt|1
   CoNLL-U|../languages/conll-u.html|conllu conll|2
-  Futhark|../languages/futhark.html|fut|1
   Asymptote|../languages/asymptote.html|asy|1
   DM|../languages/dm.html|dm dmf|2
   MQL5|../languages/mql.html|mq5 mqh mq4|3
@@ -398,9 +398,9 @@ replace TABLE
   DIGITAL Command Language|../languages/digital-command-language.html|com|1
   NCAR Command Language|../languages/ncl.html|ncl|1
   BNF|../languages/bnf.html|bnf|1
+  GNU Assembler|../languages/gas.html|s S|2
   GDScript|../languages/gdscript.html|gd|1
   Eclipse Command Language|../languages/eclipse-command-language.html|ecl|1
-  GNU Assembler|../languages/gas.html|s S|2
   Tea|../languages/tea.html|tea|1
   Filebench WML|../languages/filebench-wml.html|f|1
   PIC|../languages/pic.html|pic chem|2
@@ -426,16 +426,16 @@ replace TABLE
   Yorick|../languages/yorick.html|i|1
   RenderScript|../languages/renderscript.html|rs rsh|2
   contracts.coffee|../languages/contracts.coffee.html|coffee|1
-  ToffeeScript|../languages/toffeescript.html|toffee|1
   OpenSCAD|../languages/openscad.html|scad|1
+  ToffeeScript|../languages/toffeescript.html|toffee|1
   BlackCoffee|../languages/blackcoffee.html|coffee|1
   Jasmin|../languages/jasmin.html|j|1
   Literate Agda|../languages/literate-agda.html|lagda|1
   heap.coffee|../languages/heap.coffee.html|coffee|1
   Mu|../languages/mu.html|mu|1
   UberScript|../languages/uberscript.html|coffee|1
-  Caffeine|../languages/caffeine.html|coffee|1
   BlitzMax|../languages/blitzmax.html|bmx|1
+  Caffeine|../languages/caffeine.html|coffee|1
   Game Maker Language|../languages/game-maker-language.html|gml|1
   vyper|../languages/vyper.html|vy|1
   Edje Data Collection|../languages/edje-data-collection.html|edc|1
@@ -443,8 +443,8 @@ replace TABLE
   ooc|../languages/ooc.html|ooc|1
   Objective C++|../languages/objective-cpp.html|mm hh|2
   Slice|../languages/slice.html|ice|1
-  Blender|../languages/blender-app.html|blend|1
   EmberScript|../languages/emberscript.html|em emberscript|2
+  Blender|../languages/blender-app.html|blend|1
   clay|../languages/clay.html|clay|1
   Nit|../languages/nit.html|nit|1
   Mirah|../languages/mirah.html|druby duby mirah|3
