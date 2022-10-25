@@ -9280,12 +9280,6 @@
     "url": "/languages/go-bang.html"
   },
   {
-    "label": "POP-2",
-    "appeared": "1967",
-    "id": "pop-2",
-    "url": "/languages/pop-2.html"
-  },
-  {
     "label": "Scroll",
     "appeared": "2020",
     "id": "scroll",
@@ -9302,6 +9296,12 @@
     "appeared": "1999",
     "id": "kid",
     "url": "/languages/kid.html"
+  },
+  {
+    "label": "POP-2",
+    "appeared": "1967",
+    "id": "pop-2",
+    "url": "/languages/pop-2.html"
   },
   {
     "label": "forest-lang",
@@ -10078,6 +10078,12 @@
     "url": "/languages/ston.html"
   },
   {
+    "label": "quicklisp-pm",
+    "appeared": "2010",
+    "id": "quicklisp-pm",
+    "url": "/languages/quicklisp-pm.html"
+  },
+  {
     "label": "Executive Systems Problem Oriented Language",
     "appeared": "1967",
     "id": "espol",
@@ -10088,12 +10094,6 @@
     "appeared": "1970",
     "id": "euclid",
     "url": "/languages/euclid.html"
-  },
-  {
-    "label": "quicklisp-pm",
-    "appeared": "2010",
-    "id": "quicklisp-pm",
-    "url": "/languages/quicklisp-pm.html"
   },
   {
     "label": "Interchange File Format",
@@ -10312,16 +10312,16 @@
     "url": "/languages/theos-multi-user-basic.html"
   },
   {
-    "label": "Edinburgh IMP",
-    "appeared": "2002",
-    "id": "edinburgh-imp",
-    "url": "/languages/edinburgh-imp.html"
-  },
-  {
     "label": "Jeeves",
     "appeared": "2013",
     "id": "jeeves",
     "url": "/languages/jeeves.html"
+  },
+  {
+    "label": "Edinburgh IMP",
+    "appeared": "2002",
+    "id": "edinburgh-imp",
+    "url": "/languages/edinburgh-imp.html"
   },
   {
     "label": "Structured Query Reporter",
@@ -11133,12 +11133,6 @@
     "url": "/languages/george.html"
   },
   {
-    "label": "SP/k",
-    "appeared": "1974",
-    "id": "sp-k",
-    "url": "/languages/sp-k.html"
-  },
-  {
     "label": "WinWrap Basic",
     "appeared": "1993",
     "id": "winwrap-basic",
@@ -11155,6 +11149,12 @@
     "appeared": "2015",
     "id": "sporth",
     "url": "/languages/sporth.html"
+  },
+  {
+    "label": "SP/k",
+    "appeared": "1974",
+    "id": "sp-k",
+    "url": "/languages/sp-k.html"
   },
   {
     "label": "CBASIC",
@@ -12495,6 +12495,18 @@
     "url": "/languages/fortran-90.html"
   },
   {
+    "label": "IBM BASIC",
+    "appeared": "1981",
+    "id": "ibm-basic",
+    "url": "/languages/ibm-basic.html"
+  },
+  {
+    "label": "Augment",
+    "appeared": "1974",
+    "id": "augment",
+    "url": "/languages/augment.html"
+  },
+  {
     "label": "SIGNAL",
     "appeared": "1982",
     "id": "signal",
@@ -12535,18 +12547,6 @@
     "appeared": "2007",
     "id": "nexml",
     "url": "/languages/nexml.html"
-  },
-  {
-    "label": "IBM BASIC",
-    "appeared": "1981",
-    "id": "ibm-basic",
-    "url": "/languages/ibm-basic.html"
-  },
-  {
-    "label": "Augment",
-    "appeared": "1974",
-    "id": "augment",
-    "url": "/languages/augment.html"
   },
   {
     "label": "Run BASIC",
@@ -13454,6 +13454,12 @@
     "url": "/languages/adamant.html"
   },
   {
+    "label": "flua",
+    "appeared": "2012",
+    "id": "flua",
+    "url": "/languages/flua.html"
+  },
+  {
     "label": "HCard",
     "appeared": "2009",
     "id": "hcard",
@@ -13730,6 +13736,12 @@
     "url": "/languages/txtzyme.html"
   },
   {
+    "label": "typecobol",
+    "appeared": "2015",
+    "id": "typecobol",
+    "url": "/languages/typecobol.html"
+  },
+  {
     "label": "ABSET",
     "appeared": "1969",
     "id": "abset",
@@ -13806,12 +13818,6 @@
     "appeared": "2006",
     "id": "todotxt",
     "url": "/languages/todotxt.html"
-  },
-  {
-    "label": "typecobol",
-    "appeared": "2015",
-    "id": "typecobol",
-    "url": "/languages/typecobol.html"
   },
   {
     "label": "Alternate Instruction Set",
@@ -14580,24 +14586,6 @@
     "url": "/languages/keysight-vee.html"
   },
   {
-    "label": "AlphaBasic",
-    "appeared": "1976",
-    "id": "alphabasic",
-    "url": "/languages/alphabasic.html"
-  },
-  {
-    "label": "PS-algol",
-    "appeared": "1981",
-    "id": "ps-algol",
-    "url": "/languages/ps-algol.html"
-  },
-  {
-    "label": "Tymshare SuperBasic",
-    "appeared": "1968",
-    "id": "tymshare-superbasic",
-    "url": "/languages/tymshare-superbasic.html"
-  },
-  {
     "label": "Structured Product Labeling",
     "appeared": "2004",
     "id": "spl",
@@ -14656,6 +14644,24 @@
     "appeared": "1967",
     "id": "flex-lang",
     "url": "/languages/flex-lang.html"
+  },
+  {
+    "label": "AlphaBasic",
+    "appeared": "1976",
+    "id": "alphabasic",
+    "url": "/languages/alphabasic.html"
+  },
+  {
+    "label": "PS-algol",
+    "appeared": "1981",
+    "id": "ps-algol",
+    "url": "/languages/ps-algol.html"
+  },
+  {
+    "label": "Tymshare SuperBasic",
+    "appeared": "1968",
+    "id": "tymshare-superbasic",
+    "url": "/languages/tymshare-superbasic.html"
   },
   {
     "label": "Rexon",
@@ -18872,12 +18878,6 @@
     "appeared": "1998",
     "id": "xql-lang",
     "url": "/languages/xql-lang.html"
-  },
-  {
-    "label": "flua",
-    "appeared": "2012",
-    "id": "flua",
-    "url": "/languages/flua.html"
   },
   {
     "label": "multihash-hash-function",
